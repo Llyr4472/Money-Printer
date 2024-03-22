@@ -40,8 +40,7 @@ def to_csv(stock):
 def sort(stock):
     if stock is not Stock:
         stock = Stock(stock)
-    file_path = f"data/{stock.symbol.replace('/','∕')}.csv"
-    df = pd.read_csv(file_path)
+    df = pd.read_csv(stock.file)
     df_sorted = df.sort_values(by='date', ascending=True)
     if(not df.equals(df_sorted)):
         df_sorted.to_csv(file_path, index=False)
