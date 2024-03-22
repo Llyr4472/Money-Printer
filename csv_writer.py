@@ -44,7 +44,8 @@ def sort(stock):
     df = pd.read_csv(file_path)
     df_sorted = df.sort_values(by='date', ascending=True)
     if(not df.equals(df_sorted)):
-        df.to_csv(file_path, index=False)
+        df_sorted.to_csv(file_path, index=False)
+        print(f"{stock.symbol}.csv sorted")
 
 if __name__ == "__main__":
     endpoint = '/data/companies.json'
