@@ -4,6 +4,7 @@ from talipp.indicators import EMA
 
 
 stock = Stock(input("Stock: "))
+df = pd.read_csv(stock.file)
 
 emas_used = [3,5,8,10,12,15,30,35,40,45,50,60]
 for ema in emas_used:
