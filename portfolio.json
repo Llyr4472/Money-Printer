@@ -3,8 +3,8 @@
     "owner": "Llyr4472",
     "creation_date": "2024-03-22",
     "available_funds": 10000,
+    "reserved": 0,
     "portfolio_value": 0,
-    "assets": [
-    ] 
-  }
-  
+    "assets": [],
+    "orders": []
+}
