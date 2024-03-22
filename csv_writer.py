@@ -1,23 +1,41 @@
 from Stock import *
+from pathlib import Path
 import csv
+import pandas as pd
+from datetime import datetime,timedelta
 
 
 def to_csv(stock):
     if stock is not Stock:
         stock = Stock(stock)
-    data = stock.get_data()
+#    data = stock.get_data()
 
-    with open(f"data/{stock.symbol.replace('/','∕')}.csv",'w',newline='') as f:
+    file_path = f"data/{stock.symbol.replace('/','∕')}.csv"
+
+    if(Path(file_path).exists()):
+        df = pd.read_csv(file_path)
+        start_date = datetime.strptime(df.iloc[-1]['date'], '%Y-%m-%d') + timedelta(days=1)# Start from the day after the last date
+        data = stock.get_data(start_date=start_date)
+
+    else:
+        with open(file_path,'w',newline='') as f:
+            writer = csv.writer(f)
+            
+            # Write header row
+            writer.writerow(["date", "max", "min", "close", "prevclose", "diff", "numtrans", "tradedshares", "amount"])
+            print(f"{stock.symbol}.csv created")
+        data = stock.get_data()
+
+    # If no new data end process
+    if not data: return
+    
+    #write data
+    with  open(file_path,'a',newline='') as f:
         writer = csv.writer(f)
-        
-        # Write header row
-        writer.writerow(["date", "max", "min", "close", "prevclose", "diff", "numtrans", "tradedshares", "amount"])
-        
-        # Write data rows
         for date, info in data.items():
             price_info = info["price"]
             writer.writerow([date, price_info["max"], price_info["min"], price_info["close"], price_info["prevClose"], price_info["diff"], info["numTrans"], info["tradedShares"], info["amount"]])
-        print(f"{stock.symbol}.csv dumped")
+        print(f"{stock.symbol}.csv updated")
 
 if __name__ == "__main__":
     endpoint = '/data/companies.json'
