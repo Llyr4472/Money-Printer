@@ -1,5 +1,6 @@
 import json
 import requests
+from datetime import datetime
 
 base_url = "https://github.com/the-value-crew/nepse-api/tree/master"
 
@@ -7,18 +8,33 @@ class Stock:
     def __init__(self,symbol):
         self.symbol = symbol.upper()
         self.id, self.name = self.company()
+    
+    def __call__(self):
+        return self.symbol
 
     def company(self):
         endpoint = "/data/companies.json"
         data = request_json(endpoint)[self.symbol]
         return data["id"],data["name"]
     
-    def get_data(self,date=None):
+    def get_data(self,start_date=None,end_date=None):
         endpoint = f"/data/company/{self.symbol.replace('/','∕')}.json"
         data = request_json(endpoint)
-        if not date:
+        
+        if not start_date and not end_date:
             return data
-        return data[date]
+        
+        if not end_date:
+            start_date = datetime.strptime(start_date, '%Y-%m-%d')
+            return {date: values for date, values in data.items() if start_date <= datetime.strptime(date, '%Y-%m-%d')}
+
+        if not start_date:
+            end_date = datetime.strptime(end_date, '%Y-%m-%d')
+            return {date: values for date, values in data.items() if datetime.strptime(date, '%Y-%m-%d') <= end_date}
+
+        end_date = datetime.strptime(end_date, '%Y-%m-%d')        
+        start_date = datetime.strptime(start_date, '%Y-%m-%d')
+        return {date: values for date, values in data.items() if start_date <= datetime.strptime(date, '%Y-%m-%d') <= end_date}
 
 def request_json(endpoint):
     url = base_url + endpoint
@@ -35,3 +51,4 @@ def dump(data):
 if __name__ == '__main__':
     stock = Stock("akjcl")
     print(stock.name)
+    dump(stock.get_data(start_date='2024-1-1',end_date='2024-3-10'))
