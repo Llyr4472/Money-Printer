@@ -37,9 +37,19 @@ def to_csv(stock):
             writer.writerow([date, price_info["max"], price_info["min"], price_info["close"], price_info["prevClose"], price_info["diff"], info["numTrans"], info["tradedShares"], info["amount"]])
         print(f"{stock.symbol}.csv updated")
 
+def sort(stock):
+    if stock is not Stock:
+        stock = Stock(stock)
+    file_path = f"data/{stock.symbol.replace('/','∕')}.csv"
+    df = pd.read_csv(file_path)
+    df_sorted = df.sort_values(by='date', ascending=True)
+    if(not df.equals(df_sorted)):
+        df.to_csv(file_path, index=False)
+
 if __name__ == "__main__":
     endpoint = '/data/companies.json'
     data = request_json(endpoint)
     for symbol , _ in data.items():
         to_csv(symbol)
+        sort(symbol)
     print("All csv dumped successfully")
