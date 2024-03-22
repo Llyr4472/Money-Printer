@@ -47,9 +47,7 @@ def sort(stock):
         print(f"{stock.symbol}.csv sorted")
 
 if __name__ == "__main__":
-    endpoint = '/data/companies.json'
-    data = request_json(endpoint)
-    for symbol , _ in data.items():
+    for symbol in COMPANIES:
         to_csv(symbol)
         sort(symbol)
     print("All csv dumped successfully")
