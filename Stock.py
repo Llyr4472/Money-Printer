@@ -8,6 +8,7 @@ class Stock:
     def __init__(self,symbol):
         self.symbol = symbol.upper()
         self.id, self.name = self.company()
+        self.file = f"data/{self.symbol.replace('/','∕')}.csv"
     
     def __call__(self):
         return self.symbol
