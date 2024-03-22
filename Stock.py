@@ -25,15 +25,15 @@ class Stock:
             return data
         
         if not end_date:
-            start_date = datetime.strptime(start_date, '%Y-%m-%d')
+            if not isinstance(start_date, datetime):start_date = datetime.strptime(start_date, '%Y-%m-%d')
             return {date: values for date, values in data.items() if start_date <= datetime.strptime(date, '%Y-%m-%d')}
 
         if not start_date:
-            end_date = datetime.strptime(end_date, '%Y-%m-%d')
+            if not isinstance(end_date, datetime):end_date = datetime.strptime(end_date, '%Y-%m-%d')
             return {date: values for date, values in data.items() if datetime.strptime(date, '%Y-%m-%d') <= end_date}
 
-        end_date = datetime.strptime(end_date, '%Y-%m-%d')        
-        start_date = datetime.strptime(start_date, '%Y-%m-%d')
+        if not isinstance(start_date, datetime):start_date = datetime.strptime(start_date, '%Y-%m-%d')
+        if not isinstance(end_date, datetime):end_date = datetime.strptime(end_date, '%Y-%m-%d')
         return {date: values for date, values in data.items() if start_date <= datetime.strptime(date, '%Y-%m-%d') <= end_date}
 
 def request_json(endpoint):
