@@ -1,0 +1,7 @@
+pandas
+talipp
+datetime
+json
+requests
+pathlib
+csv
