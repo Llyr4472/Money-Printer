@@ -22,7 +22,7 @@ def to_csv(stock):
             writer = csv.writer(f)
             
             # Write header row
-            writer.writerow(["date", "max", "min", "close", "prevclose", "diff", "numtrans", "tradedshares", "amount"])
+            writer.writerow(["date", "high", "low", "close", "previous", "diff", "numtrans", "tradedshares", "volume"])
             print(f"{stock.symbol}.csv created")
         data = stock.get_data()
 
@@ -40,6 +40,7 @@ def to_csv(stock):
 def sort(stock):
     if stock is not Stock:
         stock = Stock(stock)
+    file_path = f"data/{stock.symbol.replace('/','∕')}.csv"
     df = pd.read_csv(stock.file)
     df_sorted = df.sort_values(by='date', ascending=True)
     if(not df.equals(df_sorted)):
