@@ -2,7 +2,7 @@ import json
 import requests
 from datetime import datetime
 
-base_url = "https://github.com/the-value-crew/nepse-api/tree/master"
+base_url = "https://the-value-crew.github.io/nepse-api"
 COMPANIES = {'SWMF', 'RNLI', 'GFCL', 'MEL', 'GRDBL', 'PSF', 'KLBSL', 'PBLD84', 'NHPC', 'ALBSL', 'MMKJL', 'UHEWA', 'PPCL', 'MFLD85', 'HIDCLP', 'RBCL', 'DHPL', 'NMFBS', 'SLCF', 'SADBL', 'NICFC', 'AVYAN', 'SHLB', 'RURU', 'UNLB', 'CMF1', 'NLG', 'VLBS', 'NIBD2082', 'CMF2', 'GBILD86/87', 'SPL', 'C30MF', 'LEMF', 'JSLBB', 'SCB', 'BNHC', 'ICFCD83', 'SPC', 'NTC', 'NLICL', 'NADEP', 'NMBMF', 'GUFL', 'BEDC', 'MPFL', 'SBCF', 'IHL', 'LBBL', 'SBID83', 'SHINE', 'HIDCL', 'BHPL', 'UMRH', 'DDBL', 'NIMB', 'BGWT', 'SICL', 'NBLD87', 'MSLB', 'KEF', 'SIKLES', 'SAPDBL', 'NIBD84', 'KBL', 'FOWAD', 'PPL', 'PHCL', 'RMF1', 'NHDL', 'MLBSL', 'WNLB', 'PRIN', 'MSHL', 'JFL', 'NBL', 'VLUCL', 'ADBL', 'MBJC', 'NICGF', 'MLBS', 'RHGCL', 'TRH', 'MHL', 'BNL', 'SHIVM', 'BHDC', 'CITY', 'ENL', 'CHDC', 'LVF2', 'SWMFPO', 'MEN', 'CHL', 'HURJA', 'NGPL', 'HBLD86', 'DLBS', 'SAMAJ', 'LEC', 'SRLI', 'MCHL', 'GILB', 'MLBL', 'NMB', 'JBLB', 'HPPL', 'MHCL', 'NIMBPO', 'EBL', 'SMATA', 'PRVUPO', 'SMH', 'NICSF', 'CKHL', 'SIFC', 'ULHC', 'NRIC', 'TAMOR', 'AKPL', 'SLBBL', 'SBD87', 'HHL', 'PRVU', 'AHPC', 'SMFBS', 'USHL', 'GHL', 'MKCL', 'NLIC', 'BFC', 'BHL', 'RAWA', 'GMFIL', 'SHPC', 'NYADI', 'SWBBL', 'UNHPL', 'SFCL', 'GLBSL', 'API', 'CLI', 'STC', 'CHCL', 'SMJC', 'H8020', 'IGI', 'SHL', 'HATHY', 'AHL', 'NFS', 'FOWADP', 'JBBD87', 'KRBL', 'SSHL', 'SAEF', 'JOSHI', 'RMF2', 'MDB', 'NWCL', 'LSL', 'SGIC', 'NSIF2', 'UMHL', 'USHEC', 'SONA', 'NICL', 'MHNL', 'EHPL', 'SANIMA', 'BARUN', 'NICA', 'KPCL', 'KKHC', 'OHL', 'LUK', 'NRN', 'NBF2', 'DOLTI', 'DORDI', 'MKHC', 'HLBSL', 'HEIP', 'MERO', 'ALICL', 'KSBBLD87', 'GBLBS', 'SARBTM', 'PMHPL', 'MLBBL', 'SGHC', 'NMB50', 'SJCL', 'SBI', 'CFCL', 'RSDC', 'SAHAS', 'SIGS3', 'UAIL', 'SKBBL', 'NABIL', 'PRSF', 'LICN', 'CZBIL', 'NIFRA', 'HEI', 'GIBF1', 'RADHI', 'UPCL', 'RLFL', 'PROFL', 'MMF1', 'SMB', 'KBSH', 'UPPER', 'ICFC', 'TSHL', 'UNL', 'ANLB', 'NICBF', 'MEHL', 'NICGF2', 'SPDL', 'RFPL', 'RIDI', 'ACLBSL', 'CCBD88', 'SPIL', 'GVL', 'NBLD85', 'PBD88', 'NUBL', 'SFEF', 'GBBD85', 'SINDU', 'RBCLPO', 'NESDO', 'SBLD84', 'BNT', 'KDL', 'HRL', 'JBBL', 'KBLPO', 'NIBSF2', 'GBBL', 'EDBL', 'MAKAR', 'PFL', 'MBLD2085', 'CORBL', 'SBID89', 'NMBD87/88', 'BPCL', 'MKLB', 'MBL', 'SRD80', 'ADBLD83', 'SMHL', 'NICD83/84', 'HDHPC', 'SDLBSL', 'KMCDB', 'MKHL', 'HBL', 'NIL', 'BOKD86', 'NBF3', 'ILBS', 'RHPL', 'PMLI', 'TPC', 'MNBBL', 'CIT', 'SDBD87', 'BBC', 'USLB', 'HDL', 'NIBLGF', 'SEF', 'MFIL', 'JALPA', 'SABSL', 'GBIME', 'SBL', 'FMDBL', 'KDBY', 'ILI', 'NRM', 'GWFD83', 'PCBL', 'NICLBSL', 'CBLD88', 'CGH', 'TVCL', 'MBLPO', 'SHEL', 'SPHL', 'SJLIC', 'SALICO', 'GMFBS', 'SNLI', 'PBD85', 'CYCL', 'ULBSL', 'NABBC', 'MANDU', 'HLI', 'KSBBL', 'CBBL', 'GCIL', 'LLBS', 'GLH', 'SAGF', 'AKJCL', 'SIGS2'}
 with open("stocks.json",'r') as f:
     info = json.load(f)
@@ -41,8 +41,7 @@ def request_json(endpoint):
     url = base_url + endpoint
     response = requests.get(url)
     if response.status_code == 200:
-        return json.loads(response.json()["payload"]["blob"]["rawLines"][0])
-    else:
+        return response.json()
         print("Error",response.status_code,f" in {url}")
 
 def dump(data):
@@ -52,4 +51,4 @@ def dump(data):
 if __name__ == '__main__':
     endpoint = '/data/companies.json'
     data = request_json(endpoint)
-    dump(data)
+    print(data)
