@@ -1,4 +1,4 @@
-date,max,min,close,prevclose,diff,numtrans,tradedshares,amount
+date,high,low,close,previous,diff,numtrans,tradedshares,volume
 2022-07-27,1000,1000,1000,,,1,100,100000
 2022-09-22,980,941.4,941.4,1000,-58.6,3,65,62052
 2022-10-10,922.6,922.6,922.6,941.4,-18.8,1,10,9226

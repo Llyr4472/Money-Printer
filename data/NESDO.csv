@@ -1,4 +1,4 @@
-date,max,min,close,prevclose,diff,numtrans,tradedshares,amount
+date,high,low,close,previous,diff,numtrans,tradedshares,volume
 2022-03-28,793.3,747.7,793.3,,45.6,21,110,83963
 2022-03-29,872.6,793.3,872.6,793.3,79.3,21,104,86540.1
 2022-03-30,959.8,872.6,959.8,872.6,87.2,16,112,103808.9

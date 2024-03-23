@@ -1,4 +1,4 @@
-date,max,min,close,prevclose,diff,numtrans,tradedshares,amount
+date,high,low,close,previous,diff,numtrans,tradedshares,volume
 2023-12-18,1000,1000,1000,10000,-9000,1000,1000,10
 2023-12-20,983,983,977,49000,-48023,977,977,50
 2023-12-21,972,975.5,972,78896.8,-77924.8,975.5,975.5,81

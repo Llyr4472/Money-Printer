@@ -1,4 +1,4 @@
-date,max,min,close,prevclose,diff,numtrans,tradedshares,amount
+date,high,low,close,previous,diff,numtrans,tradedshares,volume
 2014-08-28,150.0,150.0,150.0,100.0,50.0,1,500,75000.0
 2014-08-31,163.0,153.0,163.0,150.0,13.0,4,2000,315500.0
 2014-09-01,172.0,166.0,172.0,166.0,6.0,3,1200,201900.0

@@ -1,4 +1,4 @@
-date,max,min,close,prevclose,diff,numtrans,tradedshares,amount
+date,high,low,close,previous,diff,numtrans,tradedshares,volume
 2018-03-26,155.0,139.0,155.0,,155.0,386,3860,589160.0
 2018-03-27,170.0,158.0,170.0,155.0,15.0,271,2710,460400.0
 2018-03-28,187.0,173.0,187.0,170.0,17.0,112,1120,205960.0

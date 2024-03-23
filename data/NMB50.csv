@@ -1,4 +1,4 @@
-date,max,min,close,prevclose,diff,numtrans,tradedshares,amount
+date,high,low,close,previous,diff,numtrans,tradedshares,volume
 2020-07-15,10.0,10.0,10.0,,10.0,1,100,1000.0
 2020-07-21,9.81,9.7,9.7,10.0,-0.3,7,8050,78200.5
 2020-07-22,9.51,9.22,9.22,9.7,-0.48,11,101300,934774.0

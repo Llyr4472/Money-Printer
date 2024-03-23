@@ -1,4 +1,4 @@
-date,max,min,close,prevclose,diff,numtrans,tradedshares,amount
+date,high,low,close,previous,diff,numtrans,tradedshares,volume
 2017-02-08,506.0,506.0,506.0,,506.0,1,10,5060.0
 2017-02-14,516.0,516.0,516.0,506.0,10.0,1,10,5160.0
 2017-02-19,567.0,526.0,567.0,516.0,51.0,10,1000,565960.0

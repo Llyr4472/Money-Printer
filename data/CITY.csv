@@ -1,4 +1,4 @@
-date,max,min,close,prevclose,diff,numtrans,tradedshares,amount
+date,high,low,close,previous,diff,numtrans,tradedshares,volume
 2023-06-11,122.2,111.1,122.2,0,122.2,67,376,44410.1
 2023-06-12,134.4,120.8,134.4,122.2,12.200000000000003,58,279,35902.7
 2023-06-13,147.8,135.7,147.8,134.4,13.400000000000006,40,201,28811.2

@@ -1,4 +1,4 @@
-date,max,min,close,prevclose,diff,numtrans,tradedshares,amount
+date,high,low,close,previous,diff,numtrans,tradedshares,volume
 2023-03-22,292,265.5,292,0,292,78,680,195156.4
 2023-03-23,321.2,297.8,321.2,292,29.19999999999999,199,6317,2028370
 2023-03-26,353.3,327.6,353.3,321.2,32.10000000000002,834,8740,3086311

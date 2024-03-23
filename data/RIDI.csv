@@ -1,4 +1,4 @@
-date,max,min,close,prevclose,diff,numtrans,tradedshares,amount
+date,high,low,close,previous,diff,numtrans,tradedshares,volume
 2022-08-15,694.5,637.8,637.8,708.6,-70.8,70,9881,6332414.3
 2022-08-16,658.9,580,628,637.8,-9.8,3021,658249,408247888.9
 2022-08-17,659,615.5,644,628,16,1148,286860,184311898

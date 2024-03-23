@@ -1,4 +1,4 @@
-date,max,min,close,prevclose,diff,numtrans,tradedshares,amount
+date,high,low,close,previous,diff,numtrans,tradedshares,volume
 2021-11-24,1000.0,1000.0,1000.0,,,1,25,25000.0
 2021-11-28,980.0,980.0,980.0,1000.0,-20.0,1,300,294000.0
 2021-11-29,960.4,940.3,950.0,980.0,-30.0,19,1200,1142019.5

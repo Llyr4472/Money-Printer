@@ -1,4 +1,4 @@
-date,max,min,close,prevclose,diff,numtrans,tradedshares,amount
+date,high,low,close,previous,diff,numtrans,tradedshares,volume
 2024-01-14,10,9,10,0,10,80,11380,106564.2
 2024-01-16,10.1,9,9.03,10,-0.9700000000000006,43,12850,119027
 2024-01-17,9.2,8.9,9.1,9.03,0.07000000000000028,51,9250,82910.5
