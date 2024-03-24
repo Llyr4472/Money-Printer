@@ -1,7 +1,3 @@
-pandas
-talipp
-datetime
-json
-requests
-pathlib
-csv
+pandas==2.2.1
+pandas_ta==0.3.14b0
+Requests==2.31.0
