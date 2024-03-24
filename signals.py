@@ -1,7 +1,6 @@
 from Stock import *
 import pandas as pd
 from datetime import datetime
-from talipp.indicators import EMA
 import pandas_ta as ta
 
 def macd_rsi(df,lag=1):
