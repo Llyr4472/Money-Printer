@@ -7,17 +7,8 @@ import pandas as pd
 import math
 from random import randrange
 
+def trade(portfolio,date=datetime.today):
 
-# Configure logging
-logging.basicConfig(filename='portfolio.log', level=logging.INFO, format='%(asctime)s - %(levelname)s: %(message)s')
-
-lag_days = 1
-
-def bot(date=datetime.today):
-    #import porfolio
-    with open('portfolio.json', 'r') as p:
-        portfolio = json.load(p)
-    
     my_stocks = [Stock(stock['symbol']) for stock in portfolio['assets']]
     my_orders = [Stock(stock['symbol']) for stock in portfolio['orders']]
 
@@ -55,7 +46,7 @@ def bot(date=datetime.today):
     portfolio = buy(buying,portfolio,date,strength)
 
     #update portfolio
-    with open('portfolio.json', 'w') as p:
+    with open(f'data/portfolios/{portfolio["portfolio_name"]}.json', 'w') as p:
         # Load JSON data from the file
         json.dump(portfolio,p,indent=4)
 
@@ -120,13 +111,9 @@ def sell(stock,portfolio,date):
 def hold(symbol):
     logging.info(f"Holding on {symbol}.")
 
-def process_orders(date=datetime.today):
-    #import porfolio
-    with open('portfolio.json', 'r') as p:
-        portfolio = json.load(p)
-    
+def process_orders(portfolio,date=datetime.today,lag_days=0):
     portfolio_ = portfolio.copy()
-    
+
     #process orders
     for order in portfolio_['orders']:
         if((datetime.strptime(order['date'],"%Y-%m-%d").date()+timedelta(lag_days))<date):
@@ -147,21 +134,30 @@ def process_orders(date=datetime.today):
 
     #update portfolio
     if portfolio == portfolio_:return
-    with open('portfolio.json', 'w') as p:
+    with open(f'data/portfolios/{portfolio["portfolio_name"]}.json', 'w') as p:
         # Load JSON data from the file
         json.dump(portfolio,p,indent=4)
 
+def simulate(portfolio_name,start_date,end_date=datetime.today().date()):
+    # Configure logging
+    logging.basicConfig(filename=f'..logs/{portfolio_name}.log', level=logging.INFO, format='%(asctime)s - %(levelname)s: %(message)s')
 
-def trade(date):
-    process_orders(date)
-    bot(date)
+    #load portfolio
+    try:
+        with open(f'/data/portfolios/{portfolio_name}.json' ,'r') as f:
+            portfolio = json.load(f) 
+    except FileNotFoundError:
+        logging.error("Portfolio not found.")
 
-def simulate():
-    date = datetime(2022,2,15).date()
-    while(date < datetime.today().date()):
-        trade(date)
+    while(start_date < end_date):
+        process_orders(portfolio,date)
+        #load processed portfolio
+        with open(f'data/portfolios/{portfolio_name}.json' ,'r') as f:
+            portfolio = json.load(f) 
+        trade(portfolio,date)
         logging.info(f'Trade completed for {date}.')
         date += timedelta(1)
 
 if __name__ == "__main__":
-    simulate()
+    portfolio_name = 'portfolio'
+    simulate(portfolio_name,start_date = datetime(2022,2,15).date())

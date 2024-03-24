@@ -3,14 +3,15 @@ from pathlib import Path
 import csv
 import pandas as pd
 from datetime import datetime,timedelta
+import pandas_ta as ta
+import numpy as np
 
 
 def to_csv(stock):
-    if stock is not Stock:
-        stock = Stock(stock)
-#    data = stock.get_data()
+    if not isinstance(stock,Stock):stock = Stock(stock)
+    #data = stock.get_data()
 
-    file_path = f"data/{stock.symbol.replace('/','∕')}.csv"
+    file_path = stock.file
 
     if(Path(file_path).exists()):
         df = pd.read_csv(file_path)
@@ -38,9 +39,7 @@ def to_csv(stock):
         print(f"{stock.symbol}.csv updated")
 
 def sort(stock):
-    if stock is not Stock:
-        stock = Stock(stock)
-    file_path = f"data/{stock.symbol.replace('/','∕')}.csv"
+    if not isinstance(stock , Stock):stock = Stock(stock)
     df = pd.read_csv(stock.file)
     df_sorted = df.sort_values(by='date', ascending=True)
     if(not df.equals(df_sorted)):

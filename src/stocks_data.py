@@ -18,5 +18,5 @@ for symbol,data  in info.items():
     else: 
         data['trade'] = True
 
-with open('stocks.json','w') as f:
+with open('../../data/stocks.json','w') as f:
     json.dump(info,f,indent=4)
