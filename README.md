@@ -38,9 +38,12 @@ This project provides a foundational framework for developing a trading bot for 
 ### Getting Started
 
 1. **Installation:** Install the required libraries using pip:
-   ```bash
-   pip install pandas requests pandas-ta
-   ```
+    1. Download  or clone this repository onto your local machine.
+    2. Open terminal, navigate to project.
+    3. Run following in terminal to install dependencies.
+        ```bash
+        pip install -r requirements.txt
+        ```
 
 2. **Configuration:**
     - Update the Nepse API endpoint URLs in `Stocks.py`.
