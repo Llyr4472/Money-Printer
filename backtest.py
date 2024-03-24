@@ -1,48 +1,50 @@
 from Stock import *
+from signals import *
 import pandas as pd
-from talipp.indicators import EMA
 
 
-stock = Stock(input("Stock: "))
+#stock = Stock(input("Stock: "))
+stock =  Stock('nabil')
 df = pd.read_csv(stock.file)
-
-emas_used = [3,5,8,10,12,15,30,35,40,45,50,60]
-for ema in emas_used:
-    df[f'ema{ema}'] = EMA(period=ema,input_values=df['close'].tolist())
-
-df = df[60:]
 
 pos = 0
 num = 0
 percentchange = []
 
 for i in df.index:
-    cmin=min(df["ema3"][i],df["ema5"][i],df["ema8"][i],df["ema10"][i],df["ema12"][i],df["ema15"][i],)
-    cmax=max(df["ema30"][i],df["ema35"][i],df["ema40"][i],df["ema45"][i],df["ema50"][i],df["ema60"][i],)
-
     close = df['close'][i]
+    date = df['date'][i]
+
+    # s = ema_crossover(preprocess(stock=stock,date=date))
+    # signal = 'Buy' if s>0 else ('Sell' if s <0 else 'Hold')
     
-    if(cmin>cmax):
-        print("Red White Blue")
-        if(pos==0):
-            bp=close
-            pos=1
-            print(f"Buying now at {bp}")
+    s = sum(macd_rsi(preprocess(stock=stock,date=date)))
+    signal = 'Buy' if s>0 else ('Sell' if s <0 else 'Hold')
+
+    # s = rvi(preprocess(stock=stock,date=date))
+    # signal = 'Buy' if s>0 else ('Sell' if s <0 else 'Hold')
+
+    # s = Signal(stock=stock,date=date)
+    # signal =  'Buy' if   s>=0 else ('Sell' if s <=0 else 'Hold')
+    #print(f"{date}: {signal}: {s}")
     
-    elif(cmin<cmax):
-        print("Blue White Red")
-        if(pos==1):
-            pos=0
-            sp=close
-            print(f"Selling now at {sp}")
-            pc=(sp/bp-1)*100
-            percentchange.append(pc)
+    if signal=='Buy' and pos==0:
+        bp=close
+        pos=1
+        print(f"{date}: Buying now at {bp}")
+    
+    elif signal=='Sell'  and pos==1:
+        pos=0
+        sp=close
+        print(f"{date}: Selling now at {sp}")
+        pc=(sp/bp-1)*100
+        percentchange.append(pc)
    
    #If its last day, sell the units
     if(num==df["close"].count()-1 and pos==1):
         pos=0
         sp=close
-        print("Selling now at "+str(sp))
+        print(f"{date}: Selling now at "+str(sp))
         pc=(sp/bp-1)*100
         percentchange.append(pc)
 
@@ -92,7 +94,6 @@ else:
 #print results
 print()
 print("Results for "+ stock() +" going back to "+str(df.index[0])+", Sample size: "+str(ng+nl)+" trades")
-print("EMAs used: "+str(emas_used))
 print("Batting Avg: "+ str(battingAvg))
 print("Gain/loss ratio: "+ ratio)
 print("Average Gain: "+ str(avgGain))
