@@ -1,3 +1,4 @@
+[![Discord](https://img.shields.io/discord/1221415701353594940?color=7289DA&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/MaCaJCN7)
 [![GitHub stars](https://img.shields.io/github/stars/LLyr4472/nepse-trading-bot.svg?style=flat-square)](https://github.com/LLyr4472/nepse-trading-bot/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Python version](https://img.shields.io/badge/Python-3.11.1-blue.svg?style=flat-square)](https://www.python.org/downloads/)
@@ -98,7 +99,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Contact
 
-For questions or inquiries about the Nepse Trading Bot project, please contact [Llyr4472](https://discordapp.com/users/lyr4472).
+For questions or inquiries about the Nepse Trading Bot project, please contact [Llyr4472](https://discord.gg/MaCaJCN7).
 
 ### Acknowledgments
 
