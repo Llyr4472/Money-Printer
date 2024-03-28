@@ -86,6 +86,10 @@ This project is for educational and experimental purposes only. It should not be
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+### Contact
+
+For questions or inquiries about the Nepse Trading Bot project, please contact [Discord](https://discord.gg/MaCaJCN7).
+
 ### Acknowledgments
 
 Special thanks to the creators and maintainers of the libraries and resources used in this project, including Pandas, Requests, and Pandas TA.
