@@ -15,18 +15,12 @@ This project provides a foundational framework for developing a trading bot for 
 ### Features
 
 * **Data Acquisition:**
-    * Fetches stock data from the Nepse API.
+    * Fetches stock data from the [API](https://the-value-crew.github.io/nepse-api) .
     * Provides functionalities to filter tradable stocks based on user-defined criteria.
     * Handles data retrieval for a specified date range.
 
-* **Technical Analysis:**
-    * Calculates various technical indicators for tradable stocks:
-        * Moving Average Convergence Divergence (MACD)
-        * Relative Strength Index (RSI)
-        * Relative Vigor Index (RVI)
-        * Exponential Moving Averages (EMA) crossover
-
 * **Signal Generation:**
+    * Calculates various technical indicators for tradable stocks
     * Combines the calculated technical indicators into a single buy/sell signal.
     * Allows customization of signal generation logic.
     * Signals are normalized between -1 and 1 for ease of interpretation.
@@ -40,17 +34,19 @@ This project provides a foundational framework for developing a trading bot for 
 
 1. **Installation:** Install the required libraries using pip:
     1. Download  or clone this repository onto your local machine.
+        ```bash
+        git clone https://www.github.com/llyr4472/nepse-trading-bot 
+        ```
     2. Open terminal, navigate to project.
     3. Run following in terminal to install dependencies.
         ```bash
         pip install -r requirements.txt
         ```
 
-2. **Configuration:**
-    - Update the Nepse API endpoint URLs in `Stocks.py`.
+2. **Configuration (Optional):**
     - Adjust filtering criteria in `stocks_json.py` to define tradable stocks.
 
-3. **Data Preparation:**
+3. **Data Preparation (Optional):**
     - Run `stocks_json.py` to generate the `stocks.json` file containing filtered company data.
 
 4. **Customization (Optional):**
@@ -59,19 +55,12 @@ This project provides a foundational framework for developing a trading bot for 
 5. **Running the Bot:**
     - Use `bot.py` to simulate trading and generate buy/sell signals.
 
-### Usage
-
-The trading bot can be used for various purposes, including:
-
-* Short-term trading: Generate buy/sell signals for intraday or short-term trading strategies.
-* Swing trading: Identify potential entry and exit points for swing trading positions.
-* Portfolio management: Monitor the performance of a portfolio of stocks based on generated signals.
 
 ### Code Structure
 
 The project consists of the following core Python files:
 
-* `Stocks.py`: Fetches and manages stock data.
+* `Stocks.py`: Defines Stock() object and handles data acquisition.
 * `signals.py`: Calculates technical indicators and generates buy/sell signals.
 * `stocks_json.py`: Filters tradable stocks and creates the `stocks.json` file.
 * `bot.py`: Simulates trading and generates signals based on predefined parameters.
@@ -96,10 +85,6 @@ This project is for educational and experimental purposes only. It should not be
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-### Contact
-
-For questions or inquiries about the Nepse Trading Bot project, please contact [Llyr4472](https://discord.gg/MaCaJCN7).
 
 ### Acknowledgments
 
