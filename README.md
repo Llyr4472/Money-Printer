@@ -62,7 +62,7 @@ The project consists of the following core Python files:
 
 * `Stocks.py`: Defines Stock() object and handles data acquisition.
 * `signals.py`: Calculates technical indicators and generates buy/sell signals.
-* `stocks_json.py`: Filters tradable stocks and creates the `stocks.json` file.
+* `stocks_data.py`: Filters tradable stocks and creates the `stocks.json` file.
 * `bot.py`: Simulates trading and generates signals based on predefined parameters.
 * `backtest.py`: Conducts backtesting of trading strategies against historical data.
 
