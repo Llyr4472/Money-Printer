@@ -47,7 +47,7 @@ The project consists of the following core Python files:
 * `src\stocks_data.py`: Filters tradable stocks and creates the `data\stocks.json` file.
 * `src\bot.py`: Simulates trading and generates signals based on predefined parameters.
 * `src\backtest.py`: Conducts backtesting of trading strategies against historical data.
-* `src\stocks_data.py`: Add new feature to data "trade".
+* `src\csv_writer.py`: Gets data from api and writes them into csv.
 
 
 ## To-Do
