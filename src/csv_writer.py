@@ -15,6 +15,7 @@ def to_csv(stock,sorted=True,reset=False):
         data = stock.get_data(start_date=start_date)
 
     else:
+        print(Path.cwd())
         with open(stock.file,'w',newline='') as f:
             writer = csv.writer(f)
 
