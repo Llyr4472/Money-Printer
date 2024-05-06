@@ -47,5 +47,5 @@ def sort(stock):
 
 if __name__ == "__main__":
     for symbol in [Stock(x) for x in COMPANIES if Stock(x).trade] :
-        to_csv(symbol,reset=True)
+        to_csv(symbol)
     print("All csv dumped successfully")
