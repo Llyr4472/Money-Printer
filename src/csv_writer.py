@@ -7,9 +7,9 @@ import pandas_ta as ta
 import numpy as np
 
 
-def to_csv(stock,sorted=True):
+def to_csv(stock,sorted=True,reset=False):
 
-    if(Path(stock.file).exists()):
+    if(Path(stock.file).exists() and not reset):
         df = pd.read_csv(stock.file)
         start_date = datetime.strptime(df.iloc[-1]['date'], '%Y-%m-%d') + timedelta(days=1)# Start from the day after the last date
         data = stock.get_data(start_date=start_date)
@@ -47,5 +47,5 @@ def sort(stock):
 
 if __name__ == "__main__":
     for symbol in [Stock(x) for x in COMPANIES if Stock(x).trade] :
-        to_csv(symbol)
+        to_csv(symbol,reset=True)
     print("All csv dumped successfully")
