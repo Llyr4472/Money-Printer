@@ -1,8 +1,9 @@
 name: Update data
 
 on:
-    schedule:
-      - cron: "25 04,09,12 * * *" # (UTC) 4:25 AM & 9:25 AM -> (NEP) 10:05 AM & 03:10 PM
+  workflow_dispatch:
+  schedule:
+    - cron: "25 04,09,12 * * *" # (UTC) 4:25 AM & 9:25 AM -> (NEP) 10:05 AM & 03:10 PM
 
 jobs:
 
