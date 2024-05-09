@@ -45,17 +45,7 @@ def ema_crossover(df,lag=1):
         elif cmin<cmax:return -1
     return 0
 
-def preprocess(stock,date=datetime.today().date()):
-    if not isinstance(stock,Stock): stock = Stock(stock)
-    df = pd.read_csv(stock.file)
-    pd.to_datetime(df['date'])
-    df= df.loc[(df['date'] <= str(date))]
-
-    return df
-
-def Signal(stock,date=datetime.today().date(),lag=2):
-
-    df = preprocess(stock,date)
+def Signal(df,lag=2):
     df = df[-100:]
 
     ema_value = ema_crossover(df,lag=lag)
@@ -68,7 +58,7 @@ def Signal(stock,date=datetime.today().date(),lag=2):
 
 
 if __name__== "__main__":
-    print("Stock\tMACD\tEMA\tRSI\tRVI")
+    print("Stock\tMACD\tEMA\tRSI")
     for stock in [Stock(x) for x in COMPANIES if Stock(x).trade]:
-        df =  preprocess(stock)
-        print(f'{stock()}\t{macd(df)}\t{ema_crossover(df)}\t{rsi(df)}\t{rvi(df)}')
+        df =  pd.read_csv(stock.file)
+        print(f'{stock()}\t{macd(df)}\t{ema_crossover(df)}\t{rsi(df)}')
