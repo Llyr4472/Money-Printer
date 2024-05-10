@@ -7,7 +7,29 @@ COMPANIES = {'SWMF', 'RNLI', 'GFCL', 'MEL', 'GRDBL', 'PSF', 'KLBSL', 'PBLD84', '
 with open("data/stocks.json",'r') as f:
     info = json.load(f)
 
+
 class Stock:
+    """
+    Represents a stock with its symbol, ID, name, and trade information.
+
+    The `Stock` class provides methods to retrieve historical data for the stock within a specified date range.
+
+    Args:
+        symbol (str): The stock symbol.
+
+    Attributes:
+        symbol (str): The stock symbol in uppercase.
+        id (str): The unique identifier for the stock.
+        name (str): The name of the stock.
+        trade (dict): The trade information for the stock.
+        file (str): The file path for the stock's historical data.
+
+    Methods:
+        __call__(): Returns the stock symbol.
+        __eq__(other): Compares two `Stock` objects for equality based on their ID.
+        get_data(start_date=None, end_date=None): Retrieves the historical data for the stock within the specified date range.
+    """
+
     def __init__(self,symbol):
         self.symbol = symbol.upper()
         self.id = info[self.symbol]['id']
