@@ -4,8 +4,9 @@ from datetime import datetime, timedelta
 import logging
 import json
 import pandas as pd
-import math
 import numpy as np
+import os
+from multiprocessing import Pool
 
 def trade(portfolio,date=datetime.today,strategy='hybrid'):
 
@@ -185,5 +186,6 @@ def simulate(portfolio_name,end_date=datetime.today().date(),strategy='hybrid'):
         date += timedelta(1)
 
 if __name__ == "__main__":
-    portfolio_name = 'portfolio'
-    simulate(portfolio_name,strategy='hybrid')
+    files = os.listdir('data\portfolios') 
+    with Pool(processes=os.cpu_count()) as pool:
+        pool.map(simulate, [file.split('.')[0] for file in files])
