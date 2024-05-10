@@ -1,5 +1,5 @@
 from Stock import *
-from signals import *
+import signals
 import pandas as pd
 import plotter
 
@@ -33,33 +33,15 @@ def backtest(stock,strategy='hybrid',plot=False) :
         df_trimmed = df.copy(deep=True)
         df_trimmed= df_trimmed.loc[df_trimmed['date'] <= str(date)]
 
-        #Check strategy and generate signal
-        if strategy == 'hybrid':
-            s = Signal(df_trimmed)
-            signal =  'Buy' if   s>=0 else ('Sell' if s <=0 else 'Hold')
+        strat = getattr(signals,strategy)
+        signal = strat(df_trimmed)
 
-        elif strategy == 'ema_crossover':
-            s = ema_crossover(df_trimmed)
-            signal = 'Buy' if s>0 else ('Sell' if s <0 else 'Hold')
-
-        elif  strategy == 'macd':
-            s = macd(df_trimmed)
-            signal = 'Buy' if s>0 else ('Sell' if s <0 else 'Hold')
-
-        elif strategy  == 'rsi':
-            s = rsi(df_trimmed)
-            signal = 'Buy' if s>0 else ('Sell' if s <0 else 'Hold')
-
-        else:
-            print("Unknown Strategy",strategy)
-            return
-
-        if signal=='Buy' and pos==0:
+        if signal > 0 and pos==0:
             bp=close
             pos=1
             buy_dates.append(date)
         
-        elif signal=='Sell'  and pos==1:
+        elif signal <0  and pos==1:
             pos=0
             sp=close
             pc=(sp/bp-1)*100
@@ -133,5 +115,4 @@ def backtest(stock,strategy='hybrid',plot=False) :
         plotter.plot(df,buy_dates,sell_dates)
 
 if __name__ == '__main__':
-    stock = Stock('uhewa')
-    backtest(stock,strategy='macd',plot=True)
+    backtest(Stock("akjcl"),strategy='hybrid',plot=True)
