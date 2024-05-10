@@ -1,32 +1,12 @@
 {
-    "NIMB": {
-        "id": "132",
-        "name": "Nepal Investment Mega Bank Limited",
-        "trade": true
-    },
-    "SCB": {
-        "id": "133",
-        "name": "Standard Chartered Bank Limited",
-        "trade": true
-    },
-    "HBL": {
-        "id": "134",
-        "name": "Himalayan Bank Limited",
-        "trade": true
-    },
-    "EBL": {
-        "id": "137",
-        "name": "Everest Bank Limited",
-        "trade": true
-    },
-    "NICA": {
-        "id": "139",
-        "name": "NIC Asia Bank Ltd.",
-        "trade": true
-    },
     "MBL": {
         "id": "140",
         "name": "Machhapuchhre Bank Limited",
+        "trade": true
+    },
+    "LSL": {
+        "id": "141",
+        "name": "Laxmi Sunrise Bank Limited",
         "trade": true
     },
     "KBL": {
@@ -39,34 +19,24 @@
         "name": "National Hydro Power Company Limited",
         "trade": true
     },
+    "BPCL": {
+        "id": "153",
+        "name": "Butwal Power Company Limited",
+        "trade": true
+    },
     "CHCL": {
         "id": "154",
         "name": "Chilime Hydropower Company Limited",
         "trade": true
     },
-    "STC": {
-        "id": "155",
-        "name": "Salt Trading Corporation",
+    "DDBL": {
+        "id": "166",
+        "name": "Deprosc Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
-    "BBC": {
-        "id": "156",
-        "name": "Bishal Bazar Company Limited",
-        "trade": true
-    },
-    "SANIMA": {
-        "id": "171",
-        "name": "Sanima Bank Limited",
-        "trade": true
-    },
-    "NICL": {
-        "id": "176",
-        "name": "Nepal Insurance Co. Ltd.",
-        "trade": true
-    },
-    "RBCL": {
-        "id": "177",
-        "name": "Rastriya Beema Company Limited",
+    "NABBC": {
+        "id": "172",
+        "name": "Narayani Development Bank Limited",
         "trade": true
     },
     "NLICL": {
@@ -74,14 +44,14 @@
         "name": "National Life Insurance Co. Ltd.",
         "trade": true
     },
-    "HEI": {
-        "id": "179",
-        "name": "Himalayan Everest Insurance Limited",
-        "trade": true
-    },
     "UAIL": {
         "id": "180",
         "name": "United Ajod Insurance Limited",
+        "trade": true
+    },
+    "SPIL": {
+        "id": "182",
+        "name": "Siddhartha Premier Insurance Limited",
         "trade": true
     },
     "NIL": {
@@ -89,24 +59,49 @@
         "name": "Neco Insurance Limited",
         "trade": true
     },
-    "CIT": {
-        "id": "210",
-        "name": "Citizen Investment Trust",
-        "trade": false
-    },
-    "BNT": {
-        "id": "213",
-        "name": "Bottlers Nepal (Terai) Limited",
+    "IGI": {
+        "id": "186",
+        "name": "IGI Prudential insurance Limited",
         "trade": true
     },
-    "UNL": {
-        "id": "219",
-        "name": "Unilever Nepal Limited",
+    "NLIC": {
+        "id": "187",
+        "name": "Nepal Life Insurance Co. Ltd.",
         "trade": true
     },
-    "HDL": {
-        "id": "235",
-        "name": "Himalayan Distillery Limited",
+    "SICL": {
+        "id": "192",
+        "name": "Shikhar Insurance Co. Ltd.",
+        "trade": true
+    },
+    "NFS": {
+        "id": "194",
+        "name": "Nepal Finance Ltd.",
+        "trade": true
+    },
+    "BNL": {
+        "id": "195",
+        "name": "Bottlers Nepal (Balaju) Limited",
+        "trade": true
+    },
+    "GUFL": {
+        "id": "204",
+        "name": "Gurkhas Finance Ltd.",
+        "trade": true
+    },
+    "BFC": {
+        "id": "227",
+        "name": "Best Finance Company Ltd.",
+        "trade": true
+    },
+    "PFL": {
+        "id": "236",
+        "name": "Pokhara Finance Ltd.",
+        "trade": true
+    },
+    "NMB": {
+        "id": "238",
+        "name": "NMB Bank Limited",
         "trade": true
     },
     "SIFC": {
@@ -124,9 +119,9 @@
         "name": "Prabhu  Bank Limited",
         "trade": true
     },
-    "SFCL": {
-        "id": "256",
-        "name": "Samriddhi Finance Company Limited",
+    "SWBBL": {
+        "id": "268",
+        "name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
     "ICFC": {
@@ -134,24 +129,14 @@
         "name": "ICFC Finance Limited",
         "trade": true
     },
-    "EDBL": {
-        "id": "274",
-        "name": "Excel Development Bank Ltd.",
+    "PROFL": {
+        "id": "338",
+        "name": "Progressive Finance Limited",
         "trade": true
     },
-    "MBLPO": {
-        "id": "281",
-        "name": "MachhaPuchhre  Bank Limited Promotor Share",
-        "trade": false
-    },
-    "KBLPO": {
-        "id": "283",
-        "name": "Kumari Bank Limited Promotor Share",
-        "trade": false
-    },
-    "PCBL": {
-        "id": "357",
-        "name": "Prime Commercial Bank Ltd.",
+    "GBIME": {
+        "id": "341",
+        "name": "Global IME Bank Limited",
         "trade": true
     },
     "LBBL": {
@@ -159,54 +144,59 @@
         "name": "Lumbini Bikas Bank Ltd.",
         "trade": true
     },
+    "ALICL": {
+        "id": "385",
+        "name": "Asian Life Insurance Co. Limited",
+        "trade": true
+    },
     "SJLIC": {
         "id": "403",
         "name": "SuryaJyoti Life Insurance Company Limited",
         "trade": true
     },
-    "KRBL": {
-        "id": "428",
-        "name": "Karnali Development Bank Limited",
+    "JBBL": {
+        "id": "418",
+        "name": "Jyoti Bikas Bank Limited",
         "trade": true
     },
-    "KSBBL": {
-        "id": "459",
-        "name": "Kamana Sewa Bikas Bank Limited",
+    "CORBL": {
+        "id": "450",
+        "name": "Corporate Development Bank Limited",
         "trade": true
     },
-    "SADBL": {
-        "id": "472",
-        "name": "Shangrila Development Bank Ltd.",
+    "NIMBPO": {
+        "id": "469",
+        "name": "Nepal Investment Mega Bank Ltd. Promoter Share",
+        "trade": false
+    },
+    "SHINE": {
+        "id": "473",
+        "name": "Shine Resunga Development Bank Ltd.",
         "trade": true
     },
-    "FMDBL": {
-        "id": "490",
-        "name": "First Micro Finance Laghubitta Bittiya Sanstha Limited",
+    "MNBBL": {
+        "id": "474",
+        "name": "Muktinath Bikas Bank Ltd.",
         "trade": true
+    },
+    "NBL": {
+        "id": "517",
+        "name": "Nepal Bank Limited",
+        "trade": true
+    },
+    "PCBLP": {
+        "id": "544",
+        "name": "Prime Commercial Bank Promoter Share",
+        "trade": false
     },
     "SLBBL": {
         "id": "545",
         "name": "Swarojgar Laghu Bitta Bikas Bank Ltd.",
         "trade": true
     },
-    "NLG": {
-        "id": "559",
-        "name": "NLG Insurance Company Ltd.",
-        "trade": true
-    },
-    "SINDU": {
-        "id": "561",
-        "name": "Sindhu Bikash Bank Ltd",
-        "trade": true
-    },
     "SKBBL": {
         "id": "574",
         "name": "Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited",
-        "trade": true
-    },
-    "RLFL": {
-        "id": "587",
-        "name": "Reliance Finance Ltd.",
         "trade": true
     },
     "KMCDB": {
@@ -219,14 +209,24 @@
         "name": "Mithila LaghuBitta Bittiya Sanstha Limited",
         "trade": true
     },
+    "RIDI": {
+        "id": "610",
+        "name": "Ridi Power Company Limited",
+        "trade": true
+    },
+    "LLBS": {
+        "id": "618",
+        "name": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
+        "trade": true
+    },
     "RBCLPO": {
         "id": "634",
         "name": "Rastriya Beema Company Limited Promoter Share",
         "trade": false
     },
-    "BARUN": {
-        "id": "686",
-        "name": "Barun Hydropower Co. Ltd.",
+    "VLBS": {
+        "id": "687",
+        "name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
         "trade": true
     },
     "JSLBB": {
@@ -234,29 +234,24 @@
         "name": "Janautthan Samudayic Laghubitta Bittya Sanstha Limited",
         "trade": true
     },
-    "API": {
-        "id": "697",
-        "name": "Api Power Company Ltd.",
-        "trade": true
-    },
-    "NMBMF": {
-        "id": "704",
-        "name": "NMB  Microfinance Bittiya Sanstha Ltd.",
-        "trade": true
-    },
-    "SWMF": {
-        "id": "706",
-        "name": "Suryodaya Womi Laghubitta Bittiya Sanstha Limited",
-        "trade": true
-    },
     "HIDCL": {
         "id": "2742",
         "name": "Hydorelectricity Investment and Development Company Ltd",
         "trade": true
     },
-    "GRDBL": {
-        "id": "2744",
-        "name": "Green Development Bank Ltd.",
+    "NGPL": {
+        "id": "2743",
+        "name": "Ngadi Group Power Ltd.",
+        "trade": true
+    },
+    "NMFBS": {
+        "id": "2746",
+        "name": "National Laghubitta Bittiya Sanstha Limited",
+        "trade": true
+    },
+    "KKHC": {
+        "id": "2751",
+        "name": "Khanikhola Hydropower Co. Ltd.",
         "trade": true
     },
     "DHPL": {
@@ -269,29 +264,34 @@
         "name": "Arun Kabeli Power Ltd.",
         "trade": true
     },
-    "FOWAD": {
-        "id": "2758",
-        "name": "Forward Microfinance Laghubitta Bittiya Sanstha Limited",
-        "trade": true
-    },
     "SPDL": {
         "id": "2759",
         "name": "Synergy Power Development Ltd.",
         "trade": true
     },
-    "LEMF": {
-        "id": "2765",
-        "name": "Laxmi Equity Fund",
-        "trade": false
+    "UMHL": {
+        "id": "2760",
+        "name": "United Modi Hydropower Ltd.",
+        "trade": true
+    },
+    "SMATA": {
+        "id": "2761",
+        "name": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
+        "trade": true
     },
     "CHL": {
         "id": "2766",
         "name": "Chhyangdi Hydropower Ltd.",
         "trade": true
     },
-    "NHDL": {
-        "id": "2769",
-        "name": "Nepal Hydro Developers Ltd.",
+    "SEF": {
+        "id": "2770",
+        "name": "Siddhartha Equity Fund",
+        "trade": false
+    },
+    "SMB": {
+        "id": "2771",
+        "name": "Support Microfinance Bittiya Sanstha Ltd.",
         "trade": true
     },
     "USLB": {
@@ -299,19 +299,24 @@
         "name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
-    "CMF1": {
-        "id": "2780",
-        "name": "Citizens Mutual Fund -1",
-        "trade": false
-    },
-    "KPCL": {
-        "id": "2787",
-        "name": "Kalika power Company Ltd",
+    "RADHI": {
+        "id": "2776",
+        "name": "Radhi Bidyut Company Ltd",
         "trade": true
     },
-    "AKJCL": {
-        "id": "2788",
-        "name": "Ankhu Khola Jalvidhyut Company Ltd",
+    "NICGF": {
+        "id": "2779",
+        "name": "NIC Asia Growth Fund",
+        "trade": false
+    },
+    "WNLB": {
+        "id": "2781",
+        "name": "Wean Nepal Laghubitta Bittiya Sanstha Limited",
+        "trade": true
+    },
+    "PMHPL": {
+        "id": "2786",
+        "name": "Panchakanya Mai Hydropower Ltd",
         "trade": true
     },
     "JOSHI": {
@@ -324,20 +329,40 @@
         "name": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
+    "UPPER": {
+        "id": "2792",
+        "name": "Upper Tamakoshi Hydropower Ltd",
+        "trade": true
+    },
     "GHL": {
         "id": "2806",
         "name": "Ghalemdi Hydro Limited",
         "trade": true
     },
-    "GMFBS": {
-        "id": "2815",
-        "name": "Ganapati Laghubitta Bittiya Sanstha Limited",
+    "UPCL": {
+        "id": "2810",
+        "name": "UNIVERSAL POWER COMPANY LTD",
         "trade": true
     },
-    "SRD80": {
-        "id": "2834",
-        "name": "10% Sunrise Debenture 2080",
+    "PPCL": {
+        "id": "2813",
+        "name": "Panchthar Power Compant Limited",
+        "trade": true
+    },
+    "NICAD85/86": {
+        "id": "2825",
+        "name": "10% NIC Asia Debenture 2085/86",
         "trade": false
+    },
+    "GLBSL": {
+        "id": "2826",
+        "name": "Gurans Laghubitta Bittiya Sanstha Limited",
+        "trade": true
+    },
+    "ILBS": {
+        "id": "2832",
+        "name": "Infinity Laghubitta Bittiya Sanstha Limited",
+        "trade": true
     },
     "RHPL": {
         "id": "2841",
@@ -349,44 +374,34 @@
         "name": "SANJEN JALAVIDHYUT COMPANY LIMITED",
         "trade": true
     },
-    "NIBD2082": {
-        "id": "2851",
-        "name": "10.5 % NEPAL INVESTMENT DEBENTURE 2082",
+    "SIGS2": {
+        "id": "2859",
+        "name": "Siddhartha Investment Growth Scheme - 2",
         "trade": false
     },
-    "CMF2": {
-        "id": "2862",
-        "name": "CITIZENS MUTUAL FUND 2",
-        "trade": false
-    },
-    "NMB50": {
-        "id": "2867",
-        "name": "NMB 50",
-        "trade": false
+    "SAPDBL": {
+        "id": "2860",
+        "name": "Saptakoshi Development Bank Ltd",
+        "trade": true
     },
     "NICD83/84": {
         "id": "2868",
         "name": "10.25% NIC Asia Debenture 2083/84",
         "trade": false
     },
-    "HDHPC": {
-        "id": "2880",
-        "name": "Himal Dolakha Hydropower Company Limited",
-        "trade": true
-    },
-    "NRIC": {
-        "id": "2881",
-        "name": "Nepal Reinsurance Company Limited",
-        "trade": true
+    "ADBLD83": {
+        "id": "2886",
+        "name": "10.35% Agricultural Bank Debenture 2083",
+        "trade": false
     },
     "NICLBSL": {
         "id": "2887",
         "name": "NIC ASIA Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
-    "SDLBSL": {
-        "id": "2896",
-        "name": "Sadhana Laghubitta Bittiya Sanstha Limited",
+    "NRN": {
+        "id": "2898",
+        "name": "NRN Infrastructure and Development Limited",
         "trade": true
     },
     "LUK": {
@@ -394,14 +409,9 @@
         "name": "Laxmi Unnati Kosh",
         "trade": false
     },
-    "PBLD84": {
-        "id": "2904",
-        "name": "10% Prabhu Bank Debenture 2084",
-        "trade": false
-    },
-    "SSHL": {
-        "id": "2907",
-        "name": "Shiva Shree Hydropower Ltd",
+    "LEC": {
+        "id": "2903",
+        "name": "Liberty Energy Company Limited",
         "trade": true
     },
     "SGIC": {
@@ -409,9 +419,24 @@
         "name": "Sanima GIC Insurance Limited",
         "trade": true
     },
+    "SBLD84": {
+        "id": "2912",
+        "name": "8.5% SBL Debenture 2084",
+        "trade": false
+    },
+    "MEN": {
+        "id": "2913",
+        "name": "Mountain Energy Nepal Limited",
+        "trade": true
+    },
     "UMRH": {
         "id": "2914",
         "name": "United IDI Mardi RB Hydropower Limited.",
+        "trade": true
+    },
+    "PMLI": {
+        "id": "2915",
+        "name": "Prabhu Mahalaxmi Life Insurance Limited",
         "trade": true
     },
     "NIFRA": {
@@ -419,14 +444,9 @@
         "name": "Nepal Infrastructure Bank Limited",
         "trade": true
     },
-    "MLBSL": {
-        "id": "2925",
-        "name": "Mahila Lagubitta Bittiya Sanstha Limited",
-        "trade": true
-    },
-    "MFLD85": {
-        "id": "2932",
-        "name": "9.5% Manjushree Finance Limited Debenture 2085",
+    "SLCF": {
+        "id": "2923",
+        "name": "Sanima Large Cap Fund",
         "trade": false
     },
     "KEF": {
@@ -439,24 +459,54 @@
         "name": "Singati Hydro Energy Limited",
         "trade": true
     },
+    "RURU": {
+        "id": "2935",
+        "name": "Ru Ru Jalbidhyut Pariyojana Limited",
+        "trade": true
+    },
     "SBCF": {
         "id": "2937",
         "name": "Sunrise Bluechip Fund",
         "trade": false
     },
-    "MKLB": {
-        "id": "4955",
-        "name": "Manakamana Smart Laghubitta Bittiya Sanstha Limited",
+    "CHDC": {
+        "id": "3946",
+        "name": "CEDB Hydropower Development Company Limited",
         "trade": true
+    },
+    "PSF": {
+        "id": "4947",
+        "name": "Prabhu Select Fund",
+        "trade": false
+    },
+    "JBLB": {
+        "id": "4951",
+        "name": "Jeevan Bikas Laghubitta  Bittya Sanstha Ltd",
+        "trade": true
+    },
+    "NBLD87": {
+        "id": "4959",
+        "name": "8.5% Nepal Bank Debenture 2087",
+        "trade": false
     },
     "BOKD86": {
         "id": "4961",
         "name": "8.5% BOK Debenture 2086",
         "trade": false
     },
-    "NMBD87/88": {
-        "id": "4963",
-        "name": "NMB Debenture 8.50% - 2087/88",
+    "PBLD87": {
+        "id": "4962",
+        "name": "8.5% Prabhu Bank Debenture 2087",
+        "trade": false
+    },
+    "SAMAJ": {
+        "id": "4965",
+        "name": "Samaj Laghubittya Bittiya Sanstha Limited",
+        "trade": true
+    },
+    "NICSF": {
+        "id": "4967",
+        "name": "NIC Asia Select Fund 30",
         "trade": false
     },
     "RMF1": {
@@ -464,40 +514,25 @@
         "name": "RBB Mutual Fund 1",
         "trade": false
     },
-    "PBD85": {
-        "id": "6984",
-        "name": "8.75 % Prime Debenture 2085",
-        "trade": false
-    },
-    "GBILD86/87": {
-        "id": "8004",
-        "name": "Global IME Bank Limited Debenture 2086/87",
-        "trade": false
+    "MLBS": {
+        "id": "8018",
+        "name": "Manushi Laghubitta Bittiya Sanstha Limited",
+        "trade": true
     },
     "JBBD87": {
         "id": "8020",
         "name": "Jyoti Bikash Bank Bond 2087",
         "trade": false
     },
-    "TPC": {
-        "id": "8022",
-        "name": "Terhathum Power Company Limited",
-        "trade": true
-    },
-    "NBF3": {
-        "id": "8024",
-        "name": "Nabil Balanced Fund-3",
+    "MMF1": {
+        "id": "8023",
+        "name": "Mega Mutual Fund -1",
         "trade": false
     },
-    "MBJC": {
-        "id": "8031",
-        "name": "Madhya Bhotekoshi Jalavidyut Company Limited",
-        "trade": true
-    },
-    "BNHC": {
-        "id": "8032",
-        "name": "Buddha Bhumi Nepal Hydropower Company Limited",
-        "trade": true
+    "NBLD85": {
+        "id": "8027",
+        "name": "Nabil Debenture 2085",
+        "trade": false
     },
     "JALPA": {
         "id": "8038",
@@ -509,9 +544,19 @@
         "name": "NESDO Sambridha Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
+    "CBLD88": {
+        "id": "8043",
+        "name": "Civil Bank Debenture 2088",
+        "trade": false
+    },
     "GVL": {
         "id": "8045",
         "name": "Green Ventures Limited",
+        "trade": true
+    },
+    "BHL": {
+        "id": "8055",
+        "name": "Balephi Hydropower Limited",
         "trade": true
     },
     "ULBSL": {
@@ -524,25 +569,35 @@
         "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
-    "DORDI": {
-        "id": "8070",
-        "name": "Dordi Khola Jal Bidyut Company Limited",
-        "trade": true
+    "CCBD88": {
+        "id": "8068",
+        "name": "Century Debenture 2088",
+        "trade": false
     },
     "NICFC": {
         "id": "8073",
         "name": "NIC Asia Flexi CAP Fund",
         "trade": false
     },
+    "KDBY": {
+        "id": "8074",
+        "name": "Kumari Dhanabriddhi Yojana",
+        "trade": false
+    },
+    "BHDC": {
+        "id": "8075",
+        "name": "Bindhyabasini Hydropower Development Company Limited",
+        "trade": true
+    },
     "HHL": {
         "id": "8076",
         "name": "Himalayan Hydropower Limited",
         "trade": true
     },
-    "PBD88": {
-        "id": "8097",
-        "name": "10% Prime Debenture 2088",
-        "trade": false
+    "UHEWA": {
+        "id": "8099",
+        "name": "Upper Hewakhola Hydropower Company Limited",
+        "trade": true
     },
     "SGHC": {
         "id": "8100",
@@ -559,29 +614,24 @@
         "name": "Global IME Balanced Fund-1",
         "trade": false
     },
-    "SBID83": {
-        "id": "8110",
-        "name": "10.25% Nepal SBI Bank Debenture 2083",
-        "trade": false
-    },
-    "HIDCLP": {
-        "id": "8111",
-        "name": "Hydorelectricity Investment and Development Company Limited Promoter",
-        "trade": false
-    },
-    "PPL": {
-        "id": "8122",
-        "name": "People's Power Limited",
+    "AVYAN": {
+        "id": "8117",
+        "name": "Aviyan Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
-    "NSIF2": {
-        "id": "8125",
-        "name": "NMB Sulav Investment Fund - 2",
-        "trade": false
+    "DLBS": {
+        "id": "8123",
+        "name": "Dhaulagiri Laghubitta Bittiya Sanstha Limited",
+        "trade": true
     },
     "SIKLES": {
         "id": "8126",
         "name": "Sikles Hydropower Limited",
+        "trade": true
+    },
+    "SHLB": {
+        "id": "8132",
+        "name": "Shrijanshil Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
     "PHCL": {
@@ -589,24 +639,14 @@
         "name": "Peoples Hydropower Company Limited",
         "trade": true
     },
-    "NIBLGF": {
-        "id": "9138",
-        "name": "NIBL Growth Fund",
-        "trade": false
-    },
-    "SAGF": {
-        "id": "9139",
-        "name": "Sanima Growth Fund",
-        "trade": false
+    "BHPL": {
+        "id": "9135",
+        "name": "Barahi Hydropower Public Limited",
+        "trade": true
     },
     "UNLB": {
         "id": "9140",
         "name": "Unique Nepal Laghubitta Bittiya Sanstha Limited",
-        "trade": true
-    },
-    "SMHL": {
-        "id": "9146",
-        "name": "Super Madi Hydropower Limited",
         "trade": true
     },
     "SPL": {
@@ -614,9 +654,19 @@
         "name": "Shuvam Power Limited",
         "trade": true
     },
-    "AHL": {
-        "id": "9150",
-        "name": "Asian Hydropower Limited",
+    "SMH": {
+        "id": "9148",
+        "name": "Super Mai Hydropower Limited",
+        "trade": true
+    },
+    "MKHC": {
+        "id": "9149",
+        "name": "Maya Khola Hydropower Company Limited",
+        "trade": true
+    },
+    "KDL": {
+        "id": "9151",
+        "name": "Kalinchowk Darshan Limited",
         "trade": true
     },
     "SFEF": {
@@ -624,24 +674,14 @@
         "name": "Sunrise Focused Equity Fund",
         "trade": false
     },
-    "MHCL": {
-        "id": "9158",
-        "name": "Molung Hydropower Company Limited",
+    "ANLB": {
+        "id": "9161",
+        "name": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
-    "SMJC": {
-        "id": "9159",
-        "name": "Sagarmatha Jalabidhyut Company Limited",
-        "trade": true
-    },
-    "DOLTI": {
-        "id": "9170",
-        "name": "Dolti Power Company Limited",
-        "trade": true
-    },
-    "CITY": {
-        "id": "9173",
-        "name": "City Hotel Limited",
+    "BEDC": {
+        "id": "9171",
+        "name": "Bhugol Energy Development Company Limited",
         "trade": true
     },
     "PRSF": {
@@ -649,29 +689,44 @@
         "name": "Prabhu Smart Fund",
         "trade": false
     },
+    "RMF2": {
+        "id": "9178",
+        "name": "RBB Mutual Fund 2",
+        "trade": false
+    },
     "SIGS3": {
         "id": "9182",
         "name": "Siddhartha Investment Growth Scheme 3",
         "trade": false
+    },
+    "NRM": {
+        "id": "9183",
+        "name": "Nepal Republic Media Limited",
+        "trade": true
     },
     "TSHL": {
         "id": "9194",
         "name": "Three Star Hydropower Limited",
         "trade": true
     },
-    "KBSH": {
-        "id": "9196",
-        "name": "Kutheli Bukhari Small Hydropower Limited",
+    "LVF2": {
+        "id": "9198",
+        "name": "Laxmi Value Fund 2",
+        "trade": false
+    },
+    "RNLI": {
+        "id": "9199",
+        "name": "Reliable Nepal Life Insurance Limited",
         "trade": true
     },
-    "MANDU": {
-        "id": "9212",
-        "name": "Mandu Hydropower Limited",
+    "MEHL": {
+        "id": "9203",
+        "name": "Manakamana Engineering Hydropower Limited",
         "trade": true
     },
-    "HATHY": {
-        "id": "9213",
-        "name": "Hathway Investment Nepal Limited",
+    "ULHC": {
+        "id": "9208",
+        "name": "Upper Lohore Khola Hydropower Company Limited",
         "trade": true
     },
     "BGWT": {
@@ -679,9 +734,9 @@
         "name": "Bhagawati Hydropower Development Company Limited",
         "trade": true
     },
-    "TVCL": {
-        "id": "9218",
-        "name": "Trishuli Jal Vidhyut Company Limited",
+    "MSHL": {
+        "id": "9215",
+        "name": "Mid Solu Hydropower Limited",
         "trade": true
     },
     "H8020": {
@@ -714,9 +769,29 @@
         "name": "NIC ASIA Growth Fund-2",
         "trade": false
     },
+    "KSY": {
+        "id": "9241",
+        "name": "Kumari Sabal Yojana",
+        "trade": false
+    },
     "NABIL": {
         "id": "131",
         "name": "Nabil Bank Limited",
+        "trade": true
+    },
+    "NIMB": {
+        "id": "132",
+        "name": "Nepal Investment Mega Bank Limited",
+        "trade": true
+    },
+    "SCB": {
+        "id": "133",
+        "name": "Standard Chartered Bank Limited",
+        "trade": true
+    },
+    "HBL": {
+        "id": "134",
+        "name": "Himalayan Bank Limited",
         "trade": true
     },
     "SBI": {
@@ -724,9 +799,14 @@
         "name": "Nepal SBI Bank Limited",
         "trade": true
     },
-    "LSL": {
-        "id": "141",
-        "name": "Laxmi Sunrise Bank Limited",
+    "EBL": {
+        "id": "137",
+        "name": "Everest Bank Limited",
+        "trade": true
+    },
+    "NICA": {
+        "id": "139",
+        "name": "NIC Asia Bank Ltd.",
         "trade": true
     },
     "SBL": {
@@ -749,9 +829,14 @@
         "name": "Oriental Hotels Limited",
         "trade": true
     },
-    "BPCL": {
-        "id": "153",
-        "name": "Butwal Power Company Limited",
+    "STC": {
+        "id": "155",
+        "name": "Salt Trading Corporation",
+        "trade": true
+    },
+    "BBC": {
+        "id": "156",
+        "name": "Bishal Bazar Company Limited",
         "trade": true
     },
     "NUBL": {
@@ -764,19 +849,24 @@
         "name": "Chhimek Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
-    "DDBL": {
-        "id": "166",
-        "name": "Deprosc Laghubitta Bittiya Sanstha Limited",
+    "SANIMA": {
+        "id": "171",
+        "name": "Sanima Bank Limited",
         "trade": true
     },
-    "NABBC": {
-        "id": "172",
-        "name": "Narayani Development Bank Limited",
+    "NICL": {
+        "id": "176",
+        "name": "Nepal Insurance Co. Ltd.",
         "trade": true
     },
-    "SPIL": {
-        "id": "182",
-        "name": "Siddhartha Premier Insurance Limited",
+    "RBCL": {
+        "id": "177",
+        "name": "Rastriya Beema Company Limited",
+        "trade": true
+    },
+    "HEI": {
+        "id": "179",
+        "name": "Himalayan Everest Insurance Limited",
         "trade": true
     },
     "PRIN": {
@@ -789,44 +879,19 @@
         "name": "Sagarmatha Lumbini Insurance Co. Limited",
         "trade": true
     },
-    "IGI": {
-        "id": "186",
-        "name": "IGI Prudential insurance Limited",
-        "trade": true
-    },
-    "NLIC": {
-        "id": "187",
-        "name": "Nepal Life Insurance Co. Ltd.",
-        "trade": true
-    },
     "LICN": {
         "id": "188",
         "name": "Life Insurance Corporation (Nepal) Limited",
         "trade": true
     },
-    "SICL": {
-        "id": "192",
-        "name": "Shikhar Insurance Co. Ltd.",
-        "trade": true
+    "CIT": {
+        "id": "210",
+        "name": "Citizen Investment Trust",
+        "trade": false
     },
-    "NFS": {
-        "id": "194",
-        "name": "Nepal Finance Ltd.",
-        "trade": true
-    },
-    "BNL": {
-        "id": "195",
-        "name": "Bottlers Nepal (Balaju) Limited",
-        "trade": true
-    },
-    "GUFL": {
-        "id": "204",
-        "name": "Gurkhas Finance Ltd.",
-        "trade": true
-    },
-    "BFC": {
-        "id": "227",
-        "name": "Best Finance Company Ltd.",
+    "BNT": {
+        "id": "213",
+        "name": "Bottlers Nepal (Terai) Limited",
         "trade": true
     },
     "GFCL": {
@@ -834,14 +899,9 @@
         "name": "Goodwill Finance Limited",
         "trade": true
     },
-    "PFL": {
-        "id": "236",
-        "name": "Pokhara Finance Ltd.",
-        "trade": true
-    },
-    "NMB": {
-        "id": "238",
-        "name": "NMB Bank Limited",
+    "HDL": {
+        "id": "235",
+        "name": "Himalayan Distillery Limited",
         "trade": true
     },
     "CFCL": {
@@ -849,14 +909,19 @@
         "name": "Central Finance Co. Ltd.",
         "trade": true
     },
+    "SFCL": {
+        "id": "256",
+        "name": "Samriddhi Finance Company Limited",
+        "trade": true
+    },
     "GMFIL": {
         "id": "263",
         "name": "Guheshowori Merchant Bank & Finance Co. Ltd.",
         "trade": true
     },
-    "SWBBL": {
-        "id": "268",
-        "name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
+    "EDBL": {
+        "id": "274",
+        "name": "Excel Development Bank Ltd.",
         "trade": true
     },
     "NTC": {
@@ -864,19 +929,14 @@
         "name": "Nepal Doorsanchar Company Limited",
         "trade": true
     },
-    "PROFL": {
-        "id": "338",
-        "name": "Progressive Finance Limited",
-        "trade": true
-    },
-    "GBIME": {
-        "id": "341",
-        "name": "Global IME Bank Limited",
-        "trade": true
-    },
     "CZBIL": {
         "id": "348",
         "name": "Citizens Bank International Limited",
+        "trade": true
+    },
+    "PCBL": {
+        "id": "357",
+        "name": "Prime Commercial Bank Ltd.",
         "trade": true
     },
     "AHPC": {
@@ -887,11 +947,6 @@
     "MDB": {
         "id": "371",
         "name": "Miteri Development Bank Limited",
-        "trade": true
-    },
-    "ALICL": {
-        "id": "385",
-        "name": "Asian Life Insurance Co. Limited",
         "trade": true
     },
     "HLI": {
@@ -914,34 +969,29 @@
         "name": "Garima Bikas Bank Limited",
         "trade": true
     },
-    "JBBL": {
-        "id": "418",
-        "name": "Jyoti Bikas Bank Limited",
+    "KRBL": {
+        "id": "428",
+        "name": "Karnali Development Bank Limited",
         "trade": true
     },
-    "CORBL": {
-        "id": "450",
-        "name": "Corporate Development Bank Limited",
+    "KSBBL": {
+        "id": "459",
+        "name": "Kamana Sewa Bikas Bank Limited",
         "trade": true
-    },
-    "NIMBPO": {
-        "id": "469",
-        "name": "Nepal Investment Mega Bank Ltd. Promoter Share",
-        "trade": false
     },
     "MPFL": {
         "id": "471",
         "name": "Multipurpose Finance Company  Limited",
         "trade": true
     },
-    "SHINE": {
-        "id": "473",
-        "name": "Shine Resunga Development Bank Ltd.",
+    "SADBL": {
+        "id": "472",
+        "name": "Shangrila Development Bank Ltd.",
         "trade": true
     },
-    "MNBBL": {
-        "id": "474",
-        "name": "Muktinath Bikas Bank Ltd.",
+    "FMDBL": {
+        "id": "490",
+        "name": "First Micro Finance Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
     "MFIL": {
@@ -949,9 +999,14 @@
         "name": "Manjushree Finance Ltd.",
         "trade": true
     },
-    "NBL": {
-        "id": "517",
-        "name": "Nepal Bank Limited",
+    "NLG": {
+        "id": "559",
+        "name": "NLG Insurance Company Ltd.",
+        "trade": true
+    },
+    "SINDU": {
+        "id": "561",
+        "name": "Sindhu Bikash Bank Ltd",
         "trade": true
     },
     "GBLBS": {
@@ -959,29 +1014,19 @@
         "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
         "trade": true
     },
+    "RLFL": {
+        "id": "587",
+        "name": "Reliance Finance Ltd.",
+        "trade": true
+    },
     "SHPC": {
         "id": "591",
         "name": "Sanima Mai Hydropower Ltd.",
         "trade": true
     },
-    "RIDI": {
-        "id": "610",
-        "name": "Ridi Power Company Limited",
-        "trade": true
-    },
-    "LLBS": {
-        "id": "618",
-        "name": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
-        "trade": true
-    },
-    "PRVUPO": {
-        "id": "632",
-        "name": "Prabhu  Bank Limited Promoter Share",
-        "trade": false
-    },
-    "VLBS": {
-        "id": "687",
-        "name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
+    "BARUN": {
+        "id": "686",
+        "name": "Barun Hydropower Co. Ltd.",
         "trade": true
     },
     "HLBSL": {
@@ -994,34 +1039,39 @@
         "name": "Kisan Lagubitta Bittiya Sanstha Limited",
         "trade": true
     },
+    "API": {
+        "id": "697",
+        "name": "Api Power Company Ltd.",
+        "trade": true
+    },
     "HEIP": {
         "id": "700",
         "name": "Himalayan Everest Insurance Limited Promoter",
         "trade": false
+    },
+    "NMBMF": {
+        "id": "704",
+        "name": "NMB  Microfinance Bittiya Sanstha Ltd.",
+        "trade": true
     },
     "GILB": {
         "id": "705",
         "name": "Global IME Laghubitta Bittiya Sanstha Ltd.",
         "trade": true
     },
-    "SWMFPO": {
-        "id": "720",
-        "name": "Suryodaya Womi Laghubitta Bittiya Sanstha Limited Promoter",
-        "trade": false
+    "SWMF": {
+        "id": "706",
+        "name": "Suryodaya Womi Laghubitta Bittiya Sanstha Limited",
+        "trade": true
     },
     "MERO": {
         "id": "1741",
         "name": "Mero Microfinance Bittiya Sanstha Ltd.",
         "trade": true
     },
-    "NGPL": {
-        "id": "2743",
-        "name": "Ngadi Group Power Ltd.",
-        "trade": true
-    },
-    "NMFBS": {
-        "id": "2746",
-        "name": "National Laghubitta Bittiya Sanstha Limited",
+    "GRDBL": {
+        "id": "2744",
+        "name": "Green Development Bank Ltd.",
         "trade": true
     },
     "RSDC": {
@@ -1029,19 +1079,9 @@
         "name": "RSDC Laghubitta Bittiya Sanstha Ltd.",
         "trade": true
     },
-    "KKHC": {
-        "id": "2751",
-        "name": "Khanikhola Hydropower Co. Ltd.",
-        "trade": true
-    },
-    "UMHL": {
-        "id": "2760",
-        "name": "United Modi Hydropower Ltd.",
-        "trade": true
-    },
-    "SMATA": {
-        "id": "2761",
-        "name": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
+    "FOWAD": {
+        "id": "2758",
+        "name": "Forward Microfinance Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
     "HPPL": {
@@ -1054,14 +1094,9 @@
         "name": "Mahuli Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
-    "SEF": {
-        "id": "2770",
-        "name": "Siddhartha Equity Fund",
-        "trade": false
-    },
-    "SMB": {
-        "id": "2771",
-        "name": "Support Microfinance Bittiya Sanstha Ltd.",
+    "NHDL": {
+        "id": "2769",
+        "name": "Nepal Hydro Developers Ltd.",
         "trade": true
     },
     "SAEF": {
@@ -1069,34 +1104,24 @@
         "name": "Sanima Equity Fund",
         "trade": false
     },
-    "RADHI": {
-        "id": "2776",
-        "name": "Radhi Bidyut Company Ltd",
-        "trade": true
-    },
-    "NICGF": {
-        "id": "2779",
-        "name": "NIC Asia Growth Fund",
+    "CMF1": {
+        "id": "2780",
+        "name": "Citizens Mutual Fund -1",
         "trade": false
-    },
-    "WNLB": {
-        "id": "2781",
-        "name": "Wean Nepal Laghubitta Bittiya Sanstha Limited",
-        "trade": true
     },
     "NADEP": {
         "id": "2784",
         "name": "Nadep Laghubittiya bittya Sanstha Ltd.",
         "trade": true
     },
-    "PMHPL": {
-        "id": "2786",
-        "name": "Panchakanya Mai Hydropower Ltd",
+    "KPCL": {
+        "id": "2787",
+        "name": "Kalika power Company Ltd",
         "trade": true
     },
-    "UPPER": {
-        "id": "2792",
-        "name": "Upper Tamakoshi Hydropower Ltd",
+    "AKJCL": {
+        "id": "2788",
+        "name": "Ankhu Khola Jalvidhyut Company Ltd",
         "trade": true
     },
     "ALBSL": {
@@ -1109,29 +1134,19 @@
         "name": "SHIVAM CEMENTS LTD",
         "trade": true
     },
-    "UPCL": {
-        "id": "2810",
-        "name": "UNIVERSAL POWER COMPANY LTD",
-        "trade": true
-    },
     "MHNL": {
         "id": "2811",
         "name": "Mountain Hydro Nepal Limited",
         "trade": true
     },
-    "PPCL": {
-        "id": "2813",
-        "name": "Panchthar Power Compant Limited",
+    "GMFBS": {
+        "id": "2815",
+        "name": "Ganapati Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
     "HURJA": {
         "id": "2824",
         "name": "Himalaya Urja Bikas Company Limited",
-        "trade": true
-    },
-    "GLBSL": {
-        "id": "2826",
-        "name": "Gurans Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
     "SMFBS": {
@@ -1144,11 +1159,6 @@
         "name": "Union Hydropower Limited",
         "trade": true
     },
-    "ILBS": {
-        "id": "2832",
-        "name": "Infinity Laghubitta Bittiya Sanstha Limited",
-        "trade": true
-    },
     "NBF2": {
         "id": "2835",
         "name": "NABIL BALANCED FUND-2",
@@ -1159,64 +1169,59 @@
         "name": "Sabaiko Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
-    "SIGS2": {
-        "id": "2859",
-        "name": "Siddhartha Investment Growth Scheme - 2",
+    "CMF2": {
+        "id": "2862",
+        "name": "CITIZENS MUTUAL FUND 2",
         "trade": false
-    },
-    "SAPDBL": {
-        "id": "2860",
-        "name": "Saptakoshi Development Bank Ltd",
-        "trade": true
     },
     "NICBF": {
         "id": "2863",
         "name": "NIC Asia Balanced Fund",
         "trade": false
     },
-    "MBLD2085": {
-        "id": "2866",
-        "name": "10.25% Machhapuchhre Bank Debenture 2085",
+    "NMB50": {
+        "id": "2867",
+        "name": "NMB 50",
         "trade": false
     },
-    "ICFCD83": {
-        "id": "2882",
-        "name": "12% ICFC Finance Limited Debenture 2083",
+    "PBLD86": {
+        "id": "2875",
+        "name": "10.25% Prabhu Bank  Debenture 2086",
         "trade": false
     },
-    "GWFD83": {
-        "id": "2883",
-        "name": "12 % Goodwill Finance Limited Debenture 2083",
+    "SFMF": {
+        "id": "2877",
+        "name": "Sunrise First Mutual Fund",
         "trade": false
     },
-    "ADBLD83": {
-        "id": "2886",
-        "name": "10.35% Agricultural Bank Debenture 2083",
+    "SRBLD83": {
+        "id": "2878",
+        "name": "10.25% Sunrise Bank Debenture 2083",
         "trade": false
     },
-    "NRN": {
-        "id": "2898",
-        "name": "NRN Infrastructure and Development Limited",
+    "HDHPC": {
+        "id": "2880",
+        "name": "Himal Dolakha Hydropower Company Limited",
         "trade": true
     },
-    "LEC": {
-        "id": "2903",
-        "name": "Liberty Energy Company Limited",
+    "NRIC": {
+        "id": "2881",
+        "name": "Nepal Reinsurance Company Limited",
         "trade": true
     },
-    "SBLD84": {
-        "id": "2912",
-        "name": "8.5% SBL Debenture 2084",
+    "NBLD82": {
+        "id": "2892",
+        "name": "10% Nabil Debenture 2082",
         "trade": false
     },
-    "MEN": {
-        "id": "2913",
-        "name": "Mountain Energy Nepal Limited",
+    "SDLBSL": {
+        "id": "2896",
+        "name": "Sadhana Laghubitta Bittiya Sanstha Limited",
         "trade": true
     },
-    "PMLI": {
-        "id": "2915",
-        "name": "Prabhu Mahalaxmi Life Insurance Limited",
+    "SSHL": {
+        "id": "2907",
+        "name": "Shiva Shree Hydropower Ltd",
         "trade": true
     },
     "CGH": {
@@ -1224,44 +1229,19 @@
         "name": "Chandragiri Hills Limited",
         "trade": true
     },
-    "FOWADP": {
-        "id": "2921",
-        "name": "Forward Microfinance Laghubitta Bittiya Sanstha Limited Promoter",
-        "trade": false
-    },
-    "SBD87": {
-        "id": "2922",
-        "name": "8.5% Sanima Debenture 2087",
-        "trade": false
-    },
-    "SLCF": {
-        "id": "2923",
-        "name": "Sanima Large Cap Fund",
-        "trade": false
-    },
     "GLH": {
         "id": "2924",
         "name": "GreenLife Hydropower Limited",
         "trade": true
     },
-    "NIBD84": {
-        "id": "2931",
-        "name": "8.5% Nepal Investment Bank Debenture 2084",
-        "trade": false
-    },
-    "RURU": {
-        "id": "2935",
-        "name": "Ru Ru Jalbidhyut Pariyojana Limited",
+    "MLBSL": {
+        "id": "2925",
+        "name": "Mahila Lagubitta Bittiya Sanstha Limited",
         "trade": true
     },
-    "CHDC": {
-        "id": "3946",
-        "name": "CEDB Hydropower Development Company Limited",
-        "trade": true
-    },
-    "PSF": {
-        "id": "4947",
-        "name": "Prabhu Select Fund",
+    "MFLD85": {
+        "id": "2932",
+        "name": "9.5% Manjushree Finance Limited Debenture 2085",
         "trade": false
     },
     "KSBBLD87": {
@@ -1274,39 +1254,29 @@
         "name": "NIBL Samriddhi Fund -2",
         "trade": false
     },
-    "JBLB": {
-        "id": "4951",
-        "name": "Jeevan Bikas Laghubitta  Bittya Sanstha Ltd",
+    "MKLB": {
+        "id": "4955",
+        "name": "Manakamana Smart Laghubitta Bittiya Sanstha Limited",
         "trade": true
-    },
-    "NBLD87": {
-        "id": "4959",
-        "name": "8.5% Nepal Bank Debenture 2087",
-        "trade": false
-    },
-    "SAMAJ": {
-        "id": "4965",
-        "name": "Samaj Laghubittya Bittiya Sanstha Limited",
-        "trade": true
-    },
-    "NICSF": {
-        "id": "4967",
-        "name": "NIC Asia Select Fund 30",
-        "trade": false
     },
     "SRLI": {
         "id": "5982",
         "name": "Sanima Reliance Life Insurance Limited",
         "trade": true
     },
-    "SDBD87": {
-        "id": "6985",
-        "name": "Shangri-la Development Bank Debenture 2087",
+    "RBBD83": {
+        "id": "8003",
+        "name": "8.5% RBBL Debenture 2083",
         "trade": false
     },
-    "MLBS": {
-        "id": "8018",
-        "name": "Manushi Laghubitta Bittiya Sanstha Limited",
+    "GBILD86/87": {
+        "id": "8004",
+        "name": "Global IME Bank Limited Debenture 2086/87",
+        "trade": false
+    },
+    "MKJC": {
+        "id": "8005",
+        "name": "Mailung Khola Jal Vidhyut Company Limited",
         "trade": true
     },
     "SAHAS": {
@@ -1314,9 +1284,14 @@
         "name": "Sahas Urja Limited",
         "trade": true
     },
-    "MMF1": {
-        "id": "8023",
-        "name": "Mega Mutual Fund -1",
+    "TPC": {
+        "id": "8022",
+        "name": "Terhathum Power Company Limited",
+        "trade": true
+    },
+    "NBF3": {
+        "id": "8024",
+        "name": "Nabil Balanced Fund-3",
         "trade": false
     },
     "SPC": {
@@ -1329,29 +1304,19 @@
         "name": "Nyadi Hydropower Limited",
         "trade": true
     },
-    "NBLD85": {
-        "id": "8027",
-        "name": "Nabil Debenture 2085",
-        "trade": false
+    "MBJC": {
+        "id": "8031",
+        "name": "Madhya Bhotekoshi Jalavidyut Company Limited",
+        "trade": true
     },
-    "GBBD85": {
-        "id": "8033",
-        "name": "Garima Debenture\"",
-        "trade": false
+    "BNHC": {
+        "id": "8032",
+        "name": "Buddha Bhumi Nepal Hydropower Company Limited",
+        "trade": true
     },
     "ENL": {
         "id": "8034",
         "name": "Emerging Nepal Limited",
-        "trade": true
-    },
-    "CBLD88": {
-        "id": "8043",
-        "name": "Civil Bank Debenture 2088",
-        "trade": false
-    },
-    "BHL": {
-        "id": "8055",
-        "name": "Balephi Hydropower Limited",
         "trade": true
     },
     "RFPL": {
@@ -1359,24 +1324,9 @@
         "name": "River Falls Power Limited",
         "trade": true
     },
-    "CCBD88": {
-        "id": "8068",
-        "name": "Century Debenture 2088",
-        "trade": false
-    },
-    "KDBY": {
-        "id": "8074",
-        "name": "Kumari Dhanabriddhi Yojana",
-        "trade": false
-    },
-    "BHDC": {
-        "id": "8075",
-        "name": "Bindhyabasini Hydropower Development Company Limited",
-        "trade": true
-    },
-    "UHEWA": {
-        "id": "8099",
-        "name": "Upper Hewakhola Hydropower Company Limited",
+    "DORDI": {
+        "id": "8070",
+        "name": "Dordi Khola Jal Bidyut Company Limited",
         "trade": true
     },
     "MHL": {
@@ -1389,54 +1339,59 @@
         "name": "Rapti Hydro And General Construction Limited",
         "trade": true
     },
-    "AVYAN": {
-        "id": "8117",
-        "name": "Aviyan Laghubitta Bittiya Sanstha Limited",
-        "trade": true
+    "HIDCLP": {
+        "id": "8111",
+        "name": "Hydorelectricity Investment and Development Company Limited Promoter",
+        "trade": false
+    },
+    "EBLD85": {
+        "id": "8119",
+        "name": "10.50% Everest Bank Limited Debenture 2085",
+        "trade": false
     },
     "SPHL": {
         "id": "8121",
         "name": "Sayapatri Hydropower Limited",
         "trade": true
     },
-    "DLBS": {
-        "id": "8123",
-        "name": "Dhaulagiri Laghubitta Bittiya Sanstha Limited",
+    "PPL": {
+        "id": "8122",
+        "name": "People's Power Limited",
         "trade": true
+    },
+    "NSIF2": {
+        "id": "8125",
+        "name": "NMB Sulav Investment Fund - 2",
+        "trade": false
+    },
+    "KBLD89": {
+        "id": "8127",
+        "name": "11% KBL Debenture 2089",
+        "trade": false
     },
     "EHPL": {
         "id": "8131",
         "name": "Eastern Hydropower Limited",
         "trade": true
     },
-    "SHLB": {
-        "id": "8132",
-        "name": "Shrijanshil Laghubitta Bittiya Sanstha Limited",
-        "trade": true
-    },
-    "BHPL": {
-        "id": "9135",
-        "name": "Barahi Hydropower Public Limited",
-        "trade": true
-    },
-    "HBLD86": {
-        "id": "9137",
-        "name": "Himalayan Bank Limited Bond\"",
+    "NIBLGF": {
+        "id": "9138",
+        "name": "NIBL Growth Fund",
         "trade": false
     },
-    "SMH": {
-        "id": "9148",
-        "name": "Super Mai Hydropower Limited",
+    "SAGF": {
+        "id": "9139",
+        "name": "Sanima Growth Fund",
+        "trade": false
+    },
+    "SMHL": {
+        "id": "9146",
+        "name": "Super Madi Hydropower Limited",
         "trade": true
     },
-    "MKHC": {
-        "id": "9149",
-        "name": "Maya Khola Hydropower Company Limited",
-        "trade": true
-    },
-    "KDL": {
-        "id": "9151",
-        "name": "Kalinchowk Darshan Limited",
+    "AHL": {
+        "id": "9150",
+        "name": "Asian Hydropower Limited",
         "trade": true
     },
     "TAMOR": {
@@ -1444,9 +1399,14 @@
         "name": "Sanima Middle Tamor Hydropower Limited",
         "trade": true
     },
-    "ANLB": {
-        "id": "9161",
-        "name": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
+    "MHCL": {
+        "id": "9158",
+        "name": "Molung Hydropower Company Limited",
+        "trade": true
+    },
+    "SMJC": {
+        "id": "9159",
+        "name": "Sagarmatha Jalabidhyut Company Limited",
         "trade": true
     },
     "MAKAR": {
@@ -1459,9 +1419,14 @@
         "name": "Mai Khola Hydropower Limited",
         "trade": true
     },
-    "BEDC": {
-        "id": "9171",
-        "name": "Bhugol Energy Development Company Limited",
+    "DOLTI": {
+        "id": "9170",
+        "name": "Dolti Power Company Limited",
+        "trade": true
+    },
+    "CITY": {
+        "id": "9173",
+        "name": "City Hotel Limited",
         "trade": true
     },
     "MCHL": {
@@ -1474,11 +1439,6 @@
         "name": "Ingwa Hydropower Limited",
         "trade": true
     },
-    "RMF2": {
-        "id": "9178",
-        "name": "RBB Mutual Fund 2",
-        "trade": false
-    },
     "MEL": {
         "id": "9179",
         "name": "Modi Energy Limited",
@@ -1487,11 +1447,6 @@
     "RAWA": {
         "id": "9181",
         "name": "Rawa Energy Development Limited",
-        "trade": true
-    },
-    "NRM": {
-        "id": "9183",
-        "name": "Nepal Republic Media Limited",
         "trade": true
     },
     "ILI": {
@@ -1514,44 +1469,29 @@
         "name": "Ghorahi Cement Industry Limited",
         "trade": true
     },
-    "LVF2": {
-        "id": "9198",
-        "name": "Laxmi Value Fund 2",
-        "trade": false
-    },
-    "RNLI": {
-        "id": "9199",
-        "name": "Reliable Nepal Life Insurance Limited",
+    "KBSH": {
+        "id": "9196",
+        "name": "Kutheli Bukhari Small Hydropower Limited",
         "trade": true
+    },
+    "LBBLD89": {
+        "id": "9197",
+        "name": "11% L.B.B.L. Debenture 2089",
+        "trade": false
     },
     "SNLI": {
         "id": "9201",
         "name": "Sun Nepal Life Insurance Company Limited",
         "trade": true
     },
-    "MEHL": {
-        "id": "9203",
-        "name": "Manakamana Engineering Hydropower Limited",
+    "MANDU": {
+        "id": "9212",
+        "name": "Mandu Hydropower Limited",
         "trade": true
     },
-    "ULHC": {
-        "id": "9208",
-        "name": "Upper Lohore Khola Hydropower Company Limited",
-        "trade": true
-    },
-    "CLI": {
-        "id": "9209",
-        "name": "Citizen Life Insurance Company Limited",
-        "trade": true
-    },
-    "SBID89": {
-        "id": "9211",
-        "name": "9% Nepal SBI Bank Rinpatra 2089",
-        "trade": false
-    },
-    "MSHL": {
-        "id": "9215",
-        "name": "Mid Solu Hydropower Limited",
+    "HATHY": {
+        "id": "9213",
+        "name": "Hathway Investment Nepal Limited",
         "trade": true
     },
     "SONA": {
@@ -1563,6 +1503,16 @@
         "id": "9217",
         "name": "Mathillo Mailun Khola Jalvidhyut Limited",
         "trade": true
+    },
+    "TVCL": {
+        "id": "9218",
+        "name": "Trishuli Jal Vidhyut Company Limited",
+        "trade": true
+    },
+    "CIZBD90": {
+        "id": "9231",
+        "name": "10% Citizens Bank Debenture 2090",
+        "trade": false
     },
     "HRL": {
         "id": "9234",
