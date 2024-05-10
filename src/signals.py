@@ -97,8 +97,8 @@ def bbands(df):
     if len(df)<20:return 0
     df.ta.bbands(close='close',append=True)
 
-    buy_threshold = -0.05
-    sell_threshold = -0.05
+    buy_threshold = -0.02
+    sell_threshold = -0.02
 
     if df['close'].iloc[-1] < df['BBL_5_2.0'].iloc[-1] * (1 - buy_threshold):  # Buy signal if the closing price is below the lower Bollinger Band
         return 1
@@ -137,7 +137,7 @@ def hybrid(df,lag=0):
 
 
 if __name__== "__main__":
-    print("Stock\tMACD\tEMA\tRSI")
+    print("Stock\tMACD\tEMA\tRSI\tBBands")
     for stock in [Stock(x) for x in COMPANIES if Stock(x).trade]:
         df =  pd.read_csv(stock.file)
-        print(f'{stock()}\t{macd(df)}\t{ema_crossover(df)}\t{rsi(df)}')
+        print(f'{stock()}\t{macd(df)}\t{ema_crossover(df)}\t{rsi(df)}\t{bbands(df)}')
