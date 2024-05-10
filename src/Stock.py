@@ -17,6 +17,11 @@ class Stock:
     
     def __call__(self):
         return self.symbol
+
+    def __eq__(self, other):
+        if isinstance(other, Stock):
+            return self.id == other.id
+        return False
     
     def get_data(self,start_date=None,end_date=None):
         endpoint = f"/data/company/{self.symbol.replace('/','∕')}.json"
