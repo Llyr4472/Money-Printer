@@ -1,25 +1,31 @@
 from Stock import Stock,COMPANIES
-from signals import *
+import signals
 from datetime import datetime, timedelta
 import logging
 import json
 import pandas as pd
 import math
-from random import randrange
+import numpy as np
 
-def trade(portfolio,date=datetime.today):
+def trade(portfolio,date=datetime.today,strategy='hybrid'):
 
     my_stocks = [Stock(stock['symbol']) for stock in portfolio['assets']]
     my_orders = [Stock(stock['symbol']) for stock in portfolio['orders']]
 
     orders=[]
 
+    strat = getattr(signals,strategy)
+
     #initiate selling process
     for stock in my_stocks:
         if stock in my_orders: continue
-        if not isinstance(stock,Stock): stock = Stock(stock)
+
+        #Read data
+        df = pd.read_csv(stock.file)
+        df = df.loc[df['date'] <= str(date)].copy()
+        
         try:
-            strength = Signal(preprocess(stock(),date))
+            strength = strat(df)
         except Exception as e:
             logging.warning(f"Error in {stock()}: {e}")
             continue
@@ -32,39 +38,48 @@ def trade(portfolio,date=datetime.today):
     #initiate buying process
     my_stocks = [Stock(stock['symbol']) for stock in portfolio['assets']]
     my_orders = [Stock(stock['symbol']) for stock in portfolio['orders']]
-    buying = set()
-    for stock in COMPANIES:
-        if stock in my_stocks or stock in my_orders or not Stock(stock).trade:continue
-        stock = Stock(stock)
+    buying = list()
+    for stock in [Stock(x) for x in COMPANIES]:
+        if stock in my_stocks or stock in my_orders or not stock.trade:continue
+
+        #Read data
+        df = pd.read_csv(stock.file)
+        df= df.loc[df['date'] <= str(date)].copy()
+
         try:
-            strength = sum(macd_rsi(preprocess(stock(),date)))
+            strength = strat(df)
         except Exception as e:
             print(f"Error in {stock}: {e}")
             continue
         if strength > 0:
-            buying.add(stock)
-    portfolio = buy(buying,portfolio,date,strength)
+            buying.append(stock)
+    portfolio = buy(buying,portfolio,date)
 
     #update portfolio
+    portfolio['last_analyzed_date'] = str(date)
     with open(f'data/portfolios/{portfolio["portfolio_name"]}.json', 'w') as p:
         # Load JSON data from the file
         json.dump(portfolio,p,indent=4)
 
-def buy(stocks,portfolio,date,strength):
+def buy(stocks,portfolio,date):
     for stock in stocks:
         #Get info on stock
         df = pd.read_csv(stock.file)
-        pd.to_datetime(df['date'])
-        df= df.loc[df['date'] <= str(date)]
-        price = df[-1:]['close'].values[0] + randrange(1,5)
+        df = df.loc[df['date'] <= str(date)].copy()
+        price = df[-1:]['close'].values[0]
+        
+        #Check for price data
+        if np.isnan(price):
+            logging.warning(f"No price found for {stock.symbol} on {date}.")
+            return portfolio
         
         #Check for sufficient funds
         if(price*10>0.7*portfolio['available_funds']):
             continue
         
         #determine quantity to buy
-        quantity = math.floor((portfolio['available_funds']*0.7*strength)/(len(stocks)*price))
-        if quantity < 10: continue
+        quantity = round((portfolio['available_funds']*0.7)/(len(stocks)*price))
+        if quantity < 10: quantity = 10
 
         #Place order
         portfolio["available_funds"] -= round(price*quantity,2)
@@ -86,8 +101,13 @@ def sell(stock,portfolio,date):
     #Get info on stock
     df = pd.read_csv(stock.file)
     pd.to_datetime(df['date'])
-    df= df.loc[df['date'] <= str(date)]
-    price = df[-1:]['close'].values[0] - randrange(1,5)
+    df= df.loc[df['date'] <= str(date)].copy()
+    price = df[-1:]['close'].values[0]
+    
+    #Check if price exists in data
+    if np.isnan(price):
+        logging.warning(f"No price found for {stock.symbol} on {date}.")
+        return portfolio
 
     #Determine sell quantity
     for asset in portfolio['assets']:
@@ -138,26 +158,32 @@ def process_orders(portfolio,date=datetime.today,lag_days=0):
         # Load JSON data from the file
         json.dump(portfolio,p,indent=4)
 
-def simulate(portfolio_name,start_date,end_date=datetime.today().date()):
+def simulate(portfolio_name,end_date=datetime.today().date(),strategy='hybrid'):
     # Configure logging
-    logging.basicConfig(filename=f'..logs/{portfolio_name}.log', level=logging.INFO, format='%(asctime)s - %(levelname)s: %(message)s')
+    logging.basicConfig(filename=f'logs/{portfolio_name}.log', level=logging.INFO, format='%(asctime)s - %(levelname)s: %(message)s')
 
     #load portfolio
     try:
-        with open(f'/data/portfolios/{portfolio_name}.json' ,'r') as f:
+        with open(f'data/portfolios/{portfolio_name}.json' ,'r') as f:
             portfolio = json.load(f) 
     except FileNotFoundError:
         logging.error("Portfolio not found.")
+        return
 
-    while(start_date < end_date):
+    date = datetime.strptime(portfolio['last_analyzed_date'],"%Y-%m-%d").date()
+    while(date < end_date):
         process_orders(portfolio,date)
         #load processed portfolio
         with open(f'data/portfolios/{portfolio_name}.json' ,'r') as f:
-            portfolio = json.load(f) 
-        trade(portfolio,date)
+            portfolio = json.load(f)
+        try:
+            trade(portfolio,date,strategy)
+        except Exception as e:
+            logging.error(f'Error in trade: {e}. Exiting now.')
+            return
         logging.info(f'Trade completed for {date}.')
         date += timedelta(1)
 
 if __name__ == "__main__":
     portfolio_name = 'portfolio'
-    simulate(portfolio_name,start_date = datetime(2022,2,15).date())
+    simulate(portfolio_name,strategy='hybrid')
