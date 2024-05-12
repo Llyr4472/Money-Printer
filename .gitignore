@@ -3,3 +3,4 @@ tempCodeRunnerFile.py
 dump.json
 .vscode/
 temp/
+*.config
