@@ -2,16 +2,23 @@
     "portfolio_name": "portfolio-2015",
     "owner": "Llyr4472",
     "creation_date": "2025-01-01",
-    "last_analyzed_date": "2022-04-26",
-    "available_funds": 4332.5,
+    "last_analyzed_date": "2023-01-20",
+    "available_funds": 2196.8999999999996,
     "reserved": 0.0,
     "assets": [
         {
-            "symbol": "SANIMA",
-            "name": "Sanima Bank Limited",
-            "quantity": 14,
-            "price": 315.0,
-            "date": "2022-04-21"
+            "symbol": "KRBL",
+            "name": "Karnali Development Bank Limited",
+            "quantity": 10,
+            "price": 248.5,
+            "date": "2022-12-08"
+        },
+        {
+            "symbol": "PROFL",
+            "name": "Progressive Finance Limited",
+            "quantity": 10,
+            "price": 305.0,
+            "date": "2022-12-29"
         }
     ],
     "orders": []
