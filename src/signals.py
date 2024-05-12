@@ -55,7 +55,7 @@ def rsi(df,lag=0):
     df['RSI'] = ta.rsi(df['close']) #append=True didn't work with RSI
     rsi = 0
     for i in [-i for i in range(1, lag+2)]:
-        if abs(rsi) !=0.5:
+        if rsi == 0:
             rsi = -1 if df['RSI'].iloc[i]>70 else (1 if df['RSI'].iloc[i]<30 else 0)
     return rsi
 
@@ -72,7 +72,6 @@ def ema_crossover(df,lag=0):
     Returns:
         int: 1 if the EMA crossover signal is a buy signal, -1 if the signal is a sell signal, 0 if there is no signal.
     """
-
     if len(df)<62:return 0
     emas_used = [3,5,8,10,12,15,30,35,40,45,50,60]
     for ema in emas_used:
