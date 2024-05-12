@@ -1,0 +1,18 @@
+{
+    "portfolio_name": "portfolio-2015",
+    "owner": "Llyr4472",
+    "creation_date": "2025-01-01",
+    "last_analyzed_date": "2022-04-26",
+    "available_funds": 4332.5,
+    "reserved": 0.0,
+    "assets": [
+        {
+            "symbol": "SANIMA",
+            "name": "Sanima Bank Limited",
+            "quantity": 14,
+            "price": 315.0,
+            "date": "2022-04-21"
+        }
+    ],
+    "orders": []
+}

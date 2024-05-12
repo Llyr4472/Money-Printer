@@ -1,0 +1,2204 @@
+2024-05-10 11:26:47,289 - INFO: Placed 10 order for HBL at Rs509.0
+2024-05-10 11:26:47,313 - INFO: Placed 10 order for HIDCL at Rs145.0
+2024-05-10 11:26:47,346 - INFO: Placed 10 order for SFCL at Rs100.0
+2024-05-10 11:26:47,360 - INFO: Placed 10 order for CHL at Rs87.0
+2024-05-10 11:26:47,386 - INFO: Placed 10 order for MHNL at Rs84.0
+2024-05-10 11:26:47,461 - INFO: Trade completed for 2020-01-01.
+2024-05-10 11:26:47,462 - INFO: Buying of HBL completed.
+2024-05-10 11:26:47,462 - INFO: Buying of SFCL completed.
+2024-05-10 11:26:47,463 - INFO: Buying of MHNL completed.
+2024-05-10 11:27:02,024 - INFO: Trade completed for 2020-01-02.
+2024-05-10 11:27:02,024 - INFO: Buying of HIDCL completed.
+2024-05-10 11:27:15,899 - INFO: Trade completed for 2020-01-03.
+2024-05-10 11:27:15,899 - INFO: Buying of CHL completed.
+2024-05-10 11:27:29,684 - INFO: Trade completed for 2020-01-04.
+2024-05-10 11:27:42,057 - INFO: Trade completed for 2020-01-05.
+2024-05-10 11:27:42,503 - INFO: Placed SELL order for HIDCL at Rs136.0.
+2024-05-10 11:27:56,171 - INFO: Trade completed for 2020-01-06.
+2024-05-10 11:27:56,171 - INFO: Selling of HIDCL completed.
+2024-05-10 11:28:10,040 - INFO: Placed 10 order for GMFIL at Rs116.0
+2024-05-10 11:28:10,090 - INFO: Trade completed for 2020-01-07.
+2024-05-10 11:28:10,090 - INFO: Buying of GMFIL completed.
+2024-05-10 11:28:23,563 - INFO: Placed 10 order for UNHPL at Rs57.0
+2024-05-10 11:28:23,641 - INFO: Trade completed for 2020-01-08.
+2024-05-10 11:28:23,641 - INFO: Buying of UNHPL completed.
+2024-05-10 11:28:42,410 - INFO: Trade completed for 2020-01-09.
+2024-05-10 11:28:57,960 - INFO: Trade completed for 2020-01-10.
+2024-05-10 11:29:10,713 - INFO: Trade completed for 2020-01-11.
+2024-05-10 11:29:26,605 - INFO: Trade completed for 2020-01-12.
+2024-05-10 11:29:40,830 - INFO: Trade completed for 2020-01-13.
+2024-05-10 11:29:57,953 - INFO: Trade completed for 2020-01-14.
+2024-05-10 11:30:12,773 - INFO: Trade completed for 2020-01-15.
+2024-05-10 11:30:25,447 - INFO: Trade completed for 2020-01-16.
+2024-05-10 11:30:40,277 - INFO: Trade completed for 2020-01-17.
+2024-05-10 11:30:55,607 - INFO: Trade completed for 2020-01-18.
+2024-05-10 11:31:10,679 - INFO: Trade completed for 2020-01-19.
+2024-05-10 11:31:24,470 - INFO: Trade completed for 2020-01-20.
+2024-05-10 11:31:45,877 - INFO: Trade completed for 2020-01-21.
+2024-05-10 11:32:00,027 - INFO: Trade completed for 2020-01-22.
+2024-05-10 11:32:16,291 - INFO: Trade completed for 2020-01-23.
+2024-05-10 11:32:31,756 - INFO: Trade completed for 2020-01-24.
+2024-05-10 11:32:46,350 - INFO: Trade completed for 2020-01-25.
+2024-05-10 11:33:01,989 - INFO: Trade completed for 2020-01-26.
+2024-05-10 11:33:16,147 - INFO: Trade completed for 2020-01-27.
+2024-05-10 11:33:30,497 - INFO: Trade completed for 2020-01-28.
+2024-05-10 11:33:30,638 - INFO: Placed SELL order for HBL at Rs498.0.
+2024-05-10 11:33:45,685 - INFO: Trade completed for 2020-01-29.
+2024-05-10 11:33:45,686 - INFO: Selling of HBL completed.
+2024-05-10 11:33:59,495 - INFO: Placed 10 order for ICFC at Rs172.0
+2024-05-10 11:33:59,558 - INFO: Placed 10 order for RLFL at Rs136.0
+2024-05-10 11:33:59,620 - INFO: Trade completed for 2020-01-30.
+2024-05-10 11:33:59,620 - INFO: Buying of ICFC completed.
+2024-05-10 11:34:12,280 - INFO: Trade completed for 2020-01-31.
+2024-05-10 11:34:12,280 - INFO: Buying of RLFL completed.
+2024-05-10 11:34:23,937 - INFO: Trade completed for 2020-02-01.
+2024-05-10 11:34:35,985 - INFO: Placed 10 order for KSBBL at Rs158.0
+2024-05-10 11:34:36,079 - INFO: Trade completed for 2020-02-02.
+2024-05-10 11:34:36,079 - INFO: Buying of KSBBL completed.
+2024-05-10 11:34:47,829 - INFO: Trade completed for 2020-02-03.
+2024-05-10 11:34:59,407 - INFO: Trade completed for 2020-02-04.
+2024-05-10 11:35:10,767 - INFO: Trade completed for 2020-02-05.
+2024-05-10 11:35:21,921 - INFO: Trade completed for 2020-02-06.
+2024-05-10 11:35:33,154 - INFO: Trade completed for 2020-02-07.
+2024-05-10 11:35:44,448 - INFO: Trade completed for 2020-02-08.
+2024-05-10 11:35:44,870 - INFO: Placed SELL order for UNHPL at Rs58.0.
+2024-05-10 11:35:55,821 - INFO: Trade completed for 2020-02-09.
+2024-05-10 11:35:55,821 - INFO: Selling of UNHPL completed.
+2024-05-10 11:36:06,928 - INFO: Placed 10 order for UPCL at Rs76.0
+2024-05-10 11:36:07,225 - INFO: Trade completed for 2020-02-10.
+2024-05-10 11:36:07,225 - INFO: Buying of UPCL completed.
+2024-05-10 11:36:18,583 - INFO: Trade completed for 2020-02-11.
+2024-05-10 11:36:30,160 - INFO: Trade completed for 2020-02-12.
+2024-05-10 11:36:48,503 - INFO: Trade completed for 2020-02-13.
+2024-05-10 11:37:05,820 - INFO: Trade completed for 2020-02-14.
+2024-05-10 11:37:23,874 - INFO: Trade completed for 2020-02-15.
+2024-05-10 11:37:38,919 - INFO: Trade completed for 2020-02-16.
+2024-05-10 11:37:39,122 - INFO: Placed SELL order for MHNL at Rs93.0.
+2024-05-10 11:37:53,149 - INFO: Trade completed for 2020-02-17.
+2024-05-10 11:37:53,149 - INFO: Selling of MHNL completed.
+2024-05-10 11:37:53,749 - INFO: Placed SELL order for KSBBL at Rs168.0.
+2024-05-10 11:38:06,704 - INFO: Placed 10 order for AHPC at Rs98.0
+2024-05-10 11:38:06,770 - INFO: Trade completed for 2020-02-18.
+2024-05-10 11:38:06,770 - INFO: Selling of KSBBL completed.
+2024-05-10 11:38:22,182 - INFO: Placed 10 order for HIDCL at Rs139.0
+2024-05-10 11:38:22,398 - INFO: Trade completed for 2020-02-19.
+2024-05-10 11:38:22,399 - INFO: Buying of AHPC completed.
+2024-05-10 11:38:35,969 - INFO: Trade completed for 2020-02-20.
+2024-05-10 11:38:35,985 - INFO: Buying of HIDCL completed.
+2024-05-10 11:38:49,138 - INFO: Trade completed for 2020-02-21.
+2024-05-10 11:39:01,523 - INFO: Trade completed for 2020-02-22.
+2024-05-10 11:39:14,318 - INFO: Trade completed for 2020-02-23.
+2024-05-10 11:39:27,791 - INFO: Trade completed for 2020-02-24.
+2024-05-10 11:39:45,494 - INFO: Placed 10 order for DHPL at Rs53.0
+2024-05-10 11:39:45,637 - INFO: Trade completed for 2020-02-25.
+2024-05-10 11:39:45,637 - INFO: Buying of DHPL completed.
+2024-05-10 11:40:04,983 - INFO: Trade completed for 2020-02-26.
+2024-05-10 11:40:22,942 - INFO: Trade completed for 2020-02-27.
+2024-05-10 11:40:39,114 - INFO: Trade completed for 2020-02-28.
+2024-05-10 11:40:54,398 - INFO: Trade completed for 2020-02-29.
+2024-05-10 11:41:09,706 - INFO: Trade completed for 2020-03-01.
+2024-05-10 11:41:24,339 - INFO: Trade completed for 2020-03-02.
+2024-05-10 11:41:24,473 - INFO: Placed SELL order for SFCL at Rs101.0.
+2024-05-10 11:41:25,231 - INFO: Placed SELL order for DHPL at Rs53.0.
+2024-05-10 11:41:39,162 - INFO: Trade completed for 2020-03-03.
+2024-05-10 11:41:39,162 - INFO: Selling of SFCL completed.
+2024-05-10 11:41:53,946 - INFO: Placed 10 order for KKHC at Rs58.0
+2024-05-10 11:41:54,172 - INFO: Trade completed for 2020-03-04.
+2024-05-10 11:41:54,173 - INFO: Selling of DHPL completed.
+2024-05-10 11:42:06,363 - INFO: Placed 10 order for UNHPL at Rs62.0
+2024-05-10 11:42:06,394 - INFO: Trade completed for 2020-03-05.
+2024-05-10 11:42:06,394 - INFO: Buying of KKHC completed.
+2024-05-10 11:42:20,210 - INFO: Trade completed for 2020-03-06.
+2024-05-10 11:42:20,210 - INFO: Buying of UNHPL completed.
+2024-05-10 11:42:34,193 - INFO: Trade completed for 2020-03-07.
+2024-05-10 11:42:53,533 - INFO: Trade completed for 2020-03-08.
+2024-05-10 11:43:24,712 - INFO: Trade completed for 2020-03-09.
+2024-05-10 11:43:58,943 - INFO: Trade completed for 2020-03-10.
+2024-05-10 11:44:01,141 - INFO: Placed SELL order for ICFC at Rs189.0.
+2024-05-10 11:44:02,118 - INFO: Placed SELL order for HIDCL at Rs140.0.
+2024-05-10 11:44:02,751 - INFO: Placed SELL order for UNHPL at Rs61.0.
+2024-05-10 11:44:21,761 - INFO: Trade completed for 2020-03-11.
+2024-05-10 11:44:21,761 - INFO: Selling of ICFC completed.
+2024-05-10 11:44:21,761 - INFO: Selling of UNHPL completed.
+2024-05-10 11:44:39,979 - INFO: Trade completed for 2020-03-12.
+2024-05-10 11:44:39,979 - INFO: Selling of HIDCL completed.
+2024-05-10 11:44:53,818 - INFO: Trade completed for 2020-03-13.
+2024-05-10 11:45:07,479 - INFO: Trade completed for 2020-03-14.
+2024-05-10 11:45:08,165 - INFO: Placed SELL order for KKHC at Rs52.0.
+2024-05-10 11:45:20,599 - INFO: Placed 10 order for MFIL at Rs268.0
+2024-05-10 11:45:20,602 - INFO: Trade completed for 2020-03-15.
+2024-05-10 11:45:20,602 - INFO: Selling of KKHC completed.
+2024-05-10 11:45:33,272 - INFO: Trade completed for 2020-03-16.
+2024-05-10 11:45:33,272 - INFO: Buying of MFIL completed.
+2024-05-10 11:45:46,158 - INFO: Trade completed for 2020-03-17.
+2024-05-10 11:45:59,787 - INFO: Trade completed for 2020-03-18.
+2024-05-10 11:46:00,179 - INFO: Placed SELL order for GMFIL at Rs128.0.
+2024-05-10 11:46:00,346 - INFO: Placed SELL order for RLFL at Rs128.0.
+2024-05-10 11:46:12,940 - INFO: Trade completed for 2020-03-19.
+2024-05-10 11:46:12,940 - INFO: Selling of GMFIL completed.
+2024-05-10 11:46:25,768 - INFO: Trade completed for 2020-03-20.
+2024-05-10 11:46:25,768 - INFO: Selling of RLFL completed.
+2024-05-10 11:46:39,466 - INFO: Trade completed for 2020-03-21.
+2024-05-10 11:46:53,373 - INFO: Trade completed for 2020-03-22.
+2024-05-10 11:47:07,297 - INFO: Trade completed for 2020-03-23.
+2024-05-10 11:47:20,824 - INFO: Trade completed for 2020-03-24.
+2024-05-10 11:47:33,948 - INFO: Trade completed for 2020-03-25.
+2024-05-10 11:47:46,551 - INFO: Trade completed for 2020-03-26.
+2024-05-10 11:47:59,088 - INFO: Trade completed for 2020-03-27.
+2024-05-10 11:48:11,156 - INFO: Trade completed for 2020-03-28.
+2024-05-10 11:48:23,714 - INFO: Trade completed for 2020-03-29.
+2024-05-10 11:48:36,902 - INFO: Trade completed for 2020-03-30.
+2024-05-10 11:48:49,641 - INFO: Trade completed for 2020-03-31.
+2024-05-10 11:49:03,667 - INFO: Trade completed for 2020-04-01.
+2024-05-10 11:49:18,237 - INFO: Trade completed for 2020-04-02.
+2024-05-10 11:49:32,199 - INFO: Trade completed for 2020-04-03.
+2024-05-10 11:49:45,904 - INFO: Trade completed for 2020-04-04.
+2024-05-10 11:49:58,954 - INFO: Trade completed for 2020-04-05.
+2024-05-10 11:50:11,479 - INFO: Trade completed for 2020-04-06.
+2024-05-10 11:50:23,793 - INFO: Trade completed for 2020-04-07.
+2024-05-10 11:50:36,063 - INFO: Trade completed for 2020-04-08.
+2024-05-10 11:50:48,345 - INFO: Trade completed for 2020-04-09.
+2024-05-10 11:51:04,024 - INFO: Trade completed for 2020-04-10.
+2024-05-10 11:51:20,090 - INFO: Trade completed for 2020-04-11.
+2024-05-10 11:51:36,945 - INFO: Trade completed for 2020-04-12.
+2024-05-10 11:51:54,303 - INFO: Trade completed for 2020-04-13.
+2024-05-10 11:52:11,580 - INFO: Trade completed for 2020-04-14.
+2024-05-10 11:52:31,668 - INFO: Trade completed for 2020-04-15.
+2024-05-10 11:52:48,508 - INFO: Trade completed for 2020-04-16.
+2024-05-10 11:53:05,877 - INFO: Trade completed for 2020-04-17.
+2024-05-10 11:53:22,413 - INFO: Trade completed for 2020-04-18.
+2024-05-10 11:53:41,500 - INFO: Trade completed for 2020-04-19.
+2024-05-10 11:54:00,258 - INFO: Trade completed for 2020-04-20.
+2024-05-10 11:54:16,391 - INFO: Trade completed for 2020-04-21.
+2024-05-10 11:54:34,495 - INFO: Trade completed for 2020-04-22.
+2024-05-10 11:54:55,066 - INFO: Trade completed for 2020-04-23.
+2024-05-10 11:55:09,673 - INFO: Trade completed for 2020-04-24.
+2024-05-10 11:55:27,546 - INFO: Trade completed for 2020-04-25.
+2024-05-10 11:55:44,291 - INFO: Trade completed for 2020-04-26.
+2024-05-10 11:56:05,732 - INFO: Trade completed for 2020-04-27.
+2024-05-10 11:56:24,114 - INFO: Trade completed for 2020-04-28.
+2024-05-10 11:56:38,663 - INFO: Trade completed for 2020-04-29.
+2024-05-10 11:56:59,714 - INFO: Trade completed for 2020-04-30.
+2024-05-10 11:57:17,619 - INFO: Trade completed for 2020-05-01.
+2024-05-10 11:57:34,336 - INFO: Trade completed for 2020-05-02.
+2024-05-10 11:57:58,891 - INFO: Trade completed for 2020-05-03.
+2024-05-10 11:58:22,542 - INFO: Trade completed for 2020-05-04.
+2024-05-10 11:58:42,541 - INFO: Trade completed for 2020-05-05.
+2024-05-10 11:59:01,636 - INFO: Trade completed for 2020-05-06.
+2024-05-10 11:59:17,849 - INFO: Trade completed for 2020-05-07.
+2024-05-10 11:59:38,303 - INFO: Trade completed for 2020-05-08.
+2024-05-10 11:59:56,028 - INFO: Trade completed for 2020-05-09.
+2024-05-10 12:00:16,347 - INFO: Trade completed for 2020-05-10.
+2024-05-10 12:00:37,468 - INFO: Trade completed for 2020-05-11.
+2024-05-10 12:00:58,931 - INFO: Trade completed for 2020-05-12.
+2024-05-10 12:01:16,199 - INFO: Trade completed for 2020-05-13.
+2024-05-10 12:01:32,508 - INFO: Trade completed for 2020-05-14.
+2024-05-10 12:01:49,630 - INFO: Trade completed for 2020-05-15.
+2024-05-10 12:02:04,458 - INFO: Trade completed for 2020-05-16.
+2024-05-10 12:02:24,883 - INFO: Trade completed for 2020-05-17.
+2024-05-10 12:02:47,342 - INFO: Trade completed for 2020-05-18.
+2024-05-10 12:03:11,475 - INFO: Trade completed for 2020-05-19.
+2024-05-10 12:03:30,639 - INFO: Trade completed for 2020-05-20.
+2024-05-10 12:03:50,379 - INFO: Trade completed for 2020-05-21.
+2024-05-10 12:04:10,864 - INFO: Trade completed for 2020-05-22.
+2024-05-10 13:38:02,301 - INFO: Placed SELL order for UPCL at Rs73.0.
+2024-05-10 13:38:15,759 - INFO: Trade completed for 2020-05-22.
+2024-05-10 13:38:15,759 - INFO: Selling of UPCL completed.
+2024-05-10 13:38:27,144 - INFO: Trade completed for 2020-05-23.
+2024-05-10 13:38:38,344 - INFO: Trade completed for 2020-05-24.
+2024-05-10 13:38:48,889 - INFO: Trade completed for 2020-05-25.
+2024-05-10 13:39:01,088 - INFO: Trade completed for 2020-05-26.
+2024-05-10 13:39:12,053 - INFO: Trade completed for 2020-05-27.
+2024-05-10 13:39:22,634 - INFO: Trade completed for 2020-05-28.
+2024-05-10 13:39:33,133 - INFO: Trade completed for 2020-05-29.
+2024-05-10 13:39:43,944 - INFO: Trade completed for 2020-05-30.
+2024-05-10 13:39:55,504 - INFO: Trade completed for 2020-05-31.
+2024-05-10 13:40:06,717 - INFO: Trade completed for 2020-06-01.
+2024-05-10 13:40:17,818 - INFO: Trade completed for 2020-06-02.
+2024-05-10 13:40:28,524 - INFO: Trade completed for 2020-06-03.
+2024-05-10 13:40:39,401 - INFO: Trade completed for 2020-06-04.
+2024-05-10 13:40:50,269 - INFO: Trade completed for 2020-06-05.
+2024-05-10 13:41:01,337 - INFO: Trade completed for 2020-06-06.
+2024-05-10 13:41:12,515 - INFO: Trade completed for 2020-06-07.
+2024-05-10 13:41:23,333 - INFO: Trade completed for 2020-06-08.
+2024-05-10 13:41:34,169 - INFO: Trade completed for 2020-06-09.
+2024-05-10 13:41:45,343 - INFO: Trade completed for 2020-06-10.
+2024-05-10 13:41:56,496 - INFO: Trade completed for 2020-06-11.
+2024-05-10 13:42:07,407 - INFO: Trade completed for 2020-06-12.
+2024-05-10 13:42:18,330 - INFO: Trade completed for 2020-06-13.
+2024-05-10 13:42:29,293 - INFO: Trade completed for 2020-06-14.
+2024-05-10 13:42:40,624 - INFO: Trade completed for 2020-06-15.
+2024-05-10 13:42:51,555 - INFO: Trade completed for 2020-06-16.
+2024-05-10 13:43:02,499 - INFO: Trade completed for 2020-06-17.
+2024-05-10 13:43:13,295 - INFO: Trade completed for 2020-06-18.
+2024-05-10 13:43:23,644 - INFO: Trade completed for 2020-06-19.
+2024-05-10 13:43:34,477 - INFO: Trade completed for 2020-06-20.
+2024-05-10 13:43:45,485 - INFO: Trade completed for 2020-06-21.
+2024-05-10 13:43:56,197 - INFO: Trade completed for 2020-06-22.
+2024-05-10 13:44:07,242 - INFO: Trade completed for 2020-06-23.
+2024-05-10 13:44:17,914 - INFO: Trade completed for 2020-06-24.
+2024-05-10 13:44:28,844 - INFO: Trade completed for 2020-06-25.
+2024-05-10 13:44:39,994 - INFO: Trade completed for 2020-06-26.
+2024-05-10 13:44:51,155 - INFO: Trade completed for 2020-06-27.
+2024-05-10 13:45:02,221 - INFO: Trade completed for 2020-06-28.
+2024-05-10 13:45:02,488 - INFO: Placed SELL order for MFIL at Rs240.0.
+2024-05-10 13:45:13,222 - INFO: Trade completed for 2020-06-29.
+2024-05-10 13:45:13,222 - INFO: Selling of MFIL completed.
+2024-05-10 13:45:13,415 - INFO: Placed SELL order for AHPC at Rs94.0.
+2024-05-10 13:45:23,954 - INFO: Trade completed for 2020-06-30.
+2024-05-10 13:45:23,962 - INFO: Selling of AHPC completed.
+2024-05-10 13:45:35,017 - INFO: Placed 17 order for RADHI at Rs185.0
+2024-05-10 13:45:35,027 - INFO: Trade completed for 2020-07-01.
+2024-05-10 13:45:35,027 - INFO: Buying of RADHI completed.
+2024-05-10 13:45:46,300 - INFO: Trade completed for 2020-07-02.
+2024-05-10 13:45:57,849 - INFO: Trade completed for 2020-07-03.
+2024-05-10 13:46:08,866 - INFO: Trade completed for 2020-07-04.
+2024-05-10 13:46:20,159 - INFO: Trade completed for 2020-07-05.
+2024-05-10 13:46:31,110 - INFO: Trade completed for 2020-07-06.
+2024-05-10 13:46:31,282 - INFO: Placed SELL order for RADHI at Rs167.0.
+2024-05-10 13:46:41,967 - INFO: Trade completed for 2020-07-07.
+2024-05-10 13:46:41,967 - INFO: Selling of RADHI completed.
+2024-05-10 13:46:53,044 - INFO: Trade completed for 2020-07-08.
+2024-05-10 13:47:03,772 - INFO: Placed 21 order for MFIL at Rs288.0
+2024-05-10 13:47:03,772 - INFO: Trade completed for 2020-07-09.
+2024-05-10 13:47:03,772 - INFO: Buying of MFIL completed.
+2024-05-10 13:47:14,933 - INFO: Trade completed for 2020-07-10.
+2024-05-10 13:47:26,137 - INFO: Trade completed for 2020-07-11.
+2024-05-10 13:47:39,343 - INFO: Trade completed for 2020-07-12.
+2024-05-10 13:47:54,045 - INFO: Trade completed for 2020-07-13.
+2024-05-10 13:47:54,167 - INFO: Placed SELL order for CHL at Rs80.0.
+2024-05-10 13:48:05,619 - INFO: Placed 10 order for SPDL at Rs100.0
+2024-05-10 13:48:05,710 - INFO: Trade completed for 2020-07-14.
+2024-05-10 13:48:05,710 - INFO: Selling of CHL completed.
+2024-05-10 13:48:17,127 - INFO: Trade completed for 2020-07-15.
+2024-05-10 13:48:17,127 - INFO: Buying of SPDL completed.
+2024-05-10 13:48:28,418 - INFO: Trade completed for 2020-07-16.
+2024-05-10 13:48:39,040 - INFO: Trade completed for 2020-07-17.
+2024-05-10 13:48:50,253 - INFO: Trade completed for 2020-07-18.
+2024-05-10 13:49:01,316 - INFO: Trade completed for 2020-07-19.
+2024-05-10 13:49:11,907 - INFO: Trade completed for 2020-07-20.
+2024-05-10 13:49:23,298 - INFO: Placed 10 order for KPCL at Rs107.0
+2024-05-10 13:49:23,369 - INFO: Trade completed for 2020-07-21.
+2024-05-10 13:49:23,369 - INFO: Buying of KPCL completed.
+2024-05-10 13:49:34,733 - INFO: Trade completed for 2020-07-22.
+2024-05-10 13:49:46,330 - INFO: Trade completed for 2020-07-23.
+2024-05-10 13:49:57,769 - INFO: Trade completed for 2020-07-24.
+2024-05-10 13:50:09,286 - INFO: Trade completed for 2020-07-25.
+2024-05-10 13:50:20,700 - INFO: Trade completed for 2020-07-26.
+2024-05-10 13:50:32,116 - INFO: Trade completed for 2020-07-27.
+2024-05-10 13:50:44,226 - INFO: Trade completed for 2020-07-28.
+2024-05-10 13:50:44,405 - INFO: Placed SELL order for SPDL at Rs100.0.
+2024-05-10 13:50:56,357 - INFO: Trade completed for 2020-07-29.
+2024-05-10 13:50:56,357 - INFO: Selling of SPDL completed.
+2024-05-10 13:51:07,943 - INFO: Placed 10 order for KSBBL at Rs155.0
+2024-05-10 13:51:08,385 - INFO: Trade completed for 2020-07-30.
+2024-05-10 13:51:08,385 - INFO: Buying of KSBBL completed.
+2024-05-10 13:51:20,417 - INFO: Trade completed for 2020-07-31.
+2024-05-10 13:51:32,439 - INFO: Trade completed for 2020-08-01.
+2024-05-10 13:51:44,132 - INFO: Trade completed for 2020-08-02.
+2024-05-10 13:51:44,242 - INFO: Placed SELL order for MFIL at Rs271.0.
+2024-05-10 13:51:55,529 - INFO: Trade completed for 2020-08-03.
+2024-05-10 13:51:55,529 - INFO: Selling of MFIL completed.
+2024-05-10 13:52:06,942 - INFO: Trade completed for 2020-08-04.
+2024-05-10 13:52:18,193 - INFO: Placed 20 order for PPCL at Rs114.0
+2024-05-10 13:52:18,216 - INFO: Trade completed for 2020-08-05.
+2024-05-10 13:52:18,216 - INFO: Buying of PPCL completed.
+2024-05-10 13:52:28,876 - INFO: Placed 22 order for NHDL at Rs130.0
+2024-05-10 13:52:28,876 - INFO: Trade completed for 2020-08-06.
+2024-05-10 13:52:28,876 - INFO: Buying of NHDL completed.
+2024-05-10 13:52:39,855 - INFO: Trade completed for 2020-08-07.
+2024-05-10 13:52:51,165 - INFO: Trade completed for 2020-08-08.
+2024-05-10 13:53:03,135 - INFO: Trade completed for 2020-08-09.
+2024-05-10 13:53:03,335 - INFO: Placed SELL order for KSBBL at Rs155.0.
+2024-05-10 13:53:14,587 - INFO: Trade completed for 2020-08-10.
+2024-05-10 13:53:14,587 - INFO: Selling of KSBBL completed.
+2024-05-10 13:53:26,190 - INFO: Placed 10 order for BFC at Rs103.0
+2024-05-10 13:53:26,209 - INFO: Trade completed for 2020-08-11.
+2024-05-10 13:53:26,209 - INFO: Buying of BFC completed.
+2024-05-10 13:53:37,741 - INFO: Trade completed for 2020-08-12.
+2024-05-10 13:53:49,374 - INFO: Trade completed for 2020-08-13.
+2024-05-10 13:54:01,134 - INFO: Trade completed for 2020-08-14.
+2024-05-10 13:54:12,412 - INFO: Trade completed for 2020-08-15.
+2024-05-10 13:54:12,522 - INFO: Placed SELL order for KPCL at Rs107.0.
+2024-05-10 13:54:23,128 - INFO: Placed 10 order for NGPL at Rs118.0
+2024-05-10 13:54:23,191 - INFO: Trade completed for 2020-08-16.
+2024-05-10 13:54:23,191 - INFO: Selling of KPCL completed.
+2024-05-10 13:54:33,775 - INFO: Trade completed for 2020-08-17.
+2024-05-10 13:54:33,775 - INFO: Buying of NGPL completed.
+2024-05-10 13:54:45,399 - INFO: Placed 10 order for UNHPL at Rs58.0
+2024-05-10 13:54:45,417 - INFO: Trade completed for 2020-08-18.
+2024-05-10 13:54:45,417 - INFO: Buying of UNHPL completed.
+2024-05-10 13:54:45,528 - INFO: Placed SELL order for PPCL at Rs114.0.
+2024-05-10 13:54:57,159 - INFO: Trade completed for 2020-08-19.
+2024-05-10 13:54:57,167 - INFO: Selling of PPCL completed.
+2024-05-10 13:55:08,922 - INFO: Trade completed for 2020-08-20.
+2024-05-10 13:55:20,673 - INFO: Trade completed for 2020-08-21.
+2024-05-10 13:55:32,069 - INFO: Trade completed for 2020-08-22.
+2024-05-10 13:55:44,117 - INFO: Trade completed for 2020-08-23.
+2024-05-10 13:55:55,838 - INFO: Placed 10 order for RADHI at Rs174.0
+2024-05-10 13:55:55,844 - INFO: Placed 10 order for PROFL at Rs106.0
+2024-05-10 13:55:55,865 - INFO: Trade completed for 2020-08-24.
+2024-05-10 13:55:55,871 - INFO: Buying of RADHI completed.
+2024-05-10 13:56:07,495 - INFO: Trade completed for 2020-08-25.
+2024-05-10 13:56:07,495 - INFO: Buying of PROFL completed.
+2024-05-10 13:56:18,929 - INFO: Trade completed for 2020-08-26.
+2024-05-10 13:56:30,718 - INFO: Trade completed for 2020-08-27.
+2024-05-10 13:56:42,627 - INFO: Trade completed for 2020-08-28.
+2024-05-10 13:56:54,236 - INFO: Trade completed for 2020-08-29.
+2024-05-10 13:57:06,346 - INFO: Trade completed for 2020-08-30.
+2024-05-10 13:57:18,118 - INFO: Trade completed for 2020-08-31.
+2024-05-10 13:57:30,125 - INFO: Trade completed for 2020-09-01.
+2024-05-10 13:57:41,836 - INFO: Trade completed for 2020-09-02.
+2024-05-10 13:57:53,872 - INFO: Trade completed for 2020-09-03.
+2024-05-10 13:58:05,905 - INFO: Trade completed for 2020-09-04.
+2024-05-10 13:58:17,742 - INFO: Trade completed for 2020-09-05.
+2024-05-10 13:58:30,266 - INFO: Trade completed for 2020-09-06.
+2024-05-10 13:58:42,238 - INFO: Trade completed for 2020-09-07.
+2024-05-10 13:58:53,850 - INFO: Trade completed for 2020-09-08.
+2024-05-10 13:59:05,423 - INFO: Trade completed for 2020-09-09.
+2024-05-10 13:59:16,953 - INFO: Trade completed for 2020-09-10.
+2024-05-10 13:59:28,599 - INFO: Trade completed for 2020-09-11.
+2024-05-10 13:59:40,052 - INFO: Trade completed for 2020-09-12.
+2024-05-10 13:59:50,725 - INFO: Trade completed for 2020-09-13.
+2024-05-10 13:59:51,405 - INFO: Placed SELL order for PROFL at Rs107.0.
+2024-05-10 14:00:02,701 - INFO: Trade completed for 2020-09-14.
+2024-05-10 14:00:02,701 - INFO: Selling of PROFL completed.
+2024-05-10 14:00:14,795 - INFO: Trade completed for 2020-09-15.
+2024-05-10 14:00:26,979 - INFO: Trade completed for 2020-09-16.
+2024-05-10 14:00:38,965 - INFO: Trade completed for 2020-09-17.
+2024-05-10 14:00:51,036 - INFO: Trade completed for 2020-09-18.
+2024-05-10 14:01:02,740 - INFO: Trade completed for 2020-09-19.
+2024-05-10 14:01:14,658 - INFO: Placed 10 order for KRBL at Rs115.0
+2024-05-10 14:01:14,688 - INFO: Trade completed for 2020-09-20.
+2024-05-10 14:01:14,688 - INFO: Buying of KRBL completed.
+2024-05-10 14:01:26,544 - INFO: Trade completed for 2020-09-21.
+2024-05-10 14:01:38,101 - INFO: Trade completed for 2020-09-22.
+2024-05-10 14:01:49,016 - INFO: Trade completed for 2020-09-23.
+2024-05-10 14:02:00,250 - INFO: Trade completed for 2020-09-24.
+2024-05-10 14:02:11,952 - INFO: Trade completed for 2020-09-25.
+2024-05-10 14:02:22,977 - INFO: Trade completed for 2020-09-26.
+2024-05-10 14:02:33,757 - INFO: Trade completed for 2020-09-27.
+2024-05-10 14:02:45,255 - INFO: Trade completed for 2020-09-28.
+2024-05-10 14:02:56,804 - INFO: Trade completed for 2020-09-29.
+2024-05-10 14:03:08,442 - INFO: Trade completed for 2020-09-30.
+2024-05-10 14:03:19,877 - INFO: Trade completed for 2020-10-01.
+2024-05-10 14:03:30,748 - INFO: Trade completed for 2020-10-02.
+2024-05-10 14:03:41,265 - INFO: Trade completed for 2020-10-03.
+2024-05-10 14:03:52,033 - INFO: Trade completed for 2020-10-04.
+2024-05-10 14:04:03,646 - INFO: Trade completed for 2020-10-05.
+2024-05-10 14:04:14,518 - INFO: Trade completed for 2020-10-06.
+2024-05-10 14:04:25,065 - INFO: Trade completed for 2020-10-07.
+2024-05-10 14:04:36,018 - INFO: Trade completed for 2020-10-08.
+2024-05-10 14:04:46,783 - INFO: Trade completed for 2020-10-09.
+2024-05-10 14:04:57,847 - INFO: Trade completed for 2020-10-10.
+2024-05-10 14:05:08,583 - INFO: Trade completed for 2020-10-11.
+2024-05-10 14:05:19,034 - INFO: Trade completed for 2020-10-12.
+2024-05-10 14:05:29,660 - INFO: Trade completed for 2020-10-13.
+2024-05-10 14:05:40,364 - INFO: Trade completed for 2020-10-14.
+2024-05-10 14:05:51,020 - INFO: Trade completed for 2020-10-15.
+2024-05-10 14:06:01,771 - INFO: Trade completed for 2020-10-16.
+2024-05-10 14:06:12,583 - INFO: Trade completed for 2020-10-17.
+2024-05-10 14:06:23,320 - INFO: Trade completed for 2020-10-18.
+2024-05-10 14:06:33,866 - INFO: Trade completed for 2020-10-19.
+2024-05-10 14:06:44,601 - INFO: Trade completed for 2020-10-20.
+2024-05-10 14:06:55,397 - INFO: Trade completed for 2020-10-21.
+2024-05-10 14:07:06,070 - INFO: Trade completed for 2020-10-22.
+2024-05-10 14:07:16,759 - INFO: Trade completed for 2020-10-23.
+2024-05-10 14:07:27,352 - INFO: Trade completed for 2020-10-24.
+2024-05-10 14:07:37,759 - INFO: Trade completed for 2020-10-25.
+2024-05-10 14:07:48,494 - INFO: Trade completed for 2020-10-26.
+2024-05-10 14:07:59,620 - INFO: Trade completed for 2020-10-27.
+2024-05-10 14:08:10,604 - INFO: Trade completed for 2020-10-28.
+2024-05-10 14:08:21,308 - INFO: Trade completed for 2020-10-29.
+2024-05-10 14:08:32,120 - INFO: Trade completed for 2020-10-30.
+2024-05-10 14:08:42,697 - INFO: Trade completed for 2020-10-31.
+2024-05-10 14:08:53,353 - INFO: Trade completed for 2020-11-01.
+2024-05-10 14:09:04,102 - INFO: Trade completed for 2020-11-02.
+2024-05-10 14:09:15,645 - INFO: Trade completed for 2020-11-03.
+2024-05-10 14:09:26,931 - INFO: Trade completed for 2020-11-04.
+2024-05-10 14:09:38,049 - INFO: Trade completed for 2020-11-05.
+2024-05-10 14:09:49,035 - INFO: Trade completed for 2020-11-06.
+2024-05-10 14:10:01,236 - INFO: Trade completed for 2020-11-07.
+2024-05-10 14:10:13,110 - INFO: Trade completed for 2020-11-08.
+2024-05-10 14:10:24,314 - INFO: Trade completed for 2020-11-09.
+2024-05-10 14:10:35,283 - INFO: Trade completed for 2020-11-10.
+2024-05-10 14:10:46,299 - INFO: Trade completed for 2020-11-11.
+2024-05-10 14:10:57,548 - INFO: Trade completed for 2020-11-12.
+2024-05-10 14:11:08,486 - INFO: Trade completed for 2020-11-13.
+2024-05-10 14:11:19,406 - INFO: Trade completed for 2020-11-14.
+2024-05-10 14:11:30,297 - INFO: Trade completed for 2020-11-15.
+2024-05-10 14:11:41,079 - INFO: Trade completed for 2020-11-16.
+2024-05-10 14:11:51,969 - INFO: Trade completed for 2020-11-17.
+2024-05-10 14:12:02,860 - INFO: Trade completed for 2020-11-18.
+2024-05-10 14:12:13,812 - INFO: Trade completed for 2020-11-19.
+2024-05-10 14:12:24,812 - INFO: Trade completed for 2020-11-20.
+2024-05-10 14:12:35,625 - INFO: Trade completed for 2020-11-21.
+2024-05-10 14:12:46,438 - INFO: Trade completed for 2020-11-22.
+2024-05-10 14:12:57,531 - INFO: Trade completed for 2020-11-23.
+2024-05-10 14:13:08,672 - INFO: Trade completed for 2020-11-24.
+2024-05-10 14:13:19,547 - INFO: Trade completed for 2020-11-25.
+2024-05-10 14:13:30,514 - INFO: Trade completed for 2020-11-26.
+2024-05-10 14:13:41,325 - INFO: Trade completed for 2020-11-27.
+2024-05-10 14:13:52,077 - INFO: Trade completed for 2020-11-28.
+2024-05-10 14:14:02,766 - INFO: Trade completed for 2020-11-29.
+2024-05-10 14:14:14,141 - INFO: Trade completed for 2020-11-30.
+2024-05-10 14:14:25,235 - INFO: Trade completed for 2020-12-01.
+2024-05-10 14:14:36,108 - INFO: Trade completed for 2020-12-02.
+2024-05-10 14:14:47,108 - INFO: Trade completed for 2020-12-03.
+2024-05-10 14:14:58,185 - INFO: Trade completed for 2020-12-04.
+2024-05-10 14:15:09,498 - INFO: Trade completed for 2020-12-05.
+2024-05-10 14:15:20,528 - INFO: Trade completed for 2020-12-06.
+2024-05-10 14:15:20,856 - INFO: Placed SELL order for UNHPL at Rs121.0.
+2024-05-10 14:15:31,448 - INFO: Trade completed for 2020-12-07.
+2024-05-10 14:15:31,448 - INFO: Selling of UNHPL completed.
+2024-05-10 14:15:42,306 - INFO: Trade completed for 2020-12-08.
+2024-05-10 14:15:53,197 - INFO: Trade completed for 2020-12-09.
+2024-05-10 14:15:53,588 - INFO: Placed SELL order for KRBL at Rs139.0.
+2024-05-10 14:16:04,086 - INFO: Trade completed for 2020-12-10.
+2024-05-10 14:16:04,086 - INFO: Selling of KRBL completed.
+2024-05-10 14:16:14,773 - INFO: Trade completed for 2020-12-11.
+2024-05-10 14:16:25,663 - INFO: Trade completed for 2020-12-12.
+2024-05-10 14:16:36,600 - INFO: Trade completed for 2020-12-13.
+2024-05-10 14:16:47,426 - INFO: Trade completed for 2020-12-14.
+2024-05-10 14:16:58,159 - INFO: Trade completed for 2020-12-15.
+2024-05-10 14:16:58,268 - INFO: Placed SELL order for NHDL at Rs233.0.
+2024-05-10 14:17:09,094 - INFO: Trade completed for 2020-12-16.
+2024-05-10 14:17:09,094 - INFO: Selling of NHDL completed.
+2024-05-10 14:17:20,000 - INFO: Placed 10 order for MBL at Rs247.0
+2024-05-10 14:17:20,031 - INFO: Trade completed for 2020-12-17.
+2024-05-10 14:17:20,031 - INFO: Buying of MBL completed.
+2024-05-10 14:17:31,030 - INFO: Trade completed for 2020-12-18.
+2024-05-10 14:17:42,063 - INFO: Trade completed for 2020-12-19.
+2024-05-10 14:17:42,172 - INFO: Placed SELL order for BFC at Rs134.0.
+2024-05-10 14:17:53,093 - INFO: Placed 10 order for GBBL at Rs288.0
+2024-05-10 14:17:53,186 - INFO: Trade completed for 2020-12-20.
+2024-05-10 14:17:53,186 - INFO: Selling of BFC completed.
+2024-05-10 14:17:53,436 - INFO: Placed SELL order for MBL at Rs240.0.
+2024-05-10 14:18:04,404 - INFO: Placed 10 order for SHINE at Rs265.0
+2024-05-10 14:18:04,404 - INFO: Trade completed for 2020-12-21.
+2024-05-10 14:18:04,404 - INFO: Buying of GBBL completed.
+2024-05-10 14:18:04,404 - INFO: Buying of SHINE completed.
+2024-05-10 14:18:15,231 - INFO: Trade completed for 2020-12-22.
+2024-05-10 14:18:15,231 - INFO: Selling of MBL completed.
+2024-05-10 14:18:26,292 - INFO: Trade completed for 2020-12-23.
+2024-05-10 14:18:37,400 - INFO: Placed 10 order for CHL at Rs165.0
+2024-05-10 14:18:37,431 - INFO: Trade completed for 2020-12-24.
+2024-05-10 14:18:37,431 - INFO: Buying of CHL completed.
+2024-05-10 14:18:48,556 - INFO: Trade completed for 2020-12-25.
+2024-05-10 14:18:59,414 - INFO: Trade completed for 2020-12-26.
+2024-05-10 14:19:10,460 - INFO: Trade completed for 2020-12-27.
+2024-05-10 14:19:21,476 - INFO: Trade completed for 2020-12-28.
+2024-05-10 14:19:32,539 - INFO: Trade completed for 2020-12-29.
+2024-05-10 14:19:43,506 - INFO: Trade completed for 2020-12-30.
+2024-05-10 14:19:43,600 - INFO: Placed SELL order for NGPL at Rs214.0.
+2024-05-10 14:19:54,365 - INFO: Trade completed for 2020-12-31.
+2024-05-10 14:19:54,365 - INFO: Selling of NGPL completed.
+2024-05-10 14:20:05,286 - INFO: Trade completed for 2021-01-01.
+2024-05-10 14:20:16,050 - INFO: Trade completed for 2021-01-02.
+2024-05-10 14:20:16,316 - INFO: Placed SELL order for SHINE at Rs237.0.
+2024-05-10 14:20:26,816 - INFO: Trade completed for 2021-01-03.
+2024-05-10 14:20:26,816 - INFO: Selling of SHINE completed.
+2024-05-10 14:20:27,066 - INFO: Placed SELL order for CHL at Rs153.0.
+2024-05-10 14:20:37,689 - INFO: Placed 10 order for GUFL at Rs205.0
+2024-05-10 14:20:37,705 - INFO: Placed 10 order for KBL at Rs257.0
+2024-05-10 14:20:37,830 - INFO: Trade completed for 2021-01-04.
+2024-05-10 14:20:37,830 - INFO: Selling of CHL completed.
+2024-05-10 14:20:37,830 - INFO: Buying of KBL completed.
+2024-05-10 14:20:48,564 - INFO: Placed 10 order for JFL at Rs259.0
+2024-05-10 14:20:48,580 - INFO: Trade completed for 2021-01-05.
+2024-05-10 14:20:48,580 - INFO: Buying of GUFL completed.
+2024-05-10 14:20:59,156 - INFO: Trade completed for 2021-01-06.
+2024-05-10 14:20:59,156 - INFO: Buying of JFL completed.
+2024-05-10 14:21:09,811 - INFO: Trade completed for 2021-01-07.
+2024-05-10 14:21:20,419 - INFO: Trade completed for 2021-01-08.
+2024-05-10 14:21:30,949 - INFO: Trade completed for 2021-01-09.
+2024-05-10 14:21:41,684 - INFO: Trade completed for 2021-01-10.
+2024-05-10 14:21:53,162 - INFO: Trade completed for 2021-01-11.
+2024-05-10 14:21:53,272 - INFO: Placed SELL order for RADHI at Rs295.0.
+2024-05-10 14:22:04,701 - INFO: Trade completed for 2021-01-12.
+2024-05-10 14:22:04,701 - INFO: Selling of RADHI completed.
+2024-05-10 14:22:15,783 - INFO: Placed 10 order for JBBL at Rs224.0
+2024-05-10 14:22:15,783 - INFO: Trade completed for 2021-01-13.
+2024-05-10 14:22:15,783 - INFO: Buying of JBBL completed.
+2024-05-10 14:22:26,704 - INFO: Trade completed for 2021-01-14.
+2024-05-10 14:22:37,656 - INFO: Trade completed for 2021-01-15.
+2024-05-10 14:22:48,748 - INFO: Trade completed for 2021-01-16.
+2024-05-10 14:23:00,090 - INFO: Trade completed for 2021-01-17.
+2024-05-10 14:23:10,994 - INFO: Trade completed for 2021-01-18.
+2024-05-10 14:23:22,182 - INFO: Trade completed for 2021-01-19.
+2024-05-10 14:23:33,273 - INFO: Trade completed for 2021-01-20.
+2024-05-10 14:23:44,302 - INFO: Trade completed for 2021-01-21.
+2024-05-10 14:23:55,394 - INFO: Trade completed for 2021-01-22.
+2024-05-10 14:24:06,315 - INFO: Trade completed for 2021-01-23.
+2024-05-10 14:24:17,374 - INFO: Trade completed for 2021-01-24.
+2024-05-10 14:24:28,513 - INFO: Trade completed for 2021-01-25.
+2024-05-10 14:24:39,729 - INFO: Trade completed for 2021-01-26.
+2024-05-10 14:24:39,838 - INFO: Placed SELL order for GBBL at Rs309.0.
+2024-05-10 14:24:51,023 - INFO: Trade completed for 2021-01-27.
+2024-05-10 14:24:51,023 - INFO: Selling of GBBL completed.
+2024-05-10 14:25:02,084 - INFO: Placed 10 order for NGPL at Rs231.0
+2024-05-10 14:25:02,162 - INFO: Placed 10 order for SAPDBL at Rs173.0
+2024-05-10 14:25:02,521 - INFO: Trade completed for 2021-01-28.
+2024-05-10 14:25:02,521 - INFO: Buying of NGPL completed.
+2024-05-10 14:25:13,598 - INFO: Trade completed for 2021-01-29.
+2024-05-10 14:25:13,598 - INFO: Buying of SAPDBL completed.
+2024-05-10 14:25:24,878 - INFO: Trade completed for 2021-01-30.
+2024-05-10 14:25:36,610 - INFO: Trade completed for 2021-01-31.
+2024-05-10 14:25:36,953 - INFO: Placed SELL order for JBBL at Rs219.0.
+2024-05-10 14:25:47,686 - INFO: Trade completed for 2021-02-01.
+2024-05-10 14:25:47,686 - INFO: Selling of JBBL completed.
+2024-05-10 14:25:58,827 - INFO: Placed 10 order for HDHPC at Rs133.0
+2024-05-10 14:25:58,842 - INFO: Placed 10 order for DHPL at Rs114.0
+2024-05-10 14:25:58,889 - INFO: Trade completed for 2021-02-02.
+2024-05-10 14:25:58,889 - INFO: Buying of HDHPC completed.
+2024-05-10 14:26:09,903 - INFO: Trade completed for 2021-02-03.
+2024-05-10 14:26:09,903 - INFO: Buying of DHPL completed.
+2024-05-10 14:26:20,871 - INFO: Trade completed for 2021-02-04.
+2024-05-10 14:26:32,040 - INFO: Trade completed for 2021-02-05.
+2024-05-10 14:26:43,054 - INFO: Trade completed for 2021-02-06.
+2024-05-10 14:26:54,053 - INFO: Trade completed for 2021-02-07.
+2024-05-10 14:27:05,130 - INFO: Trade completed for 2021-02-08.
+2024-05-10 14:27:16,128 - INFO: Trade completed for 2021-02-09.
+2024-05-10 14:27:16,316 - INFO: Placed SELL order for GUFL at Rs440.0.
+2024-05-10 14:27:28,005 - INFO: Trade completed for 2021-02-10.
+2024-05-10 14:27:28,005 - INFO: Selling of GUFL completed.
+2024-05-10 14:27:39,078 - INFO: Placed 10 order for SPDL at Rs280.0
+2024-05-10 14:27:39,218 - INFO: Placed 10 order for UNHPL at Rs115.0
+2024-05-10 14:27:39,375 - INFO: Trade completed for 2021-02-11.
+2024-05-10 14:27:39,375 - INFO: Buying of SPDL completed.
+2024-05-10 14:27:50,607 - INFO: Trade completed for 2021-02-12.
+2024-05-10 14:27:50,607 - INFO: Buying of UNHPL completed.
+2024-05-10 14:28:02,263 - INFO: Trade completed for 2021-02-13.
+2024-05-10 14:28:13,620 - INFO: Trade completed for 2021-02-14.
+2024-05-10 14:28:24,835 - INFO: Trade completed for 2021-02-15.
+2024-05-10 14:28:36,132 - INFO: Trade completed for 2021-02-16.
+2024-05-10 14:28:47,320 - INFO: Trade completed for 2021-02-17.
+2024-05-10 14:28:58,491 - INFO: Trade completed for 2021-02-18.
+2024-05-10 14:29:09,442 - INFO: Trade completed for 2021-02-19.
+2024-05-10 14:29:20,301 - INFO: Trade completed for 2021-02-20.
+2024-05-10 14:29:31,411 - INFO: Trade completed for 2021-02-21.
+2024-05-10 14:29:42,691 - INFO: Trade completed for 2021-02-22.
+2024-05-10 14:29:53,906 - INFO: Trade completed for 2021-02-23.
+2024-05-10 14:30:04,857 - INFO: Trade completed for 2021-02-24.
+2024-05-10 14:30:15,949 - INFO: Trade completed for 2021-02-25.
+2024-05-10 14:30:27,166 - INFO: Trade completed for 2021-02-26.
+2024-05-10 14:30:38,445 - INFO: Trade completed for 2021-02-27.
+2024-05-10 14:30:49,599 - INFO: Trade completed for 2021-02-28.
+2024-05-10 14:30:49,771 - INFO: Placed SELL order for JFL at Rs267.0.
+2024-05-10 14:30:49,865 - INFO: Placed SELL order for NGPL at Rs231.0.
+2024-05-10 14:30:49,943 - INFO: Placed SELL order for SAPDBL at Rs172.0.
+2024-05-10 14:30:50,037 - INFO: Placed SELL order for HDHPC at Rs130.0.
+2024-05-10 14:31:00,785 - INFO: Trade completed for 2021-03-01.
+2024-05-10 14:31:00,785 - INFO: Selling of JFL completed.
+2024-05-10 14:31:00,785 - INFO: Selling of SAPDBL completed.
+2024-05-10 14:31:11,737 - INFO: Trade completed for 2021-03-02.
+2024-05-10 14:31:11,737 - INFO: Selling of NGPL completed.
+2024-05-10 14:31:11,987 - INFO: Placed SELL order for SPDL at Rs255.0.
+2024-05-10 14:31:26,727 - INFO: Trade completed for 2021-03-03.
+2024-05-10 14:31:26,727 - INFO: Selling of HDHPC completed.
+2024-05-10 14:31:26,961 - INFO: Placed SELL order for DHPL at Rs115.0.
+2024-05-10 14:31:27,215 - INFO: Placed SELL order for UNHPL at Rs116.0.
+2024-05-10 14:32:00,030 - INFO: Trade completed for 2021-03-04.
+2024-05-10 14:32:00,030 - INFO: Selling of SPDL completed.
+2024-05-10 14:32:00,030 - INFO: Selling of UNHPL completed.
+2024-05-10 14:32:11,140 - INFO: Trade completed for 2021-03-05.
+2024-05-10 14:32:11,140 - INFO: Selling of DHPL completed.
+2024-05-10 14:32:22,575 - INFO: Trade completed for 2021-03-06.
+2024-05-10 14:32:33,839 - INFO: Placed 11 order for LEC at Rs284.0
+2024-05-10 14:32:33,886 - INFO: Placed 16 order for NHPC at Rs154.0
+2024-05-10 14:32:33,886 - INFO: Trade completed for 2021-03-07.
+2024-05-10 14:32:33,886 - INFO: Buying of LEC completed.
+2024-05-10 14:32:44,854 - INFO: Trade completed for 2021-03-08.
+2024-05-10 14:32:44,854 - INFO: Buying of NHPC completed.
+2024-05-10 14:32:55,963 - INFO: Placed 14 order for UPCL at Rs144.0
+2024-05-10 14:32:55,994 - INFO: Trade completed for 2021-03-09.
+2024-05-10 14:32:55,994 - INFO: Buying of UPCL completed.
+2024-05-10 14:33:07,321 - INFO: Placed 10 order for PMHPL at Rs154.0
+2024-05-10 14:33:07,383 - INFO: Trade completed for 2021-03-10.
+2024-05-10 14:33:07,383 - INFO: Buying of PMHPL completed.
+2024-05-10 14:33:18,304 - INFO: Trade completed for 2021-03-11.
+2024-05-10 14:33:29,365 - INFO: Trade completed for 2021-03-12.
+2024-05-10 14:33:40,707 - INFO: Trade completed for 2021-03-13.
+2024-05-10 14:33:51,876 - INFO: Placed 10 order for MHNL at Rs250.0
+2024-05-10 14:33:51,876 - INFO: Trade completed for 2021-03-14.
+2024-05-10 14:33:51,876 - INFO: Buying of MHNL completed.
+2024-05-10 14:34:03,048 - INFO: Trade completed for 2021-03-15.
+2024-05-10 14:34:14,311 - INFO: Placed 10 order for AKJCL at Rs155.0
+2024-05-10 14:34:14,342 - INFO: Trade completed for 2021-03-16.
+2024-05-10 14:34:14,342 - INFO: Buying of AKJCL completed.
+2024-05-10 14:34:14,452 - INFO: Placed SELL order for KBL at Rs296.0.
+2024-05-10 14:34:25,404 - INFO: Trade completed for 2021-03-17.
+2024-05-10 14:34:25,404 - INFO: Selling of KBL completed.
+2024-05-10 14:34:36,543 - INFO: Trade completed for 2021-03-18.
+2024-05-10 14:34:47,853 - INFO: Trade completed for 2021-03-19.
+2024-05-10 14:34:58,976 - INFO: Trade completed for 2021-03-20.
+2024-05-10 14:35:10,224 - INFO: Placed 10 order for UMHL at Rs166.0
+2024-05-10 14:35:10,256 - INFO: Trade completed for 2021-03-21.
+2024-05-10 14:35:10,256 - INFO: Buying of UMHL completed.
+2024-05-10 14:35:21,536 - INFO: Trade completed for 2021-03-22.
+2024-05-10 14:35:32,877 - INFO: Trade completed for 2021-03-23.
+2024-05-10 14:35:44,142 - INFO: Trade completed for 2021-03-24.
+2024-05-10 14:35:55,375 - INFO: Placed 10 order for KKHC at Rs125.0
+2024-05-10 14:35:55,500 - INFO: Trade completed for 2021-03-25.
+2024-05-10 14:35:55,500 - INFO: Buying of KKHC completed.
+2024-05-10 14:36:06,873 - INFO: Trade completed for 2021-03-26.
+2024-05-10 14:36:18,357 - INFO: Trade completed for 2021-03-27.
+2024-05-10 14:36:29,776 - INFO: Trade completed for 2021-03-28.
+2024-05-10 14:36:41,275 - INFO: Trade completed for 2021-03-29.
+2024-05-10 14:36:52,663 - INFO: Trade completed for 2021-03-30.
+2024-05-10 14:37:03,834 - INFO: Trade completed for 2021-03-31.
+2024-05-10 14:37:15,208 - INFO: Trade completed for 2021-04-01.
+2024-05-10 14:37:26,707 - INFO: Trade completed for 2021-04-02.
+2024-05-10 14:37:39,860 - INFO: Trade completed for 2021-04-03.
+2024-05-10 14:37:51,467 - INFO: Trade completed for 2021-04-04.
+2024-05-10 14:38:03,170 - INFO: Trade completed for 2021-04-05.
+2024-05-10 14:38:14,653 - INFO: Trade completed for 2021-04-06.
+2024-05-10 14:38:26,792 - INFO: Trade completed for 2021-04-07.
+2024-05-10 14:38:38,962 - INFO: Trade completed for 2021-04-08.
+2024-05-10 14:38:50,616 - INFO: Trade completed for 2021-04-09.
+2024-05-10 14:39:03,616 - INFO: Trade completed for 2021-04-10.
+2024-05-10 14:39:17,194 - INFO: Trade completed for 2021-04-11.
+2024-05-10 14:39:29,833 - INFO: Trade completed for 2021-04-12.
+2024-05-10 14:39:41,598 - INFO: Trade completed for 2021-04-13.
+2024-05-10 14:39:53,017 - INFO: Trade completed for 2021-04-14.
+2024-05-10 14:40:04,547 - INFO: Trade completed for 2021-04-15.
+2024-05-10 14:40:15,734 - INFO: Trade completed for 2021-04-16.
+2024-05-10 14:40:26,748 - INFO: Trade completed for 2021-04-17.
+2024-05-10 14:40:38,527 - INFO: Trade completed for 2021-04-18.
+2024-05-10 14:40:38,700 - INFO: Placed SELL order for NHPC at Rs157.0.
+2024-05-10 14:40:50,103 - INFO: Trade completed for 2021-04-19.
+2024-05-10 14:40:50,103 - INFO: Selling of NHPC completed.
+2024-05-10 14:41:01,695 - INFO: Trade completed for 2021-04-20.
+2024-05-10 14:41:13,007 - INFO: Placed 10 order for PROFL at Rs184.0
+2024-05-10 14:41:13,273 - INFO: Trade completed for 2021-04-21.
+2024-05-10 14:41:13,273 - INFO: Buying of PROFL completed.
+2024-05-10 14:41:24,444 - INFO: Trade completed for 2021-04-22.
+2024-05-10 14:41:35,770 - INFO: Trade completed for 2021-04-23.
+2024-05-10 14:41:47,299 - INFO: Trade completed for 2021-04-24.
+2024-05-10 14:41:58,687 - INFO: Trade completed for 2021-04-25.
+2024-05-10 14:42:09,591 - INFO: Trade completed for 2021-04-26.
+2024-05-10 14:42:21,487 - INFO: Trade completed for 2021-04-27.
+2024-05-10 14:42:21,943 - INFO: Placed SELL order for AKJCL at Rs151.0.
+2024-05-10 14:42:32,725 - INFO: Trade completed for 2021-04-28.
+2024-05-10 14:42:32,725 - INFO: Selling of AKJCL completed.
+2024-05-10 14:42:43,630 - INFO: Trade completed for 2021-04-29.
+2024-05-10 14:42:54,567 - INFO: Trade completed for 2021-04-30.
+2024-05-10 14:43:05,784 - INFO: Trade completed for 2021-05-01.
+2024-05-10 14:43:16,752 - INFO: Placed 10 order for DHPL at Rs135.0
+2024-05-10 14:43:16,768 - INFO: Trade completed for 2021-05-02.
+2024-05-10 14:43:16,768 - INFO: Buying of DHPL completed.
+2024-05-10 14:43:28,218 - INFO: Trade completed for 2021-05-03.
+2024-05-10 14:43:39,451 - INFO: Trade completed for 2021-05-04.
+2024-05-10 14:43:50,839 - INFO: Trade completed for 2021-05-05.
+2024-05-10 14:44:02,322 - INFO: Trade completed for 2021-05-06.
+2024-05-10 14:44:13,664 - INFO: Trade completed for 2021-05-07.
+2024-05-10 14:44:25,254 - INFO: Trade completed for 2021-05-08.
+2024-05-10 14:44:36,486 - INFO: Trade completed for 2021-05-09.
+2024-05-10 14:44:47,999 - INFO: Trade completed for 2021-05-10.
+2024-05-10 14:44:59,184 - INFO: Trade completed for 2021-05-11.
+2024-05-10 14:45:10,604 - INFO: Trade completed for 2021-05-12.
+2024-05-10 14:45:21,992 - INFO: Trade completed for 2021-05-13.
+2024-05-10 14:45:33,270 - INFO: Trade completed for 2021-05-14.
+2024-05-10 14:45:44,581 - INFO: Trade completed for 2021-05-15.
+2024-05-10 14:45:56,112 - INFO: Trade completed for 2021-05-16.
+2024-05-10 14:46:07,860 - INFO: Trade completed for 2021-05-17.
+2024-05-10 14:46:19,047 - INFO: Trade completed for 2021-05-18.
+2024-05-10 14:46:30,669 - INFO: Trade completed for 2021-05-19.
+2024-05-10 14:46:42,198 - INFO: Trade completed for 2021-05-20.
+2024-05-10 14:46:53,649 - INFO: Trade completed for 2021-05-21.
+2024-05-10 14:47:05,117 - INFO: Trade completed for 2021-05-22.
+2024-05-10 14:47:16,662 - INFO: Trade completed for 2021-05-23.
+2024-05-10 14:47:28,287 - INFO: Trade completed for 2021-05-24.
+2024-05-10 14:47:39,799 - INFO: Trade completed for 2021-05-25.
+2024-05-10 14:47:51,218 - INFO: Trade completed for 2021-05-26.
+2024-05-10 14:48:03,075 - INFO: Trade completed for 2021-05-27.
+2024-05-10 14:48:14,528 - INFO: Trade completed for 2021-05-28.
+2024-05-10 14:48:25,886 - INFO: Trade completed for 2021-05-29.
+2024-05-10 14:48:37,135 - INFO: Trade completed for 2021-05-30.
+2024-05-10 14:48:48,681 - INFO: Trade completed for 2021-05-31.
+2024-05-10 14:48:59,992 - INFO: Trade completed for 2021-06-01.
+2024-05-10 14:49:11,162 - INFO: Trade completed for 2021-06-02.
+2024-05-10 14:49:22,518 - INFO: Trade completed for 2021-06-03.
+2024-05-10 14:49:34,946 - INFO: Trade completed for 2021-06-04.
+2024-05-10 14:50:05,044 - INFO: Trade completed for 2021-06-05.
+2024-05-10 14:50:36,158 - INFO: Trade completed for 2021-06-06.
+2024-05-10 14:50:54,257 - INFO: Trade completed for 2021-06-07.
+2024-05-10 14:51:11,446 - INFO: Trade completed for 2021-06-08.
+2024-05-10 14:51:29,511 - INFO: Trade completed for 2021-06-09.
+2024-05-10 14:51:51,185 - INFO: Trade completed for 2021-06-10.
+2024-05-10 14:52:07,578 - INFO: Trade completed for 2021-06-11.
+2024-05-10 14:52:23,738 - INFO: Trade completed for 2021-06-12.
+2024-05-10 14:52:36,299 - INFO: Trade completed for 2021-06-13.
+2024-05-10 14:52:47,781 - INFO: Trade completed for 2021-06-14.
+2024-05-10 14:52:59,249 - INFO: Trade completed for 2021-06-15.
+2024-05-10 14:53:10,903 - INFO: Trade completed for 2021-06-16.
+2024-05-10 14:53:22,481 - INFO: Trade completed for 2021-06-17.
+2024-05-10 14:53:33,962 - INFO: Trade completed for 2021-06-18.
+2024-05-10 14:53:45,647 - INFO: Trade completed for 2021-06-19.
+2024-05-10 14:53:57,458 - INFO: Trade completed for 2021-06-20.
+2024-05-10 14:53:57,551 - INFO: Placed SELL order for LEC at Rs333.0.
+2024-05-10 14:53:57,770 - INFO: Placed SELL order for MHNL at Rs319.0.
+2024-05-10 14:54:09,191 - INFO: Trade completed for 2021-06-21.
+2024-05-10 14:54:09,191 - INFO: Selling of LEC completed.
+2024-05-10 14:54:20,628 - INFO: Trade completed for 2021-06-22.
+2024-05-10 14:54:20,628 - INFO: Selling of MHNL completed.
+2024-05-10 14:54:32,328 - INFO: Placed 18 order for NHPC at Rs323.0
+2024-05-10 14:54:32,328 - INFO: Trade completed for 2021-06-23.
+2024-05-10 14:54:32,328 - INFO: Buying of NHPC completed.
+2024-05-10 14:54:43,936 - INFO: Trade completed for 2021-06-24.
+2024-05-10 14:54:55,419 - INFO: Trade completed for 2021-06-25.
+2024-05-10 14:55:06,807 - INFO: Trade completed for 2021-06-26.
+2024-05-10 14:55:18,242 - INFO: Trade completed for 2021-06-27.
+2024-05-10 14:55:29,851 - INFO: Trade completed for 2021-06-28.
+2024-05-10 14:55:41,380 - INFO: Trade completed for 2021-06-29.
+2024-05-10 14:55:41,568 - INFO: Placed SELL order for PMHPL at Rs280.0.
+2024-05-10 14:55:52,988 - INFO: Trade completed for 2021-06-30.
+2024-05-10 14:55:52,988 - INFO: Selling of PMHPL completed.
+2024-05-10 14:56:04,596 - INFO: Trade completed for 2021-07-01.
+2024-05-10 14:56:27,818 - INFO: Trade completed for 2021-07-02.
+2024-05-10 14:56:39,323 - INFO: Trade completed for 2021-07-03.
+2024-05-10 14:56:52,088 - INFO: Trade completed for 2021-07-04.
+2024-05-10 14:57:05,870 - INFO: Trade completed for 2021-07-05.
+2024-05-10 14:57:19,432 - INFO: Trade completed for 2021-07-06.
+2024-05-10 14:57:19,620 - INFO: Placed SELL order for UMHL at Rs338.0.
+2024-05-10 14:57:31,190 - INFO: Trade completed for 2021-07-07.
+2024-05-10 14:57:31,190 - INFO: Selling of UMHL completed.
+2024-05-10 14:57:31,300 - INFO: Placed SELL order for UPCL at Rs280.0.
+2024-05-10 14:57:31,567 - INFO: Placed SELL order for DHPL at Rs253.0.
+2024-05-10 14:57:42,572 - INFO: Placed 10 order for NFS at Rs492.0
+2024-05-10 14:57:42,604 - INFO: Trade completed for 2021-07-08.
+2024-05-10 14:57:42,604 - INFO: Selling of UPCL completed.
+2024-05-10 14:57:42,604 - INFO: Buying of NFS completed.
+2024-05-10 14:57:54,975 - INFO: Trade completed for 2021-07-09.
+2024-05-10 14:57:54,975 - INFO: Selling of DHPL completed.
+2024-05-10 14:58:17,443 - INFO: Placed 10 order for OHL at Rs704.0
+2024-05-10 14:58:17,490 - INFO: Trade completed for 2021-07-10.
+2024-05-10 14:58:17,490 - INFO: Buying of OHL completed.
+2024-05-10 14:58:37,621 - INFO: Trade completed for 2021-07-11.
+2024-05-10 14:58:55,671 - INFO: Trade completed for 2021-07-12.
+2024-05-10 14:59:14,729 - INFO: Trade completed for 2021-07-13.
+2024-05-10 14:59:32,542 - INFO: Trade completed for 2021-07-14.
+2024-05-10 14:59:50,619 - INFO: Trade completed for 2021-07-15.
+2024-05-10 15:00:08,760 - INFO: Trade completed for 2021-07-16.
+2024-05-10 15:00:26,351 - INFO: Trade completed for 2021-07-17.
+2024-05-10 15:00:43,380 - INFO: Trade completed for 2021-07-18.
+2024-05-10 15:00:59,914 - INFO: Trade completed for 2021-07-19.
+2024-05-10 15:01:16,737 - INFO: Trade completed for 2021-07-20.
+2024-05-10 15:01:29,051 - INFO: Trade completed for 2021-07-21.
+2024-05-10 15:01:41,203 - INFO: Trade completed for 2021-07-22.
+2024-05-10 15:01:53,444 - INFO: Trade completed for 2021-07-23.
+2024-05-10 15:02:05,467 - INFO: Trade completed for 2021-07-24.
+2024-05-10 15:02:17,817 - INFO: Trade completed for 2021-07-25.
+2024-05-10 15:02:29,469 - INFO: Trade completed for 2021-07-26.
+2024-05-10 15:02:41,161 - INFO: Trade completed for 2021-07-27.
+2024-05-10 15:02:52,635 - INFO: Trade completed for 2021-07-28.
+2024-05-10 15:03:04,362 - INFO: Trade completed for 2021-07-29.
+2024-05-10 15:03:16,088 - INFO: Trade completed for 2021-07-30.
+2024-05-10 15:03:27,845 - INFO: Trade completed for 2021-07-31.
+2024-05-10 15:03:39,528 - INFO: Trade completed for 2021-08-01.
+2024-05-10 15:03:51,358 - INFO: Trade completed for 2021-08-02.
+2024-05-10 15:04:03,034 - INFO: Trade completed for 2021-08-03.
+2024-05-10 15:04:14,666 - INFO: Trade completed for 2021-08-04.
+2024-05-10 15:04:26,220 - INFO: Trade completed for 2021-08-05.
+2024-05-10 15:04:38,353 - INFO: Trade completed for 2021-08-06.
+2024-05-10 15:04:50,270 - INFO: Trade completed for 2021-08-07.
+2024-05-10 15:05:02,060 - INFO: Trade completed for 2021-08-08.
+2024-05-10 15:05:13,643 - INFO: Trade completed for 2021-08-09.
+2024-05-10 15:05:25,368 - INFO: Trade completed for 2021-08-10.
+2024-05-10 15:05:36,832 - INFO: Trade completed for 2021-08-11.
+2024-05-10 15:05:49,361 - INFO: Trade completed for 2021-08-12.
+2024-05-10 15:06:01,092 - INFO: Trade completed for 2021-08-13.
+2024-05-10 15:06:13,004 - INFO: Trade completed for 2021-08-14.
+2024-05-10 15:06:25,639 - INFO: Trade completed for 2021-08-15.
+2024-05-10 15:06:37,446 - INFO: Trade completed for 2021-08-16.
+2024-05-10 15:06:49,416 - INFO: Trade completed for 2021-08-17.
+2024-05-10 15:06:49,834 - INFO: Placed SELL order for OHL at Rs640.0.
+2024-05-10 15:07:01,027 - INFO: Trade completed for 2021-08-18.
+2024-05-10 15:07:01,027 - INFO: Selling of OHL completed.
+2024-05-10 15:07:12,864 - INFO: Placed 10 order for PMHPL at Rs418.5
+2024-05-10 15:07:12,927 - INFO: Trade completed for 2021-08-19.
+2024-05-10 15:07:12,927 - INFO: Buying of PMHPL completed.
+2024-05-10 15:07:24,905 - INFO: Trade completed for 2021-08-20.
+2024-05-10 15:07:36,617 - INFO: Trade completed for 2021-08-21.
+2024-05-10 15:07:48,283 - INFO: Trade completed for 2021-08-22.
+2024-05-10 15:08:00,169 - INFO: Trade completed for 2021-08-23.
+2024-05-10 15:08:12,195 - INFO: Trade completed for 2021-08-24.
+2024-05-10 15:08:24,301 - INFO: Trade completed for 2021-08-25.
+2024-05-10 15:08:36,122 - INFO: Trade completed for 2021-08-26.
+2024-05-10 15:08:47,880 - INFO: Trade completed for 2021-08-27.
+2024-05-10 15:08:59,796 - INFO: Trade completed for 2021-08-28.
+2024-05-10 15:09:11,651 - INFO: Trade completed for 2021-08-29.
+2024-05-10 15:09:23,474 - INFO: Trade completed for 2021-08-30.
+2024-05-10 15:09:35,500 - INFO: Trade completed for 2021-08-31.
+2024-05-10 15:09:47,385 - INFO: Trade completed for 2021-09-01.
+2024-05-10 15:09:59,097 - INFO: Trade completed for 2021-09-02.
+2024-05-10 15:10:10,842 - INFO: Trade completed for 2021-09-03.
+2024-05-10 15:10:22,553 - INFO: Trade completed for 2021-09-04.
+2024-05-10 15:10:34,297 - INFO: Trade completed for 2021-09-05.
+2024-05-10 15:10:34,611 - INFO: Placed SELL order for NFS at Rs650.0.
+2024-05-10 15:10:34,705 - INFO: Placed SELL order for PMHPL at Rs379.5.
+2024-05-10 15:10:45,919 - INFO: Trade completed for 2021-09-06.
+2024-05-10 15:10:45,919 - INFO: Selling of NFS completed.
+2024-05-10 15:10:57,515 - INFO: Trade completed for 2021-09-07.
+2024-05-10 15:10:57,515 - INFO: Selling of PMHPL completed.
+2024-05-10 15:11:09,307 - INFO: Placed 18 order for UMHL at Rs629.0
+2024-05-10 15:11:09,307 - INFO: Trade completed for 2021-09-08.
+2024-05-10 15:11:09,322 - INFO: Buying of UMHL completed.
+2024-05-10 15:11:24,353 - INFO: Trade completed for 2021-09-09.
+2024-05-10 15:11:40,786 - INFO: Trade completed for 2021-09-10.
+2024-05-10 15:11:56,570 - INFO: Trade completed for 2021-09-11.
+2024-05-10 15:12:13,849 - INFO: Trade completed for 2021-09-12.
+2024-05-10 15:12:26,182 - INFO: Trade completed for 2021-09-13.
+2024-05-10 15:12:38,012 - INFO: Trade completed for 2021-09-14.
+2024-05-10 15:12:49,967 - INFO: Trade completed for 2021-09-15.
+2024-05-10 15:13:03,166 - INFO: Trade completed for 2021-09-16.
+2024-05-10 15:13:21,239 - INFO: Trade completed for 2021-09-17.
+2024-05-10 15:13:38,751 - INFO: Trade completed for 2021-09-18.
+2024-05-10 15:13:55,879 - INFO: Trade completed for 2021-09-19.
+2024-05-10 15:13:56,390 - INFO: Placed SELL order for UMHL at Rs495.0.
+2024-05-10 15:14:12,829 - INFO: Trade completed for 2021-09-20.
+2024-05-10 15:14:12,829 - INFO: Selling of UMHL completed.
+2024-05-10 15:14:12,980 - INFO: Placed SELL order for KKHC at Rs351.0.
+2024-05-10 15:14:13,119 - INFO: Placed SELL order for PROFL at Rs422.0.
+2024-05-10 15:14:13,257 - INFO: Placed SELL order for NHPC at Rs414.0.
+2024-05-10 15:14:30,117 - INFO: Trade completed for 2021-09-21.
+2024-05-10 15:14:30,119 - INFO: Selling of KKHC completed.
+2024-05-10 15:14:30,119 - INFO: Selling of NHPC completed.
+2024-05-10 15:14:45,853 - INFO: Trade completed for 2021-09-22.
+2024-05-10 15:14:45,853 - INFO: Selling of PROFL completed.
+2024-05-10 15:14:57,886 - INFO: Trade completed for 2021-09-23.
+2024-05-10 15:15:10,014 - INFO: Trade completed for 2021-09-24.
+2024-05-10 15:15:22,097 - INFO: Trade completed for 2021-09-25.
+2024-05-10 15:15:34,856 - INFO: Trade completed for 2021-09-26.
+2024-05-10 15:15:53,814 - INFO: Trade completed for 2021-09-27.
+2024-05-10 15:16:10,634 - INFO: Trade completed for 2021-09-28.
+2024-05-10 15:16:27,971 - INFO: Trade completed for 2021-09-29.
+2024-05-10 15:16:45,179 - INFO: Trade completed for 2021-09-30.
+2024-05-10 15:17:07,822 - INFO: Trade completed for 2021-10-01.
+2024-05-10 15:17:31,117 - INFO: Trade completed for 2021-10-02.
+2024-05-10 15:17:57,585 - INFO: Trade completed for 2021-10-03.
+2024-05-10 15:18:17,262 - INFO: Trade completed for 2021-10-04.
+2024-05-10 15:18:35,712 - INFO: Trade completed for 2021-10-05.
+2024-05-10 15:18:53,927 - INFO: Trade completed for 2021-10-06.
+2024-05-10 15:19:11,657 - INFO: Trade completed for 2021-10-07.
+2024-05-10 15:19:38,731 - INFO: Trade completed for 2021-10-08.
+2024-05-10 15:19:57,136 - INFO: Trade completed for 2021-10-09.
+2024-05-10 15:20:15,907 - INFO: Placed 13 order for SLBBL at Rs1570.0
+2024-05-10 15:20:15,911 - INFO: Trade completed for 2021-10-10.
+2024-05-10 15:20:15,911 - INFO: Buying of SLBBL completed.
+2024-05-10 15:20:35,485 - INFO: Trade completed for 2021-10-11.
+2024-05-10 15:20:54,175 - INFO: Trade completed for 2021-10-12.
+2024-05-10 15:21:12,089 - INFO: Trade completed for 2021-10-13.
+2024-05-10 15:21:29,470 - INFO: Trade completed for 2021-10-14.
+2024-05-10 15:21:49,875 - INFO: Trade completed for 2021-10-15.
+2024-05-10 15:22:08,841 - INFO: Trade completed for 2021-10-16.
+2024-05-10 15:22:26,102 - INFO: Trade completed for 2021-10-17.
+2024-05-10 15:22:43,246 - INFO: Placed 10 order for EDBL at Rs545.0
+2024-05-10 15:22:43,277 - INFO: Trade completed for 2021-10-18.
+2024-05-10 15:22:43,277 - INFO: Buying of EDBL completed.
+2024-05-10 15:23:01,068 - INFO: Trade completed for 2021-10-19.
+2024-05-10 15:23:19,791 - INFO: Trade completed for 2021-10-20.
+2024-05-10 15:23:19,960 - INFO: Placed SELL order for SLBBL at Rs1498.0.
+2024-05-10 15:23:38,983 - INFO: Trade completed for 2021-10-21.
+2024-05-10 15:23:38,985 - INFO: Selling of SLBBL completed.
+2024-05-10 15:23:59,599 - INFO: Trade completed for 2021-10-22.
+2024-05-10 15:24:17,527 - INFO: Trade completed for 2021-10-23.
+2024-05-10 15:24:17,707 - INFO: Placed SELL order for EDBL at Rs555.0.
+2024-05-10 15:24:34,746 - INFO: Trade completed for 2021-10-24.
+2024-05-10 15:24:34,748 - INFO: Selling of EDBL completed.
+2024-05-10 15:24:51,647 - INFO: Placed 71 order for KBL at Rs273.0
+2024-05-10 15:24:51,649 - INFO: Trade completed for 2021-10-25.
+2024-05-10 15:24:51,649 - INFO: Buying of KBL completed.
+2024-05-10 15:24:51,819 - INFO: Placed SELL order for KBL at Rs279.0.
+2024-05-10 15:25:08,702 - INFO: Trade completed for 2021-10-26.
+2024-05-10 15:25:08,702 - INFO: Selling of KBL completed.
+2024-05-10 15:25:26,123 - INFO: Trade completed for 2021-10-27.
+2024-05-10 15:25:43,533 - INFO: Trade completed for 2021-10-28.
+2024-05-10 15:26:01,340 - INFO: Trade completed for 2021-10-29.
+2024-05-10 15:26:19,256 - INFO: Trade completed for 2021-10-30.
+2024-05-10 15:26:37,214 - INFO: Placed 10 order for MEN at Rs1229.9
+2024-05-10 15:26:37,229 - INFO: Trade completed for 2021-10-31.
+2024-05-10 15:26:37,230 - INFO: Buying of MEN completed.
+2024-05-10 15:26:55,698 - INFO: Trade completed for 2021-11-01.
+2024-05-10 15:27:13,275 - INFO: Trade completed for 2021-11-02.
+2024-05-10 15:27:30,366 - INFO: Placed 10 order for MPFL at Rs530.0
+2024-05-10 15:27:30,410 - INFO: Placed 10 order for NHPC at Rs422.0
+2024-05-10 15:27:30,460 - INFO: Trade completed for 2021-11-03.
+2024-05-10 15:27:30,460 - INFO: Buying of MPFL completed.
+2024-05-10 15:27:46,932 - INFO: Trade completed for 2021-11-04.
+2024-05-10 15:27:46,932 - INFO: Buying of NHPC completed.
+2024-05-10 15:28:04,260 - INFO: Trade completed for 2021-11-05.
+2024-05-10 15:28:21,320 - INFO: Trade completed for 2021-11-06.
+2024-05-10 15:28:40,696 - INFO: Trade completed for 2021-11-07.
+2024-05-10 15:29:00,056 - INFO: Placed 10 order for SAPDBL at Rs412.0
+2024-05-10 15:29:00,506 - INFO: Trade completed for 2021-11-08.
+2024-05-10 15:29:00,507 - INFO: Buying of SAPDBL completed.
+2024-05-10 15:29:19,411 - INFO: Trade completed for 2021-11-09.
+2024-05-10 15:29:37,364 - INFO: Trade completed for 2021-11-10.
+2024-05-10 15:29:54,760 - INFO: Trade completed for 2021-11-11.
+2024-05-10 15:30:11,973 - INFO: Trade completed for 2021-11-12.
+2024-05-10 15:30:28,752 - INFO: Trade completed for 2021-11-13.
+2024-05-10 15:30:44,950 - INFO: Trade completed for 2021-11-14.
+2024-05-10 15:31:01,028 - INFO: Trade completed for 2021-11-15.
+2024-05-10 15:31:17,076 - INFO: Trade completed for 2021-11-16.
+2024-05-10 15:31:32,416 - INFO: Trade completed for 2021-11-17.
+2024-05-10 15:31:47,956 - INFO: Trade completed for 2021-11-18.
+2024-05-10 15:32:04,965 - INFO: Trade completed for 2021-11-19.
+2024-05-10 15:32:20,863 - INFO: Trade completed for 2021-11-20.
+2024-05-10 15:32:35,239 - INFO: Trade completed for 2021-11-21.
+2024-05-10 15:32:35,813 - INFO: Placed SELL order for SAPDBL at Rs393.0.
+2024-05-10 15:32:51,103 - INFO: Trade completed for 2021-11-22.
+2024-05-10 15:32:51,104 - INFO: Selling of SAPDBL completed.
+2024-05-10 15:33:07,458 - INFO: Placed 10 order for PMHPL at Rs358.5
+2024-05-10 15:33:07,721 - INFO: Trade completed for 2021-11-23.
+2024-05-10 15:33:07,721 - INFO: Buying of PMHPL completed.
+2024-05-10 15:33:23,567 - INFO: Trade completed for 2021-11-24.
+2024-05-10 15:33:39,973 - INFO: Trade completed for 2021-11-25.
+2024-05-10 15:33:56,753 - INFO: Trade completed for 2021-11-26.
+2024-05-10 15:34:12,995 - INFO: Trade completed for 2021-11-27.
+2024-05-10 15:34:13,228 - INFO: Placed SELL order for MPFL at Rs510.0.
+2024-05-10 15:34:29,257 - INFO: Trade completed for 2021-11-28.
+2024-05-10 15:34:29,258 - INFO: Selling of MPFL completed.
+2024-05-10 15:34:29,390 - INFO: Placed SELL order for MEN at Rs1096.0.
+2024-05-10 15:34:29,521 - INFO: Placed SELL order for NHPC at Rs412.0.
+2024-05-10 15:34:45,441 - INFO: Trade completed for 2021-11-29.
+2024-05-10 15:34:45,441 - INFO: Selling of MEN completed.
+2024-05-10 15:35:01,536 - INFO: Trade completed for 2021-11-30.
+2024-05-10 15:35:01,536 - INFO: Selling of NHPC completed.
+2024-05-10 15:35:18,026 - INFO: Trade completed for 2021-12-01.
+2024-05-10 15:35:34,165 - INFO: Trade completed for 2021-12-02.
+2024-05-10 15:35:50,238 - INFO: Trade completed for 2021-12-03.
+2024-05-10 15:36:06,714 - INFO: Trade completed for 2021-12-04.
+2024-05-10 15:36:23,480 - INFO: Trade completed for 2021-12-05.
+2024-05-10 15:36:23,619 - INFO: Placed SELL order for PMHPL at Rs349.0.
+2024-05-10 15:36:41,815 - INFO: Trade completed for 2021-12-06.
+2024-05-10 15:36:41,816 - INFO: Selling of PMHPL completed.
+2024-05-10 15:37:03,141 - INFO: Placed 20 order for NABBC at Rs914.9
+2024-05-10 15:37:03,143 - INFO: Trade completed for 2021-12-07.
+2024-05-10 15:37:03,144 - INFO: Buying of NABBC completed.
+2024-05-10 15:37:22,347 - INFO: Trade completed for 2021-12-08.
+2024-05-10 15:37:41,372 - INFO: Placed 19 order for MBL at Rs293.5
+2024-05-10 15:37:41,375 - INFO: Trade completed for 2021-12-09.
+2024-05-10 15:37:41,376 - INFO: Buying of MBL completed.
+2024-05-10 15:38:00,686 - INFO: Trade completed for 2021-12-10.
+2024-05-10 15:38:20,342 - INFO: Trade completed for 2021-12-11.
+2024-05-10 15:38:39,182 - INFO: Trade completed for 2021-12-12.
+2024-05-10 15:38:58,521 - INFO: Trade completed for 2021-12-13.
+2024-05-10 15:38:58,814 - INFO: Placed SELL order for MBL at Rs303.0.
+2024-05-10 15:39:17,677 - INFO: Trade completed for 2021-12-14.
+2024-05-10 15:39:17,680 - INFO: Selling of MBL completed.
+2024-05-10 15:39:36,529 - INFO: Trade completed for 2021-12-15.
+2024-05-10 15:39:55,415 - INFO: Trade completed for 2021-12-16.
+2024-05-10 15:40:16,447 - INFO: Trade completed for 2021-12-17.
+2024-05-10 15:40:35,301 - INFO: Trade completed for 2021-12-18.
+2024-05-10 15:40:54,110 - INFO: Trade completed for 2021-12-19.
+2024-05-10 15:41:12,957 - INFO: Trade completed for 2021-12-20.
+2024-05-10 15:41:31,993 - INFO: Trade completed for 2021-12-21.
+2024-05-10 15:41:51,417 - INFO: Trade completed for 2021-12-22.
+2024-05-10 15:41:51,617 - INFO: Placed SELL order for NABBC at Rs528.0.
+2024-05-10 15:42:11,461 - INFO: Trade completed for 2021-12-23.
+2024-05-10 15:42:11,463 - INFO: Selling of NABBC completed.
+2024-05-10 15:42:32,592 - INFO: Trade completed for 2021-12-24.
+2024-05-10 15:42:51,785 - INFO: Trade completed for 2021-12-25.
+2024-05-10 15:43:11,101 - INFO: Trade completed for 2021-12-26.
+2024-05-10 15:43:33,664 - INFO: Trade completed for 2021-12-27.
+2024-05-10 15:44:04,350 - INFO: Trade completed for 2021-12-28.
+2024-05-10 15:44:33,099 - INFO: Trade completed for 2021-12-29.
+2024-05-10 17:00:14,691 - INFO: Trade completed for 2021-12-30.
+2024-05-10 17:00:32,682 - INFO: Trade completed for 2021-12-31.
+2024-05-10 17:00:45,839 - INFO: Trade completed for 2022-01-01.
+2024-05-10 17:00:58,428 - INFO: Trade completed for 2022-01-02.
+2024-05-10 17:01:10,771 - INFO: Trade completed for 2022-01-03.
+2024-05-10 17:01:23,357 - INFO: Trade completed for 2022-01-04.
+2024-05-10 17:01:35,683 - INFO: Trade completed for 2022-01-05.
+2024-05-10 17:01:47,719 - INFO: Placed 10 order for CORBL at Rs904.0
+2024-05-10 17:01:47,750 - INFO: Trade completed for 2022-01-06.
+2024-05-10 17:01:47,750 - INFO: Buying of CORBL completed.
+2024-05-10 17:02:00,004 - INFO: Trade completed for 2022-01-07.
+2024-05-10 17:02:11,533 - INFO: Trade completed for 2022-01-08.
+2024-05-10 17:02:22,984 - INFO: Trade completed for 2022-01-09.
+2024-05-10 17:02:34,606 - INFO: Trade completed for 2022-01-10.
+2024-05-10 17:02:34,700 - INFO: Placed SELL order for CORBL at Rs550.2.
+2024-05-10 17:02:46,323 - INFO: Trade completed for 2022-01-11.
+2024-05-10 17:02:46,323 - INFO: Selling of CORBL completed.
+2024-05-10 17:02:57,868 - INFO: Placed 10 order for SBI at Rs383.0
+2024-05-10 17:02:57,915 - INFO: Trade completed for 2022-01-12.
+2024-05-10 17:02:57,915 - INFO: Buying of SBI completed.
+2024-05-10 17:03:09,584 - INFO: Trade completed for 2022-01-13.
+2024-05-10 17:03:21,316 - INFO: Trade completed for 2022-01-14.
+2024-05-10 17:03:33,002 - INFO: Trade completed for 2022-01-15.
+2024-05-10 17:03:44,562 - INFO: Trade completed for 2022-01-16.
+2024-05-10 17:03:56,153 - INFO: Placed 10 order for MKJC at Rs515.0
+2024-05-10 17:03:56,153 - INFO: Trade completed for 2022-01-17.
+2024-05-10 17:03:56,153 - INFO: Buying of MKJC completed.
+2024-05-10 17:04:07,778 - INFO: Placed 10 order for NIFRA at Rs372.1
+2024-05-10 17:04:07,840 - INFO: Trade completed for 2022-01-18.
+2024-05-10 17:04:07,856 - INFO: Buying of NIFRA completed.
+2024-05-10 17:04:19,790 - INFO: Trade completed for 2022-01-19.
+2024-05-10 17:04:31,583 - INFO: Trade completed for 2022-01-20.
+2024-05-10 17:04:45,034 - INFO: Trade completed for 2022-01-21.
+2024-05-10 17:04:56,793 - INFO: Trade completed for 2022-01-22.
+2024-05-10 17:05:08,727 - INFO: Trade completed for 2022-01-23.
+2024-05-10 17:05:20,974 - INFO: Trade completed for 2022-01-24.
+2024-05-10 17:05:32,722 - INFO: Trade completed for 2022-01-25.
+2024-05-10 17:05:44,517 - INFO: Trade completed for 2022-01-26.
+2024-05-10 17:05:56,093 - INFO: Trade completed for 2022-01-27.
+2024-05-10 17:06:07,795 - INFO: Trade completed for 2022-01-28.
+2024-05-10 17:06:20,106 - INFO: Trade completed for 2022-01-29.
+2024-05-10 17:06:32,230 - INFO: Trade completed for 2022-01-30.
+2024-05-10 17:06:44,135 - INFO: Trade completed for 2022-01-31.
+2024-05-10 17:06:56,102 - INFO: Trade completed for 2022-02-01.
+2024-05-10 17:07:08,130 - INFO: Trade completed for 2022-02-02.
+2024-05-10 17:07:20,095 - INFO: Trade completed for 2022-02-03.
+2024-05-10 17:07:32,295 - INFO: Trade completed for 2022-02-04.
+2024-05-10 17:07:44,293 - INFO: Trade completed for 2022-02-05.
+2024-05-10 17:07:56,134 - INFO: Trade completed for 2022-02-06.
+2024-05-10 17:08:08,069 - INFO: Trade completed for 2022-02-07.
+2024-05-10 17:08:20,098 - INFO: Trade completed for 2022-02-08.
+2024-05-10 17:08:32,127 - INFO: Trade completed for 2022-02-09.
+2024-05-10 17:08:44,001 - INFO: Trade completed for 2022-02-10.
+2024-05-10 17:08:55,796 - INFO: Trade completed for 2022-02-11.
+2024-05-10 17:09:07,590 - INFO: Trade completed for 2022-02-12.
+2024-05-10 17:09:19,496 - INFO: Trade completed for 2022-02-13.
+2024-05-10 17:09:31,369 - INFO: Trade completed for 2022-02-14.
+2024-05-10 17:09:43,572 - INFO: Trade completed for 2022-02-15.
+2024-05-10 17:09:43,681 - INFO: Placed SELL order for SBI at Rs380.0.
+2024-05-10 17:09:55,525 - INFO: Trade completed for 2022-02-16.
+2024-05-10 17:09:55,525 - INFO: Selling of SBI completed.
+2024-05-10 17:10:07,271 - INFO: Trade completed for 2022-02-17.
+2024-05-10 17:10:19,066 - INFO: Trade completed for 2022-02-18.
+2024-05-10 17:10:30,845 - INFO: Trade completed for 2022-02-19.
+2024-05-10 17:10:42,766 - INFO: Trade completed for 2022-02-20.
+2024-05-10 17:10:54,560 - INFO: Trade completed for 2022-02-21.
+2024-05-10 17:11:06,466 - INFO: Trade completed for 2022-02-22.
+2024-05-10 17:11:18,450 - INFO: Trade completed for 2022-02-23.
+2024-05-10 17:11:30,371 - INFO: Placed 10 order for SSHL at Rs390.0
+2024-05-10 17:11:30,402 - INFO: Trade completed for 2022-02-24.
+2024-05-10 17:11:30,402 - INFO: Buying of SSHL completed.
+2024-05-10 17:11:42,246 - INFO: Trade completed for 2022-02-25.
+2024-05-10 17:11:54,152 - INFO: Trade completed for 2022-02-26.
+2024-05-10 17:12:05,949 - INFO: Trade completed for 2022-02-27.
+2024-05-10 17:12:17,700 - INFO: Trade completed for 2022-02-28.
+2024-05-10 17:12:29,371 - INFO: Trade completed for 2022-03-01.
+2024-05-10 17:12:41,170 - INFO: Trade completed for 2022-03-02.
+2024-05-10 17:12:53,074 - INFO: Trade completed for 2022-03-03.
+2024-05-10 17:13:04,823 - INFO: Trade completed for 2022-03-04.
+2024-05-10 17:13:16,617 - INFO: Trade completed for 2022-03-05.
+2024-05-10 17:13:16,758 - INFO: Placed SELL order for NIFRA at Rs331.0.
+2024-05-10 17:13:16,852 - INFO: Placed SELL order for SSHL at Rs359.9.
+2024-05-10 17:13:28,523 - INFO: Trade completed for 2022-03-06.
+2024-05-10 17:13:28,538 - INFO: Selling of NIFRA completed.
+2024-05-10 17:13:40,364 - INFO: Trade completed for 2022-03-07.
+2024-05-10 17:13:40,364 - INFO: Selling of SSHL completed.
+2024-05-10 17:13:52,192 - INFO: Trade completed for 2022-03-08.
+2024-05-10 17:14:04,036 - INFO: Trade completed for 2022-03-09.
+2024-05-10 17:14:15,940 - INFO: Trade completed for 2022-03-10.
+2024-05-10 17:14:27,923 - INFO: Trade completed for 2022-03-11.
+2024-05-10 17:14:39,734 - INFO: Trade completed for 2022-03-12.
+2024-05-10 17:14:51,546 - INFO: Trade completed for 2022-03-13.
+2024-05-10 17:15:03,421 - INFO: Placed 17 order for SSHL at Rs378.0
+2024-05-10 17:15:03,421 - INFO: Trade completed for 2022-03-14.
+2024-05-10 17:15:03,421 - INFO: Buying of SSHL completed.
+2024-05-10 17:15:15,310 - INFO: Trade completed for 2022-03-15.
+2024-05-10 17:15:27,371 - INFO: Trade completed for 2022-03-16.
+2024-05-10 17:15:39,324 - INFO: Trade completed for 2022-03-17.
+2024-05-10 17:15:51,212 - INFO: Trade completed for 2022-03-18.
+2024-05-10 17:16:03,086 - INFO: Trade completed for 2022-03-19.
+2024-05-10 17:16:14,991 - INFO: Trade completed for 2022-03-20.
+2024-05-10 17:16:27,146 - INFO: Trade completed for 2022-03-21.
+2024-05-10 17:16:27,302 - INFO: Placed SELL order for SSHL at Rs362.0.
+2024-05-10 17:16:39,097 - INFO: Trade completed for 2022-03-22.
+2024-05-10 17:16:39,097 - INFO: Selling of SSHL completed.
+2024-05-10 17:16:50,953 - INFO: Placed 17 order for TRH at Rs373.0
+2024-05-10 17:16:50,953 - INFO: Trade completed for 2022-03-23.
+2024-05-10 17:16:50,953 - INFO: Buying of TRH completed.
+2024-05-10 17:17:02,857 - INFO: Trade completed for 2022-03-24.
+2024-05-10 17:17:14,700 - INFO: Trade completed for 2022-03-25.
+2024-05-10 17:17:26,621 - INFO: Trade completed for 2022-03-26.
+2024-05-10 17:17:26,699 - INFO: Placed SELL order for MKJC at Rs620.0.
+2024-05-10 17:17:38,494 - INFO: Trade completed for 2022-03-27.
+2024-05-10 17:17:38,494 - INFO: Selling of MKJC completed.
+2024-05-10 17:17:38,604 - INFO: Placed SELL order for TRH at Rs357.0.
+2024-05-10 17:17:50,291 - INFO: Placed 10 order for SADBL at Rs388.0
+2024-05-10 17:17:50,307 - INFO: Placed 10 order for SHL at Rs223.5
+2024-05-10 17:17:50,338 - INFO: Trade completed for 2022-03-28.
+2024-05-10 17:17:50,338 - INFO: Selling of TRH completed.
+2024-05-10 17:17:50,338 - INFO: Buying of SHL completed.
+2024-05-10 17:18:02,243 - INFO: Trade completed for 2022-03-29.
+2024-05-10 17:18:02,243 - INFO: Buying of SADBL completed.
+2024-05-10 17:18:14,087 - INFO: Trade completed for 2022-03-30.
+2024-05-10 17:18:26,177 - INFO: Trade completed for 2022-03-31.
+2024-05-10 17:18:38,191 - INFO: Trade completed for 2022-04-01.
+2024-05-10 17:18:50,173 - INFO: Trade completed for 2022-04-02.
+2024-05-10 17:19:02,109 - INFO: Trade completed for 2022-04-03.
+2024-05-10 17:19:14,234 - INFO: Trade completed for 2022-04-04.
+2024-05-10 17:19:26,170 - INFO: Trade completed for 2022-04-05.
+2024-05-10 17:19:38,028 - INFO: Trade completed for 2022-04-06.
+2024-05-10 17:19:38,200 - WARNING: No price found for SADBL on 2022-04-07.
+2024-05-10 17:19:58,218 - INFO: Trade completed for 2022-04-07.
+2024-05-10 17:19:58,516 - WARNING: No price found for SADBL on 2022-04-08.
+2024-05-10 17:20:10,820 - INFO: Trade completed for 2022-04-08.
+2024-05-10 17:20:11,007 - WARNING: No price found for SADBL on 2022-04-09.
+2024-05-10 17:20:22,835 - INFO: Trade completed for 2022-04-09.
+2024-05-10 17:20:23,022 - WARNING: No price found for SADBL on 2022-04-10.
+2024-05-10 17:20:34,645 - INFO: Trade completed for 2022-04-10.
+2024-05-10 17:20:34,817 - INFO: Placed SELL order for SADBL at Rs377.0.
+2024-05-10 17:20:46,534 - INFO: Trade completed for 2022-04-11.
+2024-05-10 17:20:46,534 - INFO: Selling of SADBL completed.
+2024-05-10 17:20:58,345 - INFO: Trade completed for 2022-04-12.
+2024-05-10 17:21:10,171 - INFO: Trade completed for 2022-04-13.
+2024-05-10 17:21:22,154 - INFO: Trade completed for 2022-04-14.
+2024-05-10 17:21:34,120 - INFO: Trade completed for 2022-04-15.
+2024-05-10 17:21:46,023 - INFO: Trade completed for 2022-04-16.
+2024-05-10 17:21:58,069 - INFO: Trade completed for 2022-04-17.
+2024-05-10 17:22:09,785 - INFO: Placed 10 order for OHL at Rs490.0
+2024-05-10 17:22:09,816 - INFO: Trade completed for 2022-04-18.
+2024-05-10 17:22:09,816 - INFO: Buying of OHL completed.
+2024-05-10 17:22:09,926 - INFO: Placed SELL order for SHL at Rs225.0.
+2024-05-10 17:22:25,927 - INFO: Placed 17 order for SANIMA at Rs315.0
+2024-05-10 17:22:25,927 - INFO: Trade completed for 2022-04-19.
+2024-05-10 17:22:25,927 - INFO: Selling of SHL completed.
+2024-05-10 17:22:39,158 - INFO: Trade completed for 2022-04-20.
+2024-05-10 17:22:39,158 - INFO: Buying of SANIMA completed.
+2024-05-10 17:22:39,268 - INFO: Placed SELL order for OHL at Rs494.0.
+2024-05-10 17:22:51,251 - INFO: Trade completed for 2022-04-21.
+2024-05-10 17:22:51,251 - INFO: Selling of OHL completed.
+2024-05-10 17:23:03,170 - INFO: Trade completed for 2022-04-22.
+2024-05-10 17:23:15,027 - INFO: Trade completed for 2022-04-23.
+2024-05-10 17:23:27,119 - INFO: Trade completed for 2022-04-24.
+2024-05-10 17:23:38,976 - INFO: Trade completed for 2022-04-25.
+2024-05-10 17:23:51,084 - INFO: Trade completed for 2022-04-26.
+2024-05-10 17:24:03,206 - INFO: Trade completed for 2022-04-27.
+2024-05-10 17:24:15,329 - INFO: Placed 10 order for GUFL at Rs450.0
+2024-05-10 17:24:15,361 - INFO: Trade completed for 2022-04-28.
+2024-05-10 17:24:15,361 - INFO: Buying of GUFL completed.
+2024-05-10 17:24:27,421 - INFO: Trade completed for 2022-04-29.
+2024-05-10 17:24:39,481 - INFO: Trade completed for 2022-04-30.
+2024-05-10 17:24:51,525 - INFO: Trade completed for 2022-05-01.
+2024-05-10 17:25:10,078 - INFO: Trade completed for 2022-05-02.
+2024-05-10 17:25:22,296 - INFO: Trade completed for 2022-05-03.
+2024-05-10 17:25:34,169 - INFO: Trade completed for 2022-05-04.
+2024-05-10 17:25:46,104 - INFO: Trade completed for 2022-05-05.
+2024-05-10 17:25:58,119 - INFO: Trade completed for 2022-05-06.
+2024-05-10 17:26:10,069 - INFO: Trade completed for 2022-05-07.
+2024-05-10 17:26:22,004 - INFO: Trade completed for 2022-05-08.
+2024-05-10 17:26:33,956 - INFO: Trade completed for 2022-05-09.
+2024-05-10 17:26:34,128 - INFO: Placed SELL order for GUFL at Rs433.0.
+2024-05-10 17:26:46,160 - INFO: Trade completed for 2022-05-10.
+2024-05-10 17:26:46,160 - INFO: Selling of GUFL completed.
+2024-05-10 17:26:58,036 - INFO: Trade completed for 2022-05-11.
+2024-05-10 17:26:58,161 - INFO: Placed SELL order for SANIMA at Rs314.0.
+2024-05-10 17:27:10,036 - INFO: Placed 13 order for OHL at Rs507.0
+2024-05-10 17:27:10,036 - INFO: Trade completed for 2022-05-12.
+2024-05-10 17:27:10,036 - INFO: Selling of SANIMA completed.
+2024-05-10 17:27:22,034 - INFO: Trade completed for 2022-05-13.
+2024-05-10 17:27:22,034 - INFO: Buying of OHL completed.
+2024-05-10 17:27:39,056 - INFO: Trade completed for 2022-05-14.
+2024-05-10 17:27:51,509 - INFO: Trade completed for 2022-05-15.
+2024-05-10 17:28:03,510 - INFO: Trade completed for 2022-05-16.
+2024-05-10 17:28:15,495 - INFO: Trade completed for 2022-05-17.
+2024-05-10 17:28:15,604 - INFO: Placed SELL order for OHL at Rs499.0.
+2024-05-10 17:28:27,653 - INFO: Trade completed for 2022-05-18.
+2024-05-10 17:28:27,653 - INFO: Selling of OHL completed.
+2024-05-10 17:28:39,542 - INFO: Trade completed for 2022-05-19.
+2024-05-10 17:28:51,509 - INFO: Trade completed for 2022-05-20.
+2024-05-10 17:29:03,803 - INFO: Trade completed for 2022-05-21.
+2024-05-10 17:29:16,364 - INFO: Trade completed for 2022-05-22.
+2024-05-10 17:29:28,391 - INFO: Placed 11 order for NFS at Rs309.0
+2024-05-10 17:29:28,407 - INFO: Trade completed for 2022-05-23.
+2024-05-10 17:29:28,407 - INFO: Buying of NFS completed.
+2024-05-10 17:29:40,280 - INFO: Trade completed for 2022-05-24.
+2024-05-10 17:29:52,387 - INFO: Trade completed for 2022-05-25.
+2024-05-10 17:30:10,400 - INFO: Placed 13 order for RADHI at Rs613.0
+2024-05-10 17:30:10,400 - INFO: Trade completed for 2022-05-26.
+2024-05-10 17:30:10,400 - INFO: Buying of RADHI completed.
+2024-05-10 17:30:23,398 - INFO: Trade completed for 2022-05-27.
+2024-05-10 17:30:35,317 - INFO: Trade completed for 2022-05-28.
+2024-05-10 17:30:47,222 - INFO: Trade completed for 2022-05-29.
+2024-05-10 17:30:59,219 - INFO: Trade completed for 2022-05-30.
+2024-05-10 17:31:11,107 - INFO: Trade completed for 2022-05-31.
+2024-05-10 17:31:23,183 - INFO: Trade completed for 2022-06-01.
+2024-05-10 17:31:35,242 - INFO: Trade completed for 2022-06-02.
+2024-05-10 17:31:47,178 - INFO: Trade completed for 2022-06-03.
+2024-05-10 17:31:59,065 - INFO: Trade completed for 2022-06-04.
+2024-05-10 17:32:11,079 - INFO: Trade completed for 2022-06-05.
+2024-05-10 17:32:22,984 - INFO: Trade completed for 2022-06-06.
+2024-05-10 17:32:34,998 - INFO: Trade completed for 2022-06-07.
+2024-05-10 17:32:35,170 - INFO: Placed SELL order for RADHI at Rs580.0.
+2024-05-10 17:32:53,128 - INFO: Trade completed for 2022-06-08.
+2024-05-10 17:32:53,128 - INFO: Selling of RADHI completed.
+2024-05-10 17:33:05,689 - INFO: Trade completed for 2022-06-09.
+2024-05-10 17:33:17,687 - INFO: Trade completed for 2022-06-10.
+2024-05-10 17:33:29,481 - INFO: Trade completed for 2022-06-11.
+2024-05-10 17:33:41,698 - INFO: Trade completed for 2022-06-12.
+2024-05-10 17:33:53,949 - INFO: Placed 10 order for PRIN at Rs465.0
+2024-05-10 17:33:53,949 - INFO: Trade completed for 2022-06-13.
+2024-05-10 17:33:53,949 - INFO: Buying of PRIN completed.
+2024-05-10 17:34:06,104 - INFO: Placed 10 order for IGI at Rs395.0
+2024-05-10 17:34:06,104 - INFO: Trade completed for 2022-06-14.
+2024-05-10 17:34:06,104 - INFO: Buying of IGI completed.
+2024-05-10 17:34:18,370 - INFO: Trade completed for 2022-06-15.
+2024-05-10 17:34:30,431 - INFO: Trade completed for 2022-06-16.
+2024-05-10 17:34:42,599 - INFO: Trade completed for 2022-06-17.
+2024-05-10 17:34:54,597 - INFO: Trade completed for 2022-06-18.
+2024-05-10 17:35:06,877 - INFO: Trade completed for 2022-06-19.
+2024-05-10 17:35:24,381 - INFO: Trade completed for 2022-06-20.
+2024-05-10 17:35:36,846 - INFO: Trade completed for 2022-06-21.
+2024-05-10 17:35:48,938 - INFO: Trade completed for 2022-06-22.
+2024-05-10 17:36:00,904 - INFO: Trade completed for 2022-06-23.
+2024-05-10 17:36:12,980 - INFO: Trade completed for 2022-06-24.
+2024-05-10 17:36:25,196 - INFO: Trade completed for 2022-06-25.
+2024-05-10 17:36:37,429 - INFO: Trade completed for 2022-06-26.
+2024-05-10 17:36:49,537 - INFO: Trade completed for 2022-06-27.
+2024-05-10 17:37:01,692 - INFO: Trade completed for 2022-06-28.
+2024-05-10 17:37:13,800 - INFO: Trade completed for 2022-06-29.
+2024-05-10 17:37:13,893 - INFO: Placed SELL order for NFS at Rs273.9.
+2024-05-10 17:37:13,987 - INFO: Placed SELL order for PRIN at Rs460.0.
+2024-05-10 17:37:14,081 - INFO: Placed SELL order for IGI at Rs386.0.
+2024-05-10 17:37:25,909 - INFO: Trade completed for 2022-06-30.
+2024-05-10 17:37:25,909 - INFO: Selling of NFS completed.
+2024-05-10 17:37:25,909 - INFO: Selling of IGI completed.
+2024-05-10 17:37:38,095 - INFO: Trade completed for 2022-07-01.
+2024-05-10 17:37:38,095 - INFO: Selling of PRIN completed.
+2024-05-10 17:37:56,635 - INFO: Trade completed for 2022-07-02.
+2024-05-10 17:38:09,589 - INFO: Trade completed for 2022-07-03.
+2024-05-10 17:38:21,823 - INFO: Trade completed for 2022-07-04.
+2024-05-10 17:38:34,432 - INFO: Trade completed for 2022-07-05.
+2024-05-10 17:38:46,570 - INFO: Trade completed for 2022-07-06.
+2024-05-10 17:38:58,771 - INFO: Trade completed for 2022-07-07.
+2024-05-10 17:39:11,003 - INFO: Trade completed for 2022-07-08.
+2024-05-10 17:39:23,361 - INFO: Trade completed for 2022-07-09.
+2024-05-10 17:39:35,657 - INFO: Trade completed for 2022-07-10.
+2024-05-10 17:39:47,797 - INFO: Trade completed for 2022-07-11.
+2024-05-10 17:39:59,999 - INFO: Trade completed for 2022-07-12.
+2024-05-10 17:40:12,199 - INFO: Trade completed for 2022-07-13.
+2024-05-10 17:40:30,074 - INFO: Trade completed for 2022-07-14.
+2024-05-10 17:40:42,949 - INFO: Trade completed for 2022-07-15.
+2024-05-10 17:40:55,322 - INFO: Trade completed for 2022-07-16.
+2024-05-10 17:41:07,463 - INFO: Trade completed for 2022-07-17.
+2024-05-10 17:41:19,773 - INFO: Placed 21 order for AKPL at Rs462.1
+2024-05-10 17:41:19,773 - INFO: Trade completed for 2022-07-18.
+2024-05-10 17:41:19,773 - INFO: Buying of AKPL completed.
+2024-05-10 17:41:31,835 - INFO: Trade completed for 2022-07-19.
+2024-05-10 17:41:44,179 - INFO: Trade completed for 2022-07-20.
+2024-05-10 17:41:56,599 - INFO: Trade completed for 2022-07-21.
+2024-05-10 17:42:09,163 - INFO: Trade completed for 2022-07-22.
+2024-05-10 17:42:21,505 - INFO: Trade completed for 2022-07-23.
+2024-05-10 17:42:33,677 - INFO: Trade completed for 2022-07-24.
+2024-05-10 17:42:45,800 - INFO: Trade completed for 2022-07-25.
+2024-05-10 17:43:03,679 - INFO: Trade completed for 2022-07-26.
+2024-05-10 17:43:16,710 - INFO: Trade completed for 2022-07-27.
+2024-05-10 17:43:29,051 - INFO: Trade completed for 2022-07-28.
+2024-05-10 17:43:41,268 - INFO: Trade completed for 2022-07-29.
+2024-05-10 17:43:53,734 - INFO: Trade completed for 2022-07-30.
+2024-05-10 17:44:05,951 - INFO: Trade completed for 2022-07-31.
+2024-05-10 17:44:18,214 - INFO: Placed 10 order for NHPC at Rs271.5
+2024-05-10 17:44:18,339 - INFO: Trade completed for 2022-08-01.
+2024-05-10 17:44:18,339 - INFO: Buying of NHPC completed.
+2024-05-10 17:44:31,086 - INFO: Trade completed for 2022-08-02.
+2024-05-10 17:44:43,912 - INFO: Trade completed for 2022-08-03.
+2024-05-10 17:44:57,006 - INFO: Trade completed for 2022-08-04.
+2024-05-10 17:45:09,739 - INFO: Trade completed for 2022-08-05.
+2024-05-10 17:45:22,331 - INFO: Trade completed for 2022-08-06.
+2024-05-10 17:45:40,334 - INFO: Trade completed for 2022-08-07.
+2024-05-10 17:45:53,815 - INFO: Trade completed for 2022-08-08.
+2024-05-10 17:46:06,798 - INFO: Trade completed for 2022-08-09.
+2024-05-10 17:46:19,030 - INFO: Trade completed for 2022-08-10.
+2024-05-10 17:46:19,123 - INFO: Placed SELL order for AKPL at Rs438.1.
+2024-05-10 17:46:31,480 - INFO: Trade completed for 2022-08-11.
+2024-05-10 17:46:31,480 - INFO: Selling of AKPL completed.
+2024-05-10 17:46:43,853 - INFO: Placed 10 order for NHDL at Rs406.0
+2024-05-10 17:46:43,853 - INFO: Trade completed for 2022-08-12.
+2024-05-10 17:46:43,869 - INFO: Buying of NHDL completed.
+2024-05-10 17:46:56,053 - INFO: Trade completed for 2022-08-13.
+2024-05-10 17:47:08,616 - INFO: Trade completed for 2022-08-14.
+2024-05-10 17:47:08,725 - INFO: Placed SELL order for NHPC at Rs260.0.
+2024-05-10 17:47:21,055 - INFO: Trade completed for 2022-08-15.
+2024-05-10 17:47:21,055 - INFO: Selling of NHPC completed.
+2024-05-10 17:47:33,525 - INFO: Trade completed for 2022-08-16.
+2024-05-10 17:47:45,993 - INFO: Trade completed for 2022-08-17.
+2024-05-10 17:47:58,369 - INFO: Trade completed for 2022-08-18.
+2024-05-10 17:48:16,695 - INFO: Trade completed for 2022-08-19.
+2024-05-10 17:48:29,773 - INFO: Trade completed for 2022-08-20.
+2024-05-10 17:48:42,086 - INFO: Trade completed for 2022-08-21.
+2024-05-10 17:48:54,432 - INFO: Placed 18 order for MPFL at Rs356.0
+2024-05-10 17:48:54,432 - INFO: Trade completed for 2022-08-22.
+2024-05-10 17:48:54,432 - INFO: Buying of MPFL completed.
+2024-05-10 17:49:07,041 - INFO: Trade completed for 2022-08-23.
+2024-05-10 17:49:19,526 - INFO: Trade completed for 2022-08-24.
+2024-05-10 17:49:32,027 - INFO: Trade completed for 2022-08-25.
+2024-05-10 17:49:44,341 - INFO: Trade completed for 2022-08-26.
+2024-05-10 17:49:56,827 - INFO: Trade completed for 2022-08-27.
+2024-05-10 17:49:56,921 - INFO: Placed SELL order for NHDL at Rs379.0.
+2024-05-10 17:50:09,231 - INFO: Trade completed for 2022-08-28.
+2024-05-10 17:50:09,231 - INFO: Selling of NHDL completed.
+2024-05-10 17:50:21,593 - INFO: Trade completed for 2022-08-29.
+2024-05-10 17:50:33,982 - INFO: Trade completed for 2022-08-30.
+2024-05-10 17:50:51,240 - INFO: Trade completed for 2022-08-31.
+2024-05-10 17:51:04,458 - INFO: Trade completed for 2022-09-01.
+2024-05-10 17:51:17,427 - INFO: Trade completed for 2022-09-02.
+2024-05-10 17:51:29,788 - INFO: Trade completed for 2022-09-03.
+2024-05-10 17:51:42,147 - INFO: Trade completed for 2022-09-04.
+2024-05-10 17:51:54,661 - INFO: Trade completed for 2022-09-05.
+2024-05-10 17:52:07,053 - INFO: Trade completed for 2022-09-06.
+2024-05-10 17:52:19,630 - INFO: Trade completed for 2022-09-07.
+2024-05-10 17:52:31,927 - INFO: Trade completed for 2022-09-08.
+2024-05-10 17:52:44,301 - INFO: Trade completed for 2022-09-09.
+2024-05-10 17:52:56,973 - INFO: Trade completed for 2022-09-10.
+2024-05-10 17:53:09,478 - INFO: Trade completed for 2022-09-11.
+2024-05-10 17:53:26,946 - INFO: Trade completed for 2022-09-12.
+2024-05-10 17:53:40,569 - INFO: Trade completed for 2022-09-13.
+2024-05-10 17:53:53,457 - INFO: Trade completed for 2022-09-14.
+2024-05-10 17:54:05,923 - INFO: Trade completed for 2022-09-15.
+2024-05-10 17:54:18,656 - INFO: Trade completed for 2022-09-16.
+2024-05-10 17:54:31,185 - INFO: Trade completed for 2022-09-17.
+2024-05-10 17:54:43,650 - INFO: Trade completed for 2022-09-18.
+2024-05-10 17:54:56,367 - INFO: Trade completed for 2022-09-19.
+2024-05-10 17:54:56,476 - INFO: Placed SELL order for MPFL at Rs313.0.
+2024-05-10 17:55:09,193 - INFO: Trade completed for 2022-09-20.
+2024-05-10 17:55:09,193 - INFO: Selling of MPFL completed.
+2024-05-10 17:55:21,784 - INFO: Trade completed for 2022-09-21.
+2024-05-10 17:55:34,141 - INFO: Trade completed for 2022-09-22.
+2024-05-10 17:55:51,612 - INFO: Trade completed for 2022-09-23.
+2024-05-10 17:56:06,329 - INFO: Trade completed for 2022-09-24.
+2024-05-10 17:56:19,045 - INFO: Placed 13 order for HHL at Rs222.0
+2024-05-10 17:56:19,045 - INFO: Placed 10 order for RIDI at Rs484.0
+2024-05-10 17:56:19,060 - INFO: Placed 10 order for SGHC at Rs223.0
+2024-05-10 17:56:19,060 - INFO: Trade completed for 2022-09-25.
+2024-05-10 17:56:19,060 - INFO: Buying of HHL completed.
+2024-05-10 17:56:19,060 - INFO: Buying of SGHC completed.
+2024-05-10 17:56:31,636 - INFO: Trade completed for 2022-09-26.
+2024-05-10 17:56:31,636 - INFO: Buying of RIDI completed.
+2024-05-10 17:56:44,195 - INFO: Trade completed for 2022-09-27.
+2024-05-10 17:56:56,475 - INFO: Trade completed for 2022-09-28.
+2024-05-10 17:57:09,130 - INFO: Trade completed for 2022-09-29.
+2024-05-10 17:57:21,737 - INFO: Trade completed for 2022-09-30.
+2024-05-10 17:57:34,156 - INFO: Trade completed for 2022-10-01.
+2024-05-10 17:57:46,732 - INFO: Trade completed for 2022-10-02.
+2024-05-10 17:57:59,232 - INFO: Trade completed for 2022-10-03.
+2024-05-10 17:58:11,826 - INFO: Trade completed for 2022-10-04.
+2024-05-10 17:58:28,913 - INFO: Trade completed for 2022-10-05.
+2024-05-10 17:58:42,211 - INFO: Trade completed for 2022-10-06.
+2024-05-10 17:58:55,682 - INFO: Trade completed for 2022-10-07.
+2024-05-10 17:59:08,399 - INFO: Trade completed for 2022-10-08.
+2024-05-10 17:59:20,945 - INFO: Trade completed for 2022-10-09.
+2024-05-10 17:59:33,663 - INFO: Trade completed for 2022-10-10.
+2024-05-10 17:59:46,193 - INFO: Trade completed for 2022-10-11.
+2024-05-10 17:59:58,816 - INFO: Trade completed for 2022-10-12.
+2024-05-10 18:00:11,347 - INFO: Trade completed for 2022-10-13.
+2024-05-10 18:00:24,018 - INFO: Trade completed for 2022-10-14.
+2024-05-10 18:00:36,735 - INFO: Trade completed for 2022-10-15.
+2024-05-10 18:00:49,408 - INFO: Trade completed for 2022-10-16.
+2024-05-10 18:01:08,617 - INFO: Trade completed for 2022-10-17.
+2024-05-10 18:01:22,382 - INFO: Trade completed for 2022-10-18.
+2024-05-10 18:01:35,476 - INFO: Trade completed for 2022-10-19.
+2024-05-10 18:01:48,006 - INFO: Trade completed for 2022-10-20.
+2024-05-10 18:02:00,488 - INFO: Trade completed for 2022-10-21.
+2024-05-10 18:02:13,191 - INFO: Trade completed for 2022-10-22.
+2024-05-10 18:02:25,721 - INFO: Trade completed for 2022-10-23.
+2024-05-10 18:02:38,408 - INFO: Trade completed for 2022-10-24.
+2024-05-10 18:02:51,141 - INFO: Trade completed for 2022-10-25.
+2024-05-10 18:03:03,716 - INFO: Trade completed for 2022-10-26.
+2024-05-10 18:03:16,575 - INFO: Trade completed for 2022-10-27.
+2024-05-10 18:03:34,369 - INFO: Trade completed for 2022-10-28.
+2024-05-10 18:03:47,195 - INFO: Trade completed for 2022-10-29.
+2024-05-10 18:04:01,337 - INFO: Trade completed for 2022-10-30.
+2024-05-10 18:04:14,007 - INFO: Trade completed for 2022-10-31.
+2024-05-10 18:04:26,629 - INFO: Trade completed for 2022-11-01.
+2024-05-10 18:04:39,254 - INFO: Trade completed for 2022-11-02.
+2024-05-10 18:04:51,911 - INFO: Trade completed for 2022-11-03.
+2024-05-10 18:05:04,706 - INFO: Trade completed for 2022-11-04.
+2024-05-10 18:05:17,145 - INFO: Trade completed for 2022-11-05.
+2024-05-10 18:05:29,923 - INFO: Trade completed for 2022-11-06.
+2024-05-10 18:05:42,765 - INFO: Trade completed for 2022-11-07.
+2024-05-10 18:05:55,640 - INFO: Trade completed for 2022-11-08.
+2024-05-10 18:06:13,664 - INFO: Trade completed for 2022-11-09.
+2024-05-10 18:06:27,663 - INFO: Trade completed for 2022-11-10.
+2024-05-10 18:06:41,178 - INFO: Trade completed for 2022-11-11.
+2024-05-10 18:06:54,288 - INFO: Trade completed for 2022-11-12.
+2024-05-10 18:07:07,270 - INFO: Trade completed for 2022-11-13.
+2024-05-10 18:07:20,003 - INFO: Trade completed for 2022-11-14.
+2024-05-10 18:07:32,689 - INFO: Trade completed for 2022-11-15.
+2024-05-10 18:07:32,767 - INFO: Placed SELL order for HHL at Rs217.8.
+2024-05-10 18:07:45,422 - INFO: Trade completed for 2022-11-16.
+2024-05-10 18:07:45,422 - INFO: Selling of HHL completed.
+2024-05-10 18:07:58,156 - INFO: Trade completed for 2022-11-17.
+2024-05-10 18:08:10,920 - INFO: Trade completed for 2022-11-18.
+2024-05-10 18:08:23,794 - INFO: Trade completed for 2022-11-19.
+2024-05-10 18:08:41,260 - INFO: Trade completed for 2022-11-20.
+2024-05-10 18:08:55,700 - INFO: Trade completed for 2022-11-21.
+2024-05-10 18:09:08,559 - INFO: Trade completed for 2022-11-22.
+2024-05-10 18:09:21,352 - INFO: Placed 10 order for SBL at Rs320.0
+2024-05-10 18:09:21,414 - INFO: Trade completed for 2022-11-23.
+2024-05-10 18:09:21,414 - INFO: Buying of SBL completed.
+2024-05-10 18:09:34,207 - INFO: Trade completed for 2022-11-24.
+2024-05-10 18:09:47,237 - INFO: Trade completed for 2022-11-25.
+2024-05-10 18:09:59,999 - INFO: Trade completed for 2022-11-26.
+2024-05-10 18:10:12,933 - INFO: Trade completed for 2022-11-27.
+2024-05-10 18:10:25,807 - INFO: Trade completed for 2022-11-28.
+2024-05-10 18:10:38,478 - INFO: Trade completed for 2022-11-29.
+2024-05-10 18:10:38,556 - INFO: Placed SELL order for SGHC at Rs242.0.
+2024-05-10 18:10:51,757 - INFO: Trade completed for 2022-11-30.
+2024-05-10 18:10:51,757 - INFO: Selling of SGHC completed.
+2024-05-10 18:11:04,786 - INFO: Placed 10 order for NBL at Rs283.4
+2024-05-10 18:11:04,957 - INFO: Trade completed for 2022-12-01.
+2024-05-10 18:11:04,957 - INFO: Buying of NBL completed.
+2024-05-10 18:11:23,458 - INFO: Trade completed for 2022-12-02.
+2024-05-10 18:11:37,190 - INFO: Trade completed for 2022-12-03.
+2024-05-10 18:11:50,222 - INFO: Trade completed for 2022-12-04.
+2024-05-10 18:12:03,190 - INFO: Trade completed for 2022-12-05.
+2024-05-10 18:12:16,171 - INFO: Trade completed for 2022-12-06.
+2024-05-10 18:12:29,342 - INFO: Trade completed for 2022-12-07.
+2024-05-10 18:12:42,435 - INFO: Trade completed for 2022-12-08.
+2024-05-10 18:12:55,619 - INFO: Trade completed for 2022-12-09.
+2024-05-10 18:13:08,585 - INFO: Trade completed for 2022-12-10.
+2024-05-10 18:13:21,489 - INFO: Trade completed for 2022-12-11.
+2024-05-10 18:13:34,424 - INFO: Trade completed for 2022-12-12.
+2024-05-10 18:13:52,520 - INFO: Trade completed for 2022-12-13.
+2024-05-10 18:14:07,439 - INFO: Trade completed for 2022-12-14.
+2024-05-10 18:14:21,358 - INFO: Trade completed for 2022-12-15.
+2024-05-10 18:14:34,339 - INFO: Trade completed for 2022-12-16.
+2024-05-10 18:14:47,399 - INFO: Trade completed for 2022-12-17.
+2024-05-10 18:15:00,444 - INFO: Trade completed for 2022-12-18.
+2024-05-10 18:15:00,538 - INFO: Placed SELL order for RIDI at Rs452.0.
+2024-05-10 18:15:13,519 - INFO: Trade completed for 2022-12-19.
+2024-05-10 18:15:13,519 - INFO: Selling of RIDI completed.
+2024-05-10 18:15:13,691 - INFO: Placed SELL order for NBL at Rs265.0.
+2024-05-10 18:15:26,627 - INFO: Trade completed for 2022-12-20.
+2024-05-10 18:15:26,627 - INFO: Selling of NBL completed.
+2024-05-10 18:15:39,672 - INFO: Placed 14 order for EBL at Rs435.0
+2024-05-10 18:15:39,672 - INFO: Trade completed for 2022-12-21.
+2024-05-10 18:15:39,672 - INFO: Buying of EBL completed.
+2024-05-10 18:15:52,717 - INFO: Trade completed for 2022-12-22.
+2024-05-10 18:16:05,574 - INFO: Trade completed for 2022-12-23.
+2024-05-10 18:16:23,286 - INFO: Trade completed for 2022-12-24.
+2024-05-10 18:16:37,955 - INFO: Trade completed for 2022-12-25.
+2024-05-10 18:16:38,065 - INFO: Placed SELL order for SBL at Rs322.0.
+2024-05-10 18:16:51,048 - INFO: Trade completed for 2022-12-26.
+2024-05-10 18:16:51,048 - INFO: Selling of SBL completed.
+2024-05-10 18:17:04,107 - INFO: Trade completed for 2022-12-27.
+2024-05-10 18:17:17,167 - INFO: Placed 10 order for PROFL at Rs305.0
+2024-05-10 18:17:17,277 - INFO: Trade completed for 2022-12-28.
+2024-05-10 18:17:17,277 - INFO: Buying of PROFL completed.
+2024-05-10 18:17:30,181 - INFO: Trade completed for 2022-12-29.
+2024-05-10 18:17:43,320 - INFO: Trade completed for 2022-12-30.
+2024-05-10 18:17:56,490 - INFO: Trade completed for 2022-12-31.
+2024-05-10 18:18:09,597 - INFO: Trade completed for 2023-01-01.
+2024-05-10 18:18:22,733 - INFO: Trade completed for 2023-01-02.
+2024-05-10 18:18:35,777 - INFO: Trade completed for 2023-01-03.
+2024-05-10 18:18:48,823 - INFO: Trade completed for 2023-01-04.
+2024-05-10 18:19:08,737 - INFO: Trade completed for 2023-01-05.
+2024-05-10 18:19:22,126 - INFO: Trade completed for 2023-01-06.
+2024-05-10 18:19:35,326 - INFO: Trade completed for 2023-01-07.
+2024-05-10 18:19:48,697 - INFO: Trade completed for 2023-01-08.
+2024-05-10 18:19:48,760 - INFO: Placed SELL order for EBL at Rs528.0.
+2024-05-10 18:20:01,852 - INFO: Trade completed for 2023-01-09.
+2024-05-10 18:20:01,852 - INFO: Selling of EBL completed.
+2024-05-10 18:20:14,787 - INFO: Placed 10 order for TPC at Rs413.1
+2024-05-10 18:20:14,975 - INFO: Placed 10 order for UHEWA at Rs400.0
+2024-05-10 18:20:15,053 - INFO: Trade completed for 2023-01-10.
+2024-05-10 18:20:15,053 - INFO: Buying of TPC completed.
+2024-05-10 18:20:28,409 - INFO: Trade completed for 2023-01-11.
+2024-05-10 18:20:28,409 - INFO: Buying of UHEWA completed.
+2024-05-10 18:20:42,233 - INFO: Trade completed for 2023-01-12.
+2024-05-10 18:20:55,950 - INFO: Trade completed for 2023-01-13.
+2024-05-10 18:21:09,728 - INFO: Trade completed for 2023-01-14.
+2024-05-10 18:21:23,428 - INFO: Trade completed for 2023-01-15.
+2024-05-10 18:21:44,144 - INFO: Trade completed for 2023-01-16.
+2024-05-10 18:21:58,094 - INFO: Trade completed for 2023-01-17.
+2024-05-10 18:22:11,482 - INFO: Trade completed for 2023-01-18.
+2024-05-10 18:22:25,292 - INFO: Trade completed for 2023-01-19.
+2024-05-10 18:22:38,850 - INFO: Trade completed for 2023-01-20.
+2024-05-10 18:22:52,411 - INFO: Trade completed for 2023-01-21.
+2024-05-10 18:23:05,814 - INFO: Trade completed for 2023-01-22.
+2024-05-10 18:23:19,532 - INFO: Trade completed for 2023-01-23.
+2024-05-10 18:23:33,420 - INFO: Trade completed for 2023-01-24.
+2024-05-10 18:23:46,823 - INFO: Trade completed for 2023-01-25.
+2024-05-10 18:24:00,343 - INFO: Trade completed for 2023-01-26.
+2024-05-10 18:24:19,551 - INFO: Trade completed for 2023-01-27.
+2024-05-10 18:24:33,033 - INFO: Trade completed for 2023-01-28.
+2024-05-10 18:24:46,514 - INFO: Trade completed for 2023-01-29.
+2024-05-10 18:24:59,964 - INFO: Trade completed for 2023-01-30.
+2024-05-10 18:25:13,288 - INFO: Trade completed for 2023-01-31.
+2024-05-10 18:25:26,553 - INFO: Trade completed for 2023-02-01.
+2024-05-10 18:25:39,814 - INFO: Trade completed for 2023-02-02.
+2024-05-10 18:25:53,140 - INFO: Trade completed for 2023-02-03.
+2024-05-10 18:26:06,451 - INFO: Trade completed for 2023-02-04.
+2024-05-10 18:26:19,855 - INFO: Trade completed for 2023-02-05.
+2024-05-10 18:26:33,262 - INFO: Trade completed for 2023-02-06.
+2024-05-10 18:26:52,845 - INFO: Trade completed for 2023-02-07.
+2024-05-10 18:27:06,218 - INFO: Trade completed for 2023-02-08.
+2024-05-10 18:27:19,668 - INFO: Trade completed for 2023-02-09.
+2024-05-10 18:27:32,899 - INFO: Trade completed for 2023-02-10.
+2024-05-10 18:27:46,367 - INFO: Trade completed for 2023-02-11.
+2024-05-10 18:27:59,630 - INFO: Trade completed for 2023-02-12.
+2024-05-10 18:28:13,097 - INFO: Trade completed for 2023-02-13.
+2024-05-10 18:28:26,375 - INFO: Trade completed for 2023-02-14.
+2024-05-10 18:28:39,732 - INFO: Trade completed for 2023-02-15.
+2024-05-10 18:28:53,042 - INFO: Trade completed for 2023-02-16.
+2024-05-10 18:29:06,492 - INFO: Trade completed for 2023-02-17.
+2024-05-10 18:29:24,975 - INFO: Trade completed for 2023-02-18.
+2024-05-10 18:29:39,644 - INFO: Trade completed for 2023-02-19.
+2024-05-10 18:29:53,142 - INFO: Trade completed for 2023-02-20.
+2024-05-10 18:30:06,593 - INFO: Trade completed for 2023-02-21.
+2024-05-10 18:30:20,184 - INFO: Trade completed for 2023-02-22.
+2024-05-10 18:30:33,713 - INFO: Trade completed for 2023-02-23.
+2024-05-10 18:30:47,148 - INFO: Trade completed for 2023-02-24.
+2024-05-10 18:31:00,505 - INFO: Trade completed for 2023-02-25.
+2024-05-10 18:31:13,908 - INFO: Trade completed for 2023-02-26.
+2024-05-10 18:31:14,127 - INFO: Placed SELL order for UHEWA at Rs427.0.
+2024-05-10 18:31:27,405 - INFO: Trade completed for 2023-02-27.
+2024-05-10 18:31:27,405 - INFO: Selling of UHEWA completed.
+2024-05-10 18:31:41,178 - INFO: Trade completed for 2023-02-28.
+2024-05-10 18:32:00,788 - INFO: Placed 10 order for GBIME at Rs194.0
+2024-05-10 18:32:00,819 - INFO: Trade completed for 2023-03-01.
+2024-05-10 18:32:00,819 - INFO: Buying of GBIME completed.
+2024-05-10 18:32:14,614 - INFO: Trade completed for 2023-03-02.
+2024-05-10 18:32:28,034 - INFO: Trade completed for 2023-03-03.
+2024-05-10 18:32:41,626 - INFO: Trade completed for 2023-03-04.
+2024-05-10 18:32:55,154 - INFO: Trade completed for 2023-03-05.
+2024-05-10 18:33:08,698 - INFO: Trade completed for 2023-03-06.
+2024-05-10 18:33:08,791 - INFO: Placed SELL order for PROFL at Rs334.0.
+2024-05-10 18:33:22,289 - INFO: Trade completed for 2023-03-07.
+2024-05-10 18:33:22,289 - INFO: Selling of PROFL completed.
+2024-05-10 18:33:35,992 - INFO: Trade completed for 2023-03-08.
+2024-05-10 18:33:49,490 - INFO: Trade completed for 2023-03-09.
+2024-05-10 18:34:03,131 - INFO: Trade completed for 2023-03-10.
+2024-05-10 18:34:22,241 - INFO: Trade completed for 2023-03-11.
+2024-05-10 18:34:37,911 - INFO: Trade completed for 2023-03-12.
+2024-05-10 18:34:51,410 - INFO: Placed 13 order for AKPL at Rs406.9
+2024-05-10 18:34:51,410 - INFO: Trade completed for 2023-03-13.
+2024-05-10 18:34:51,410 - INFO: Buying of AKPL completed.
+2024-05-10 18:35:04,909 - INFO: Trade completed for 2023-03-14.
+2024-05-10 18:35:18,269 - INFO: Trade completed for 2023-03-15.
+2024-05-10 18:35:31,846 - INFO: Trade completed for 2023-03-16.
+2024-05-10 18:35:45,406 - INFO: Trade completed for 2023-03-17.
+2024-05-10 18:35:58,935 - INFO: Trade completed for 2023-03-18.
+2024-05-10 18:36:12,512 - INFO: Trade completed for 2023-03-19.
+2024-05-10 18:36:25,995 - INFO: Trade completed for 2023-03-20.
+2024-05-10 18:36:39,554 - INFO: Trade completed for 2023-03-21.
+2024-05-10 18:36:57,396 - INFO: Trade completed for 2023-03-22.
+2024-05-10 18:37:11,397 - INFO: Trade completed for 2023-03-23.
+2024-05-10 18:37:26,492 - INFO: Trade completed for 2023-03-24.
+2024-05-10 18:37:40,084 - INFO: Trade completed for 2023-03-25.
+2024-05-10 18:37:53,613 - INFO: Trade completed for 2023-03-26.
+2024-05-10 18:38:07,394 - INFO: Trade completed for 2023-03-27.
+2024-05-10 18:38:20,893 - INFO: Trade completed for 2023-03-28.
+2024-05-10 18:38:34,548 - INFO: Trade completed for 2023-03-29.
+2024-05-10 18:38:48,281 - INFO: Trade completed for 2023-03-30.
+2024-05-10 18:39:01,923 - INFO: Trade completed for 2023-03-31.
+2024-05-10 18:39:15,421 - INFO: Trade completed for 2023-04-01.
+2024-05-10 18:39:34,933 - INFO: Trade completed for 2023-04-02.
+2024-05-10 18:39:35,011 - INFO: Placed SELL order for TPC at Rs408.0.
+2024-05-10 18:39:48,839 - INFO: Trade completed for 2023-04-03.
+2024-05-10 18:39:48,839 - INFO: Selling of TPC completed.
+2024-05-10 18:40:04,074 - INFO: Placed 10 order for SHL at Rs234.0
+2024-05-10 18:40:04,089 - INFO: Placed 10 order for NIMB at Rs181.1
+2024-05-10 18:40:04,089 - INFO: Trade completed for 2023-04-04.
+2024-05-10 18:40:04,089 - INFO: Buying of SHL completed.
+2024-05-10 18:40:17,775 - INFO: Trade completed for 2023-04-05.
+2024-05-10 18:40:17,775 - INFO: Buying of NIMB completed.
+2024-05-10 18:40:31,367 - INFO: Trade completed for 2023-04-06.
+2024-05-10 18:40:44,864 - INFO: Trade completed for 2023-04-07.
+2024-05-10 18:40:58,614 - INFO: Trade completed for 2023-04-08.
+2024-05-10 18:41:12,409 - INFO: Trade completed for 2023-04-09.
+2024-05-10 18:41:26,314 - INFO: Trade completed for 2023-04-10.
+2024-05-10 18:41:26,455 - INFO: Placed SELL order for AKPL at Rs392.9.
+2024-05-10 18:41:40,065 - INFO: Trade completed for 2023-04-11.
+2024-05-10 18:41:40,065 - INFO: Selling of AKPL completed.
+2024-05-10 18:41:53,687 - INFO: Trade completed for 2023-04-12.
+2024-05-10 18:42:12,898 - INFO: Placed 10 order for SHPC at Rs337.0
+2024-05-10 18:42:12,913 - INFO: Trade completed for 2023-04-13.
+2024-05-10 18:42:12,913 - INFO: Buying of SHPC completed.
+2024-05-10 18:42:28,445 - INFO: Trade completed for 2023-04-14.
+2024-05-10 18:42:42,225 - INFO: Trade completed for 2023-04-15.
+2024-05-10 18:42:56,022 - INFO: Trade completed for 2023-04-16.
+2024-05-10 18:43:09,848 - INFO: Trade completed for 2023-04-17.
+2024-05-10 18:43:23,660 - INFO: Trade completed for 2023-04-18.
+2024-05-10 18:43:37,628 - INFO: Trade completed for 2023-04-19.
+2024-05-10 18:43:51,532 - INFO: Trade completed for 2023-04-20.
+2024-05-10 18:44:05,499 - INFO: Trade completed for 2023-04-21.
+2024-05-10 18:44:19,606 - INFO: Trade completed for 2023-04-22.
+2024-05-10 18:44:38,616 - INFO: Trade completed for 2023-04-23.
+2024-05-10 18:44:54,213 - INFO: Placed 10 order for NMB at Rs235.0
+2024-05-10 18:44:54,229 - INFO: Trade completed for 2023-04-24.
+2024-05-10 18:44:54,229 - INFO: Buying of NMB completed.
+2024-05-10 18:45:08,587 - INFO: Trade completed for 2023-04-25.
+2024-05-10 18:45:22,616 - INFO: Trade completed for 2023-04-26.
+2024-05-10 18:45:36,396 - INFO: Trade completed for 2023-04-27.
+2024-05-10 18:45:50,238 - INFO: Trade completed for 2023-04-28.
+2024-05-10 18:46:03,988 - INFO: Trade completed for 2023-04-29.
+2024-05-10 18:46:17,908 - INFO: Trade completed for 2023-04-30.
+2024-05-10 18:46:32,282 - INFO: Trade completed for 2023-05-01.
+2024-05-10 18:46:46,483 - INFO: Trade completed for 2023-05-02.
+2024-05-10 18:47:00,902 - INFO: Trade completed for 2023-05-03.
+2024-05-10 18:47:00,996 - INFO: Placed SELL order for GBIME at Rs186.3.
+2024-05-10 18:47:20,368 - INFO: Trade completed for 2023-05-04.
+2024-05-10 18:47:20,368 - INFO: Selling of GBIME completed.
+2024-05-10 18:47:35,588 - INFO: Trade completed for 2023-05-05.
+2024-05-10 18:47:49,478 - INFO: Trade completed for 2023-05-06.
+2024-05-10 18:48:03,524 - INFO: Trade completed for 2023-05-07.
+2024-05-10 18:48:17,554 - INFO: Trade completed for 2023-05-08.
+2024-05-10 18:48:17,788 - INFO: Placed SELL order for SHPC at Rs327.0.
+2024-05-10 18:48:31,503 - INFO: Trade completed for 2023-05-09.
+2024-05-10 18:48:31,503 - INFO: Selling of SHPC completed.
+2024-05-10 18:48:45,547 - INFO: Trade completed for 2023-05-10.
+2024-05-10 18:48:59,732 - INFO: Placed 19 order for SMJC at Rs245.0
+2024-05-10 18:48:59,732 - INFO: Trade completed for 2023-05-11.
+2024-05-10 18:48:59,732 - INFO: Buying of SMJC completed.
+2024-05-10 18:49:13,995 - INFO: Trade completed for 2023-05-12.
+2024-05-10 18:49:28,242 - INFO: Trade completed for 2023-05-13.
+2024-05-10 18:49:47,227 - INFO: Trade completed for 2023-05-14.
+2024-05-10 18:50:03,818 - INFO: Trade completed for 2023-05-15.
+2024-05-10 18:50:17,987 - INFO: Trade completed for 2023-05-16.
+2024-05-10 18:50:31,983 - INFO: Trade completed for 2023-05-17.
+2024-05-10 18:50:46,044 - INFO: Trade completed for 2023-05-18.
+2024-05-10 18:51:00,088 - INFO: Trade completed for 2023-05-19.
+2024-05-10 18:51:14,006 - INFO: Trade completed for 2023-05-20.
+2024-05-10 18:51:28,237 - INFO: Trade completed for 2023-05-21.
+2024-05-10 18:51:42,046 - INFO: Trade completed for 2023-05-22.
+2024-05-10 18:51:56,278 - INFO: Trade completed for 2023-05-23.
+2024-05-10 18:52:10,449 - INFO: Trade completed for 2023-05-24.
+2024-05-10 18:52:29,410 - INFO: Trade completed for 2023-05-25.
+2024-05-10 18:52:44,971 - INFO: Trade completed for 2023-05-26.
+2024-05-10 18:52:59,093 - INFO: Trade completed for 2023-05-27.
+2024-05-10 18:53:13,122 - INFO: Trade completed for 2023-05-28.
+2024-05-10 18:53:27,244 - INFO: Trade completed for 2023-05-29.
+2024-05-10 18:53:41,555 - INFO: Trade completed for 2023-05-30.
+2024-05-10 18:53:55,648 - INFO: Trade completed for 2023-05-31.
+2024-05-10 18:53:55,913 - INFO: Placed SELL order for NMB at Rs220.1.
+2024-05-10 18:54:09,631 - INFO: Trade completed for 2023-06-01.
+2024-05-10 18:54:09,631 - INFO: Selling of NMB completed.
+2024-05-10 18:54:23,627 - INFO: Trade completed for 2023-06-02.
+2024-05-10 18:54:37,951 - INFO: Trade completed for 2023-06-03.
+2024-05-10 18:54:38,092 - INFO: Placed SELL order for NIMB at Rs178.3.
+2024-05-10 18:54:58,381 - INFO: Trade completed for 2023-06-04.
+2024-05-10 18:54:58,381 - INFO: Selling of NIMB completed.
+2024-05-10 18:55:13,629 - INFO: Trade completed for 2023-06-05.
+2024-05-10 18:55:27,845 - INFO: Trade completed for 2023-06-06.
+2024-05-10 18:55:41,812 - INFO: Placed 10 order for JOSHI at Rs278.5
+2024-05-10 18:55:41,828 - INFO: Trade completed for 2023-06-07.
+2024-05-10 18:55:41,828 - INFO: Buying of JOSHI completed.
+2024-05-10 18:55:56,106 - INFO: Trade completed for 2023-06-08.
+2024-05-10 18:56:10,493 - INFO: Trade completed for 2023-06-09.
+2024-05-10 18:56:24,772 - INFO: Trade completed for 2023-06-10.
+2024-05-10 18:56:39,036 - INFO: Trade completed for 2023-06-11.
+2024-05-10 18:56:53,158 - INFO: Trade completed for 2023-06-12.
+2024-05-10 18:57:07,499 - INFO: Trade completed for 2023-06-13.
+2024-05-10 18:57:21,872 - INFO: Trade completed for 2023-06-14.
+2024-05-10 18:57:42,490 - INFO: Trade completed for 2023-06-15.
+2024-05-10 18:57:57,189 - INFO: Trade completed for 2023-06-16.
+2024-05-10 18:58:11,623 - INFO: Trade completed for 2023-06-17.
+2024-05-10 18:58:26,047 - INFO: Trade completed for 2023-06-18.
+2024-05-10 18:58:40,639 - INFO: Trade completed for 2023-06-19.
+2024-05-10 18:58:55,468 - INFO: Trade completed for 2023-06-20.
+2024-05-10 18:59:10,437 - INFO: Trade completed for 2023-06-21.
+2024-05-10 18:59:10,625 - INFO: Placed SELL order for JOSHI at Rs265.5.
+2024-05-10 18:59:25,281 - INFO: Trade completed for 2023-06-22.
+2024-05-10 18:59:25,281 - INFO: Selling of JOSHI completed.
+2024-05-10 18:59:40,029 - INFO: Placed 10 order for MLBL at Rs325.0
+2024-05-10 18:59:40,404 - INFO: Trade completed for 2023-06-23.
+2024-05-10 18:59:40,404 - INFO: Buying of MLBL completed.
+2024-05-10 18:59:55,370 - INFO: Trade completed for 2023-06-24.
+2024-05-10 19:00:17,143 - INFO: Trade completed for 2023-06-25.
+2024-05-10 19:00:31,875 - INFO: Trade completed for 2023-06-26.
+2024-05-10 19:00:32,015 - INFO: Placed SELL order for SMJC at Rs276.0.
+2024-05-10 19:00:46,215 - INFO: Trade completed for 2023-06-27.
+2024-05-10 19:00:46,215 - INFO: Selling of SMJC completed.
+2024-05-10 19:01:00,852 - INFO: Placed 10 order for NIFRA at Rs230.0
+2024-05-10 19:01:00,930 - INFO: Placed 10 order for CORBL at Rs315.7
+2024-05-10 19:01:01,023 - INFO: Trade completed for 2023-06-28.
+2024-05-10 19:01:01,023 - INFO: Buying of NIFRA completed.
+2024-05-10 19:01:15,785 - INFO: Trade completed for 2023-06-29.
+2024-05-10 19:01:15,785 - INFO: Buying of CORBL completed.
+2024-05-10 19:01:30,486 - INFO: Trade completed for 2023-06-30.
+2024-05-10 19:01:45,030 - INFO: Trade completed for 2023-07-01.
+2024-05-10 19:01:59,980 - INFO: Trade completed for 2023-07-02.
+2024-05-10 19:02:15,071 - INFO: Trade completed for 2023-07-03.
+2024-05-10 19:02:15,352 - INFO: Placed SELL order for NIFRA at Rs219.0.
+2024-05-10 19:02:29,864 - INFO: Trade completed for 2023-07-04.
+2024-05-10 19:02:29,864 - INFO: Selling of NIFRA completed.
+2024-05-10 19:02:30,051 - INFO: Placed SELL order for MLBL at Rs317.0.
+2024-05-10 19:02:50,942 - INFO: Placed 10 order for SANIMA at Rs255.0
+2024-05-10 19:02:51,051 - INFO: Trade completed for 2023-07-05.
+2024-05-10 19:02:51,051 - INFO: Selling of MLBL completed.
+2024-05-10 19:03:05,564 - INFO: Placed 10 order for RLFL at Rs360.0
+2024-05-10 19:03:05,627 - INFO: Trade completed for 2023-07-06.
+2024-05-10 19:03:05,627 - INFO: Buying of SANIMA completed.
+2024-05-10 19:03:20,284 - INFO: Trade completed for 2023-07-07.
+2024-05-10 19:03:20,284 - INFO: Buying of RLFL completed.
+2024-05-10 19:03:34,752 - INFO: Trade completed for 2023-07-08.
+2024-05-10 19:03:34,861 - INFO: Placed SELL order for SHL at Rs502.0.
+2024-05-10 19:03:49,405 - INFO: Trade completed for 2023-07-09.
+2024-05-10 19:03:49,405 - INFO: Selling of SHL completed.
+2024-05-10 19:04:03,950 - INFO: Placed 10 order for PROFL at Rs428.0
+2024-05-10 19:04:03,965 - INFO: Trade completed for 2023-07-10.
+2024-05-10 19:04:03,965 - INFO: Buying of PROFL completed.
+2024-05-10 19:04:19,823 - INFO: Trade completed for 2023-07-11.
+2024-05-10 19:04:36,944 - INFO: Trade completed for 2023-07-12.
+2024-05-10 19:04:54,614 - INFO: Trade completed for 2023-07-13.
+2024-05-10 19:05:12,988 - INFO: Trade completed for 2023-07-14.
+2024-05-10 19:05:30,405 - INFO: Trade completed for 2023-07-15.
+2024-05-10 19:05:45,198 - INFO: Trade completed for 2023-07-16.
+2024-05-10 19:06:02,290 - INFO: Trade completed for 2023-07-17.
+2024-05-10 19:06:27,393 - INFO: Trade completed for 2023-07-18.
+2024-05-10 19:06:45,483 - INFO: Trade completed for 2023-07-19.
+2024-05-10 19:07:00,466 - INFO: Trade completed for 2023-07-20.
+2024-05-10 19:07:15,526 - INFO: Trade completed for 2023-07-21.
+2024-05-10 19:07:30,350 - INFO: Trade completed for 2023-07-22.
+2024-05-10 19:07:45,552 - INFO: Trade completed for 2023-07-23.
+2024-05-10 19:08:01,376 - INFO: Trade completed for 2023-07-24.
+2024-05-10 19:08:17,421 - INFO: Trade completed for 2023-07-25.
+2024-05-10 19:08:34,168 - INFO: Trade completed for 2023-07-26.
+2024-05-10 19:08:55,367 - INFO: Trade completed for 2023-07-27.
+2024-05-10 19:09:10,082 - INFO: Trade completed for 2023-07-28.
+2024-05-10 19:09:24,892 - INFO: Trade completed for 2023-07-29.
+2024-05-10 19:09:39,967 - INFO: Trade completed for 2023-07-30.
+2024-05-10 19:09:40,217 - INFO: Placed SELL order for RLFL at Rs357.5.
+2024-05-10 19:09:54,854 - INFO: Trade completed for 2023-07-31.
+2024-05-10 19:09:54,854 - INFO: Selling of RLFL completed.
+2024-05-10 19:10:09,759 - INFO: Placed 10 order for GBIME at Rs218.5
+2024-05-10 19:10:09,774 - INFO: Placed 10 order for MBL at Rs252.8
+2024-05-10 19:10:09,837 - INFO: Trade completed for 2023-08-01.
+2024-05-10 19:10:09,837 - INFO: Buying of GBIME completed.
+2024-05-10 19:10:10,087 - INFO: Placed SELL order for PROFL at Rs385.0.
+2024-05-10 19:10:24,787 - INFO: Trade completed for 2023-08-02.
+2024-05-10 19:10:24,787 - INFO: Buying of MBL completed.
+2024-05-10 19:10:39,597 - INFO: Trade completed for 2023-08-03.
+2024-05-10 19:10:39,597 - INFO: Selling of PROFL completed.
+2024-05-10 19:10:54,765 - INFO: Placed 10 order for CZBIL at Rs190.9
+2024-05-10 19:10:54,765 - INFO: Trade completed for 2023-08-04.
+2024-05-10 19:10:54,765 - INFO: Buying of CZBIL completed.
+2024-05-10 19:11:10,076 - INFO: Trade completed for 2023-08-05.
+2024-05-10 19:11:31,488 - INFO: Placed 10 order for BEDC at Rs207.5
+2024-05-10 19:11:31,520 - INFO: Trade completed for 2023-08-06.
+2024-05-10 19:11:31,520 - INFO: Buying of BEDC completed.
+2024-05-10 19:11:46,455 - INFO: Trade completed for 2023-08-07.
+2024-05-10 19:12:01,171 - INFO: Trade completed for 2023-08-08.
+2024-05-10 19:12:15,840 - INFO: Trade completed for 2023-08-09.
+2024-05-10 19:12:31,023 - INFO: Trade completed for 2023-08-10.
+2024-05-10 19:12:46,178 - INFO: Trade completed for 2023-08-11.
+2024-05-10 19:13:01,207 - INFO: Trade completed for 2023-08-12.
+2024-05-10 19:13:16,111 - INFO: Trade completed for 2023-08-13.
+2024-05-10 19:13:30,969 - INFO: Trade completed for 2023-08-14.
+2024-05-10 19:13:46,483 - INFO: Trade completed for 2023-08-15.
+2024-05-10 19:14:08,163 - INFO: Trade completed for 2023-08-16.
+2024-05-10 19:14:23,192 - INFO: Trade completed for 2023-08-17.
+2024-05-10 19:14:38,204 - INFO: Trade completed for 2023-08-18.
+2024-05-10 19:14:53,200 - INFO: Trade completed for 2023-08-19.
+2024-05-10 19:14:53,294 - INFO: Placed SELL order for CORBL at Rs318.5.
+2024-05-10 19:15:08,260 - INFO: Trade completed for 2023-08-20.
+2024-05-10 19:15:08,260 - INFO: Selling of CORBL completed.
+2024-05-10 19:15:23,228 - INFO: Placed 10 order for IHL at Rs202.0
+2024-05-10 19:15:23,259 - INFO: Trade completed for 2023-08-21.
+2024-05-10 19:15:23,259 - INFO: Buying of IHL completed.
+2024-05-10 19:15:38,320 - INFO: Trade completed for 2023-08-22.
+2024-05-10 19:15:53,285 - INFO: Trade completed for 2023-08-23.
+2024-05-10 19:16:08,202 - INFO: Trade completed for 2023-08-24.
+2024-05-10 19:16:27,854 - INFO: Trade completed for 2023-08-25.
+2024-05-10 19:16:44,864 - INFO: Trade completed for 2023-08-26.
+2024-05-10 19:16:59,860 - INFO: Trade completed for 2023-08-27.
+2024-05-10 19:17:14,857 - INFO: Trade completed for 2023-08-28.
+2024-05-10 19:17:29,917 - INFO: Trade completed for 2023-08-29.
+2024-05-10 19:17:44,806 - INFO: Trade completed for 2023-08-30.
+2024-05-10 19:17:59,774 - INFO: Trade completed for 2023-08-31.
+2024-05-10 19:18:14,801 - INFO: Trade completed for 2023-09-01.
+2024-05-10 19:18:29,876 - INFO: Trade completed for 2023-09-02.
+2024-05-10 19:18:44,997 - INFO: Trade completed for 2023-09-03.
+2024-05-10 19:19:05,413 - INFO: Trade completed for 2023-09-04.
+2024-05-10 19:19:21,847 - INFO: Trade completed for 2023-09-05.
+2024-05-10 19:19:37,093 - INFO: Trade completed for 2023-09-06.
+2024-05-10 19:19:52,402 - INFO: Trade completed for 2023-09-07.
+2024-05-10 19:20:07,634 - INFO: Trade completed for 2023-09-08.
+2024-05-10 19:20:22,679 - INFO: Trade completed for 2023-09-09.
+2024-05-10 19:20:23,085 - INFO: Placed SELL order for BEDC at Rs188.0.
+2024-05-10 19:20:37,677 - INFO: Trade completed for 2023-09-10.
+2024-05-10 19:20:37,677 - INFO: Selling of BEDC completed.
+2024-05-10 19:20:37,833 - INFO: Placed SELL order for GBIME at Rs205.0.
+2024-05-10 19:20:37,927 - INFO: Placed SELL order for MBL at Rs264.0.
+2024-05-10 19:20:38,036 - INFO: Placed SELL order for CZBIL at Rs188.0.
+2024-05-10 19:20:53,003 - INFO: Trade completed for 2023-09-11.
+2024-05-10 19:20:53,003 - INFO: Selling of GBIME completed.
+2024-05-10 19:20:53,003 - INFO: Selling of CZBIL completed.
+2024-05-10 19:21:08,455 - INFO: Placed 36 order for PMHPL at Rs155.9
+2024-05-10 19:21:08,471 - INFO: Trade completed for 2023-09-12.
+2024-05-10 19:21:08,471 - INFO: Selling of MBL completed.
+2024-05-10 19:21:23,983 - INFO: Trade completed for 2023-09-13.
+2024-05-10 19:21:23,983 - INFO: Buying of PMHPL completed.
+2024-05-10 19:21:45,723 - INFO: Trade completed for 2023-09-14.
+2024-05-10 19:22:00,986 - INFO: Trade completed for 2023-09-15.
+2024-05-10 19:22:16,325 - INFO: Trade completed for 2023-09-16.
+2024-05-10 19:22:16,528 - INFO: Placed SELL order for PMHPL at Rs158.9.
+2024-05-10 19:22:31,556 - INFO: Trade completed for 2023-09-17.
+2024-05-10 19:22:31,556 - INFO: Selling of PMHPL completed.
+2024-05-10 19:22:46,943 - INFO: Trade completed for 2023-09-18.
+2024-05-10 19:22:47,053 - INFO: Placed SELL order for SANIMA at Rs289.1.
+2024-05-10 19:22:47,131 - INFO: Placed SELL order for IHL at Rs251.9.
+2024-05-10 19:23:02,222 - INFO: Trade completed for 2023-09-19.
+2024-05-10 19:23:02,222 - INFO: Selling of SANIMA completed.
+2024-05-10 19:23:17,312 - INFO: Placed 10 order for TRH at Rs769.9
+2024-05-10 19:23:17,328 - INFO: Trade completed for 2023-09-20.
+2024-05-10 19:23:17,328 - INFO: Selling of IHL completed.
+2024-05-10 19:23:32,684 - INFO: Placed 10 order for ADBL at Rs262.7
+2024-05-10 19:23:32,684 - INFO: Trade completed for 2023-09-21.
+2024-05-10 19:23:32,684 - INFO: Buying of TRH completed.
+2024-05-10 19:23:48,041 - INFO: Trade completed for 2023-09-22.
+2024-05-10 19:23:48,041 - INFO: Buying of ADBL completed.
+2024-05-10 19:24:04,027 - INFO: Trade completed for 2023-09-23.
+2024-05-10 19:24:26,085 - INFO: Trade completed for 2023-09-24.
+2024-05-10 19:24:41,441 - INFO: Trade completed for 2023-09-25.
+2024-05-10 19:24:56,859 - INFO: Trade completed for 2023-09-26.
+2024-05-10 19:25:12,279 - INFO: Placed 10 order for SMJC at Rs259.0
+2024-05-10 19:25:12,357 - INFO: Placed 10 order for CZBIL at Rs187.0
+2024-05-10 19:25:12,497 - INFO: Trade completed for 2023-09-27.
+2024-05-10 19:25:12,497 - INFO: Buying of SMJC completed.
+2024-05-10 19:25:28,008 - INFO: Trade completed for 2023-09-28.
+2024-05-10 19:25:28,008 - INFO: Buying of CZBIL completed.
+2024-05-10 19:25:43,507 - INFO: Trade completed for 2023-09-29.
+2024-05-10 19:25:59,083 - INFO: Trade completed for 2023-09-30.
+2024-05-10 19:26:14,706 - INFO: Trade completed for 2023-10-01.
+2024-05-10 19:26:30,252 - INFO: Trade completed for 2023-10-02.
+2024-05-10 19:26:52,712 - INFO: Trade completed for 2023-10-03.
+2024-05-10 19:26:52,837 - INFO: Placed SELL order for TRH at Rs727.4.
+2024-05-10 19:27:08,786 - INFO: Trade completed for 2023-10-04.
+2024-05-10 19:27:08,786 - INFO: Selling of TRH completed.
+2024-05-10 19:27:09,036 - INFO: Placed SELL order for CZBIL at Rs175.0.
+2024-05-10 19:27:24,283 - INFO: Placed 10 order for MHCL at Rs207.0
+2024-05-10 19:27:24,283 - INFO: Placed 10 order for GBIME at Rs208.0
+2024-05-10 19:27:24,330 - INFO: Placed 10 order for MCHL at Rs267.0
+2024-05-10 19:27:24,392 - INFO: Trade completed for 2023-10-05.
+2024-05-10 19:27:24,392 - INFO: Selling of CZBIL completed.
+2024-05-10 19:27:24,392 - INFO: Buying of GBIME completed.
+2024-05-10 19:27:39,827 - INFO: Trade completed for 2023-10-06.
+2024-05-10 19:27:39,827 - INFO: Buying of MHCL completed.
+2024-05-10 19:27:55,495 - INFO: Trade completed for 2023-10-07.
+2024-05-10 19:27:55,495 - INFO: Buying of MCHL completed.
+2024-05-10 19:28:11,758 - INFO: Trade completed for 2023-10-08.
+2024-05-10 19:28:11,929 - INFO: Placed SELL order for SMJC at Rs244.0.
+2024-05-10 19:28:28,332 - INFO: Trade completed for 2023-10-09.
+2024-05-10 19:28:28,332 - INFO: Selling of SMJC completed.
+2024-05-10 19:28:44,327 - INFO: Placed 10 order for RAWA at Rs343.1
+2024-05-10 19:28:44,343 - INFO: Trade completed for 2023-10-10.
+2024-05-10 19:28:44,343 - INFO: Buying of RAWA completed.
+2024-05-10 19:29:00,199 - INFO: Trade completed for 2023-10-11.
+2024-05-10 19:29:20,726 - INFO: Trade completed for 2023-10-12.
+2024-05-10 19:29:38,365 - INFO: Trade completed for 2023-10-13.
+2024-05-10 19:29:53,848 - INFO: Trade completed for 2023-10-14.
+2024-05-10 19:30:09,177 - INFO: Trade completed for 2023-10-15.
+2024-05-10 19:30:09,536 - INFO: Placed SELL order for RAWA at Rs335.0.
+2024-05-10 19:30:24,723 - INFO: Trade completed for 2023-10-16.
+2024-05-10 19:30:24,723 - INFO: Selling of RAWA completed.
+2024-05-10 19:30:40,879 - INFO: Placed 10 order for GCIL at Rs408.9
+2024-05-10 19:30:40,879 - INFO: Trade completed for 2023-10-17.
+2024-05-10 19:30:40,879 - INFO: Buying of GCIL completed.
+2024-05-10 19:30:41,004 - INFO: Placed SELL order for ADBL at Rs260.0.
+2024-05-10 19:30:41,098 - INFO: Placed SELL order for GBIME at Rs208.8.
+2024-05-10 19:30:41,254 - INFO: Placed SELL order for MCHL at Rs240.0.
+2024-05-10 19:30:56,958 - INFO: Trade completed for 2023-10-18.
+2024-05-10 19:30:56,958 - INFO: Selling of ADBL completed.
+2024-05-10 19:30:56,958 - INFO: Selling of MCHL completed.
+2024-05-10 19:31:12,896 - INFO: Placed 23 order for MBL at Rs206.1
+2024-05-10 19:31:12,896 - INFO: Trade completed for 2023-10-19.
+2024-05-10 19:31:12,896 - INFO: Selling of GBIME completed.
+2024-05-10 19:31:28,643 - INFO: Trade completed for 2023-10-20.
+2024-05-10 19:31:28,643 - INFO: Buying of MBL completed.
+2024-05-10 19:31:44,002 - INFO: Trade completed for 2023-10-21.
+2024-05-10 19:32:06,230 - INFO: Trade completed for 2023-10-22.
+2024-05-10 19:32:23,858 - INFO: Trade completed for 2023-10-23.
+2024-05-10 19:32:39,505 - INFO: Trade completed for 2023-10-24.
+2024-05-10 19:32:55,130 - INFO: Trade completed for 2023-10-25.
+2024-05-10 19:33:10,565 - INFO: Trade completed for 2023-10-26.
+2024-05-10 19:33:27,064 - INFO: Trade completed for 2023-10-27.
+2024-05-10 19:33:43,750 - INFO: Trade completed for 2023-10-28.
+2024-05-10 19:33:59,890 - INFO: Trade completed for 2023-10-29.
+2024-05-10 19:34:15,920 - INFO: Trade completed for 2023-10-30.
+2024-05-10 19:34:31,605 - INFO: Placed 10 order for GBIME at Rs207.9
+2024-05-10 19:34:31,636 - INFO: Trade completed for 2023-10-31.
+2024-05-10 19:34:31,636 - INFO: Buying of GBIME completed.
+2024-05-10 19:34:31,730 - INFO: Placed SELL order for MHCL at Rs197.8.
+2024-05-10 19:34:47,525 - INFO: Trade completed for 2023-11-01.
+2024-05-10 19:34:47,525 - INFO: Selling of MHCL completed.
+2024-05-10 19:35:05,461 - INFO: Placed 10 order for MEHL at Rs186.0
+2024-05-10 19:35:05,461 - INFO: Trade completed for 2023-11-02.
+2024-05-10 19:35:05,461 - INFO: Buying of MEHL completed.
+2024-05-10 19:35:22,084 - INFO: Trade completed for 2023-11-03.
+2024-05-10 19:35:38,817 - INFO: Trade completed for 2023-11-04.
+2024-05-10 19:35:55,033 - INFO: Trade completed for 2023-11-05.
+2024-05-10 19:36:11,202 - INFO: Trade completed for 2023-11-06.
+2024-05-10 19:36:11,281 - INFO: Placed SELL order for GCIL at Rs394.0.
+2024-05-10 19:36:11,437 - INFO: Placed SELL order for GBIME at Rs205.4.
+2024-05-10 19:36:27,184 - INFO: Trade completed for 2023-11-07.
+2024-05-10 19:36:27,200 - INFO: Selling of GCIL completed.
+2024-05-10 19:36:43,197 - INFO: Trade completed for 2023-11-08.
+2024-05-10 19:36:43,197 - INFO: Selling of GBIME completed.
+2024-05-10 19:36:59,290 - INFO: Trade completed for 2023-11-09.
+2024-05-10 19:37:15,695 - INFO: Trade completed for 2023-11-10.
+2024-05-10 19:37:32,020 - INFO: Trade completed for 2023-11-11.
+2024-05-10 19:37:47,941 - INFO: Trade completed for 2023-11-12.
+2024-05-10 19:38:04,128 - INFO: Trade completed for 2023-11-13.
+2024-05-10 19:38:20,578 - INFO: Trade completed for 2023-11-14.
+2024-05-10 19:38:36,639 - INFO: Trade completed for 2023-11-15.
+2024-05-10 19:38:53,309 - INFO: Trade completed for 2023-11-16.
+2024-05-10 19:39:09,869 - INFO: Trade completed for 2023-11-17.
+2024-05-10 19:39:26,400 - INFO: Trade completed for 2023-11-18.
+2024-05-10 19:39:42,445 - INFO: Trade completed for 2023-11-19.
+2024-05-10 19:39:58,068 - INFO: Trade completed for 2023-11-20.
+2024-05-10 19:40:13,878 - INFO: Placed 10 order for GBIME at Rs206.1
+2024-05-10 19:40:13,894 - INFO: Placed 10 order for NRM at Rs215.0
+2024-05-10 19:40:13,894 - INFO: Placed 10 order for ULHC at Rs225.0
+2024-05-10 19:40:13,894 - INFO: Trade completed for 2023-11-21.
+2024-05-10 19:40:13,894 - INFO: Buying of GBIME completed.
+2024-05-10 19:40:13,894 - INFO: Buying of ULHC completed.
+2024-05-10 19:40:29,596 - INFO: Trade completed for 2023-11-22.
+2024-05-10 19:40:29,596 - INFO: Buying of NRM completed.
+2024-05-10 19:40:29,893 - INFO: Placed SELL order for NRM at Rs228.5.
+2024-05-10 19:40:45,361 - INFO: Trade completed for 2023-11-23.
+2024-05-10 19:40:45,361 - INFO: Selling of NRM completed.
+2024-05-10 19:41:00,969 - INFO: Placed 14 order for MHCL at Rs210.0
+2024-05-10 19:41:00,969 - INFO: Trade completed for 2023-11-24.
+2024-05-10 19:41:00,969 - INFO: Buying of MHCL completed.
+2024-05-10 19:41:16,624 - INFO: Trade completed for 2023-11-25.
+2024-05-10 19:41:32,624 - INFO: Trade completed for 2023-11-26.
+2024-05-10 19:41:48,670 - INFO: Trade completed for 2023-11-27.
+2024-05-10 19:42:04,716 - INFO: Trade completed for 2023-11-28.
+2024-05-10 19:42:20,885 - INFO: Trade completed for 2023-11-29.
+2024-05-10 19:42:37,012 - INFO: Trade completed for 2023-11-30.
+2024-05-10 19:42:53,124 - INFO: Trade completed for 2023-12-01.
+2024-05-10 19:43:09,577 - INFO: Trade completed for 2023-12-02.
+2024-05-10 19:43:09,764 - INFO: Placed SELL order for GBIME at Rs196.0.
+2024-05-10 19:43:25,731 - INFO: Trade completed for 2023-12-03.
+2024-05-10 19:43:25,731 - INFO: Selling of GBIME completed.
+2024-05-10 19:43:41,842 - INFO: Placed 10 order for PCBL at Rs190.0
+2024-05-10 19:43:41,873 - INFO: Trade completed for 2023-12-04.
+2024-05-10 19:43:41,873 - INFO: Buying of PCBL completed.
+2024-05-10 19:43:57,810 - INFO: Trade completed for 2023-12-05.
+2024-05-10 19:44:14,185 - INFO: Trade completed for 2023-12-06.
+2024-05-10 19:44:30,325 - INFO: Trade completed for 2023-12-07.
+2024-05-10 19:44:46,777 - INFO: Trade completed for 2023-12-08.
+2024-05-10 19:45:02,965 - INFO: Trade completed for 2023-12-09.
+2024-05-10 19:45:03,074 - INFO: Placed SELL order for MBL at Rs195.0.
+2024-05-10 19:45:18,964 - INFO: Trade completed for 2023-12-10.
+2024-05-10 19:45:18,964 - INFO: Selling of MBL completed.
+2024-05-10 19:45:35,294 - INFO: Placed 10 order for SMJC at Rs260.0
+2024-05-10 19:45:35,294 - INFO: Trade completed for 2023-12-11.
+2024-05-10 19:45:35,309 - INFO: Buying of SMJC completed.
+2024-05-10 19:45:51,636 - INFO: Placed 10 order for NIMB at Rs182.0
+2024-05-10 19:45:51,652 - INFO: Trade completed for 2023-12-12.
+2024-05-10 19:45:51,652 - INFO: Buying of NIMB completed.
+2024-05-10 19:46:07,981 - INFO: Trade completed for 2023-12-13.
+2024-05-10 19:46:24,496 - INFO: Trade completed for 2023-12-14.
+2024-05-10 19:46:40,744 - INFO: Trade completed for 2023-12-15.
+2024-05-10 19:46:56,808 - INFO: Trade completed for 2023-12-16.
+2024-05-10 19:47:13,042 - INFO: Trade completed for 2023-12-17.
+2024-05-10 19:47:36,652 - INFO: Trade completed for 2023-12-18.
+2024-05-10 19:47:53,730 - INFO: Trade completed for 2023-12-19.
+2024-05-10 19:48:10,231 - INFO: Trade completed for 2023-12-20.
+2024-05-10 19:48:26,703 - INFO: Trade completed for 2023-12-21.
+2024-05-10 19:48:43,561 - INFO: Trade completed for 2023-12-22.
+2024-05-10 19:48:59,842 - INFO: Trade completed for 2023-12-23.
+2024-05-10 19:49:17,186 - INFO: Trade completed for 2023-12-24.
+2024-05-10 19:49:37,676 - INFO: Trade completed for 2023-12-25.
+2024-05-10 19:50:05,178 - INFO: Trade completed for 2023-12-26.
+2024-05-10 19:50:36,874 - INFO: Trade completed for 2023-12-27.
+2024-05-10 19:50:37,261 - INFO: Placed SELL order for MEHL at Rs297.6.
+2024-05-10 19:51:44,013 - INFO: Trade completed for 2023-12-28.
+2024-05-10 19:51:44,013 - INFO: Selling of MEHL completed.
+2024-05-10 19:52:06,514 - INFO: Placed 10 order for SBL at Rs250.0
+2024-05-10 19:52:06,879 - INFO: Trade completed for 2023-12-29.
+2024-05-10 19:52:06,879 - INFO: Buying of SBL completed.
+2024-05-10 19:52:26,510 - INFO: Trade completed for 2023-12-30.
+2024-05-10 19:52:45,190 - INFO: Trade completed for 2023-12-31.
+2024-05-10 19:53:05,096 - INFO: Trade completed for 2024-01-01.
+2024-05-10 19:53:25,784 - INFO: Trade completed for 2024-01-02.
+2024-05-10 19:53:42,300 - INFO: Trade completed for 2024-01-03.
+2024-05-10 19:54:00,611 - INFO: Trade completed for 2024-01-04.
+2024-05-10 19:54:17,383 - INFO: Trade completed for 2024-01-05.
+2024-05-10 19:54:33,539 - INFO: Trade completed for 2024-01-06.
+2024-05-10 19:54:52,636 - INFO: Trade completed for 2024-01-07.
+2024-05-10 19:55:13,190 - INFO: Trade completed for 2024-01-08.
+2024-05-10 19:55:13,638 - INFO: Placed SELL order for NIMB at Rs174.8.
+2024-05-10 19:55:13,754 - INFO: Placed SELL order for SBL at Rs248.0.
+2024-05-10 19:55:34,363 - INFO: Trade completed for 2024-01-09.
+2024-05-10 19:55:34,363 - INFO: Selling of NIMB completed.
+2024-05-10 19:55:58,789 - INFO: Placed 10 order for RADHI at Rs241.9
+2024-05-10 19:55:59,268 - INFO: Trade completed for 2024-01-10.
+2024-05-10 19:55:59,269 - INFO: Selling of SBL completed.
+2024-05-10 19:56:38,642 - INFO: Placed 10 order for BARUN at Rs245.5
+2024-05-10 19:56:39,490 - INFO: Trade completed for 2024-01-11.
+2024-05-10 19:56:39,490 - INFO: Buying of RADHI completed.
+2024-05-10 19:57:23,902 - INFO: Trade completed for 2024-01-12.
+2024-05-10 19:57:23,903 - INFO: Buying of BARUN completed.
+2024-05-10 19:58:06,160 - INFO: Trade completed for 2024-01-13.
+2024-05-10 19:58:32,879 - INFO: Trade completed for 2024-01-14.
+2024-05-10 19:58:55,471 - INFO: Trade completed for 2024-01-15.
+2024-05-10 19:59:11,474 - INFO: Trade completed for 2024-01-16.
+2024-05-10 19:59:27,993 - INFO: Trade completed for 2024-01-17.
+2024-05-10 20:00:23,430 - INFO: Trade completed for 2024-01-18.
+2024-05-10 20:01:19,781 - INFO: Trade completed for 2024-01-19.
+2024-05-10 20:02:06,031 - INFO: Trade completed for 2024-01-20.
+2024-05-10 20:02:50,866 - INFO: Trade completed for 2024-01-21.
+2024-05-10 20:03:38,524 - INFO: Trade completed for 2024-01-22.
+2024-05-10 20:04:23,140 - INFO: Trade completed for 2024-01-23.
+2024-05-10 20:05:10,023 - INFO: Trade completed for 2024-01-24.
+2024-05-10 20:05:59,150 - INFO: Trade completed for 2024-01-25.
+2024-05-10 20:06:47,666 - INFO: Trade completed for 2024-01-26.
+2024-05-10 20:07:34,099 - INFO: Trade completed for 2024-01-27.
+2024-05-10 20:08:07,916 - INFO: Trade completed for 2024-01-28.
+2024-05-10 20:08:47,345 - INFO: Trade completed for 2024-01-29.
+2024-05-10 20:09:08,530 - INFO: Trade completed for 2024-01-30.
+2024-05-10 20:09:37,340 - INFO: Trade completed for 2024-01-31.
+2024-05-10 20:10:00,264 - INFO: Trade completed for 2024-02-01.
+2024-05-10 20:10:21,400 - INFO: Trade completed for 2024-02-02.
+2024-05-10 20:10:44,817 - INFO: Trade completed for 2024-02-03.
+2024-05-10 20:11:03,492 - INFO: Trade completed for 2024-02-04.
+2024-05-10 20:11:27,212 - INFO: Trade completed for 2024-02-05.
+2024-05-10 20:11:27,492 - INFO: Placed SELL order for PCBL at Rs204.0.
+2024-05-10 20:12:07,905 - INFO: Trade completed for 2024-02-06.
+2024-05-10 20:12:07,906 - INFO: Selling of PCBL completed.
+2024-05-10 20:12:38,394 - INFO: Trade completed for 2024-02-07.
+2024-05-10 20:13:12,351 - INFO: Trade completed for 2024-02-08.
+2024-05-10 20:13:49,587 - INFO: Trade completed for 2024-02-09.
+2024-05-10 20:14:14,177 - INFO: Trade completed for 2024-02-10.
+2024-05-10 20:14:39,234 - INFO: Trade completed for 2024-02-11.
+2024-05-10 20:15:05,136 - INFO: Trade completed for 2024-02-12.
+2024-05-10 20:15:31,252 - INFO: Trade completed for 2024-02-13.
+2024-05-10 20:16:00,452 - INFO: Trade completed for 2024-02-14.
+2024-05-10 20:16:35,986 - INFO: Trade completed for 2024-02-15.
+2024-05-10 20:17:05,810 - INFO: Trade completed for 2024-02-16.
+2024-05-10 20:17:38,329 - INFO: Trade completed for 2024-02-17.
+2024-05-10 20:18:09,260 - INFO: Trade completed for 2024-02-18.
+2024-05-10 20:18:37,395 - INFO: Trade completed for 2024-02-19.
+2024-05-10 20:19:05,106 - INFO: Trade completed for 2024-02-20.
+2024-05-10 20:19:33,293 - INFO: Trade completed for 2024-02-21.
+2024-05-10 20:20:01,360 - INFO: Trade completed for 2024-02-22.
+2024-05-10 20:20:24,957 - INFO: Trade completed for 2024-02-23.
+2024-05-10 20:20:47,395 - INFO: Trade completed for 2024-02-24.
+2024-05-10 20:20:47,880 - INFO: Placed SELL order for BARUN at Rs257.0.
+2024-05-10 20:21:18,157 - INFO: Trade completed for 2024-02-25.
+2024-05-10 20:21:18,158 - INFO: Selling of BARUN completed.
+2024-05-10 20:21:18,820 - INFO: Placed SELL order for RADHI at Rs247.8.
+2024-05-10 20:21:45,152 - INFO: Trade completed for 2024-02-26.
+2024-05-10 20:21:45,153 - INFO: Selling of RADHI completed.
+2024-05-10 20:22:09,552 - INFO: Placed 10 order for PMLI at Rs492.0
+2024-05-10 20:22:09,556 - INFO: Trade completed for 2024-02-27.
+2024-05-10 20:22:09,556 - INFO: Buying of PMLI completed.
+2024-05-10 20:22:33,595 - INFO: Trade completed for 2024-02-28.
+2024-05-10 20:22:59,288 - INFO: Placed 10 order for LSL at Rs158.1
+2024-05-10 20:22:59,299 - INFO: Trade completed for 2024-02-29.
+2024-05-10 20:22:59,299 - INFO: Buying of LSL completed.
+2024-05-10 20:23:22,723 - INFO: Trade completed for 2024-03-01.
+2024-05-10 20:23:48,013 - INFO: Trade completed for 2024-03-02.
+2024-05-10 20:23:48,256 - INFO: Placed SELL order for MHCL at Rs490.0.
+2024-05-10 20:23:48,356 - INFO: Placed SELL order for SMJC at Rs365.0.
+2024-05-10 20:24:16,406 - INFO: Trade completed for 2024-03-03.
+2024-05-10 20:24:16,407 - INFO: Selling of MHCL completed.
+2024-05-10 20:24:16,618 - INFO: Placed SELL order for LSL at Rs169.0.
+2024-05-10 20:24:38,636 - INFO: Trade completed for 2024-03-04.
+2024-05-10 20:24:38,636 - INFO: Selling of SMJC completed.
+2024-05-10 20:25:03,277 - INFO: Placed 10 order for GUFL at Rs618.0
+2024-05-10 20:25:03,349 - INFO: Trade completed for 2024-03-05.
+2024-05-10 20:25:03,349 - INFO: Selling of LSL completed.
+2024-05-10 20:25:31,205 - INFO: Placed 16 order for SINDU at Rs333.0
+2024-05-10 20:25:31,209 - INFO: Trade completed for 2024-03-06.
+2024-05-10 20:25:31,209 - INFO: Buying of GUFL completed.
+2024-05-10 20:25:57,047 - INFO: Trade completed for 2024-03-07.
+2024-05-10 20:25:57,048 - INFO: Buying of SINDU completed.
+2024-05-10 20:26:21,608 - INFO: Trade completed for 2024-03-08.
+2024-05-10 20:26:47,396 - INFO: Trade completed for 2024-03-09.
+2024-05-10 20:27:11,328 - INFO: Trade completed for 2024-03-10.
+2024-05-10 20:27:36,350 - INFO: Trade completed for 2024-03-11.
+2024-05-10 20:28:00,833 - INFO: Trade completed for 2024-03-12.
+2024-05-10 20:28:24,892 - INFO: Trade completed for 2024-03-13.
+2024-05-10 20:28:51,492 - INFO: Trade completed for 2024-03-14.
+2024-05-10 20:29:17,306 - INFO: Trade completed for 2024-03-15.
+2024-05-10 20:29:42,952 - INFO: Trade completed for 2024-03-16.
+2024-05-10 20:30:09,147 - INFO: Trade completed for 2024-03-17.
+2024-05-10 20:30:34,786 - INFO: Trade completed for 2024-03-18.
+2024-05-10 20:31:00,672 - INFO: Trade completed for 2024-03-19.
+2024-05-10 20:31:29,587 - INFO: Trade completed for 2024-03-20.
+2024-05-10 20:31:57,327 - INFO: Trade completed for 2024-03-21.
+2024-05-10 20:32:24,383 - INFO: Trade completed for 2024-03-22.
+2024-05-10 20:32:48,118 - INFO: Trade completed for 2024-03-23.
+2024-05-10 20:33:13,930 - INFO: Trade completed for 2024-03-24.
+2024-05-10 20:33:37,372 - INFO: Trade completed for 2024-03-25.
+2024-05-10 20:33:37,475 - INFO: Placed SELL order for ULHC at Rs331.0.
+2024-05-10 20:34:03,544 - INFO: Trade completed for 2024-03-26.
+2024-05-10 20:34:03,544 - INFO: Selling of ULHC completed.
+2024-05-10 20:34:28,497 - INFO: Placed 10 order for KSBBL at Rs359.0
+2024-05-10 20:34:28,783 - INFO: Trade completed for 2024-03-27.
+2024-05-10 20:34:28,784 - INFO: Buying of KSBBL completed.
+2024-05-10 20:34:54,359 - INFO: Trade completed for 2024-03-28.
+2024-05-10 20:35:19,553 - INFO: Trade completed for 2024-03-29.
+2024-05-10 20:35:44,932 - INFO: Trade completed for 2024-03-30.
+2024-05-10 20:36:10,277 - INFO: Trade completed for 2024-03-31.
+2024-05-10 20:36:37,309 - INFO: Trade completed for 2024-04-01.
+2024-05-10 20:37:03,475 - INFO: Trade completed for 2024-04-02.
+2024-05-10 20:37:30,036 - INFO: Trade completed for 2024-04-03.
+2024-05-10 20:37:56,261 - INFO: Trade completed for 2024-04-04.
+2024-05-10 20:38:22,244 - INFO: Trade completed for 2024-04-05.
+2024-05-10 20:38:49,107 - INFO: Trade completed for 2024-04-06.
+2024-05-10 20:38:49,220 - INFO: Placed SELL order for PMLI at Rs525.0.
+2024-05-10 20:38:49,532 - INFO: Placed SELL order for KSBBL at Rs357.9.
+2024-05-10 20:39:14,147 - INFO: Trade completed for 2024-04-07.
+2024-05-10 20:39:14,147 - INFO: Selling of PMLI completed.
+2024-05-10 20:39:40,151 - INFO: Placed 10 order for SMJC at Rs377.9
+2024-05-10 20:39:40,244 - INFO: Trade completed for 2024-04-08.
+2024-05-10 20:39:40,244 - INFO: Selling of KSBBL completed.
+2024-05-10 20:40:02,314 - INFO: Placed 10 order for BEDC at Rs361.9
+2024-05-10 20:40:02,404 - INFO: Trade completed for 2024-04-09.
+2024-05-10 20:40:02,404 - INFO: Buying of SMJC completed.
+2024-05-10 20:40:19,636 - INFO: Trade completed for 2024-04-10.
+2024-05-10 20:40:19,637 - INFO: Buying of BEDC completed.
+2024-05-10 20:40:36,856 - INFO: Trade completed for 2024-04-11.
+2024-05-10 20:40:54,154 - INFO: Trade completed for 2024-04-12.
+2024-05-10 20:41:10,983 - INFO: Trade completed for 2024-04-13.
+2024-05-10 20:41:27,881 - INFO: Trade completed for 2024-04-14.
+2024-05-10 20:41:45,030 - INFO: Trade completed for 2024-04-15.
+2024-05-10 20:42:02,181 - INFO: Trade completed for 2024-04-16.
+2024-05-10 20:42:19,988 - INFO: Trade completed for 2024-04-17.
+2024-05-10 20:42:37,353 - INFO: Trade completed for 2024-04-18.
+2024-05-10 20:42:54,184 - INFO: Trade completed for 2024-04-19.
+2024-05-10 20:43:11,330 - INFO: Trade completed for 2024-04-20.
+2024-05-10 20:43:11,583 - INFO: Placed SELL order for SMJC at Rs372.0.
+2024-05-10 20:43:28,586 - INFO: Trade completed for 2024-04-21.
+2024-05-10 20:43:28,586 - INFO: Selling of SMJC completed.
+2024-05-10 20:43:28,689 - INFO: Placed SELL order for GUFL at Rs755.0.
+2024-05-10 20:43:56,985 - INFO: Placed 10 order for NGPL at Rs310.0
+2024-05-10 20:43:57,318 - INFO: Trade completed for 2024-04-22.
+2024-05-10 20:43:57,319 - INFO: Selling of GUFL completed.
+2024-05-10 20:44:51,158 - INFO: Placed 10 order for NFS at Rs432.0
+2024-05-10 20:44:51,176 - INFO: Placed 10 order for GRDBL at Rs390.0
+2024-05-10 20:44:51,313 - INFO: Trade completed for 2024-04-23.
+2024-05-10 20:44:51,314 - INFO: Buying of NGPL completed.
+2024-05-10 20:44:51,314 - INFO: Buying of GRDBL completed.
+2024-05-10 20:45:26,164 - INFO: Trade completed for 2024-04-24.
+2024-05-10 20:45:26,164 - INFO: Buying of NFS completed.
+2024-05-10 20:46:04,735 - INFO: Trade completed for 2024-04-25.
+2024-05-10 20:46:56,437 - INFO: Trade completed for 2024-04-26.
+2024-05-10 20:47:56,243 - INFO: Trade completed for 2024-04-27.
+2024-05-10 20:48:29,634 - INFO: Placed 10 order for AHPC at Rs163.0
+2024-05-10 20:48:29,650 - INFO: Trade completed for 2024-04-28.
+2024-05-10 20:48:29,650 - INFO: Buying of AHPC completed.
+2024-05-10 20:49:07,383 - INFO: Trade completed for 2024-04-29.
+2024-05-10 20:49:08,532 - INFO: Placed SELL order for AHPC at Rs165.8.
+2024-05-10 20:49:34,653 - INFO: Trade completed for 2024-04-30.
+2024-05-10 20:49:34,653 - INFO: Selling of AHPC completed.
+2024-05-10 20:50:13,243 - INFO: Trade completed for 2024-05-01.
+2024-05-10 20:50:38,964 - INFO: Placed 10 order for LSL at Rs147.2
+2024-05-10 20:50:38,971 - INFO: Trade completed for 2024-05-02.
+2024-05-10 20:50:38,971 - INFO: Buying of LSL completed.
+2024-05-10 20:51:30,196 - INFO: Trade completed for 2024-05-03.
+2024-05-10 20:51:55,042 - INFO: Trade completed for 2024-05-04.
+2024-05-10 23:39:34,133 - INFO: Trade completed for 2024-05-04.
+2024-05-10 23:40:16,205 - INFO: Trade completed for 2024-05-05.
+2024-05-10 23:40:38,105 - INFO: Trade completed for 2024-05-06.
+2024-05-10 23:40:38,405 - INFO: Placed SELL order for NGPL at Rs303.0.
+2024-05-10 23:41:05,581 - INFO: Trade completed for 2024-05-07.
+2024-05-10 23:41:05,581 - INFO: Selling of NGPL completed.
+2024-05-10 23:41:31,822 - INFO: Trade completed for 2024-05-08.
+2024-05-10 23:41:55,540 - INFO: Placed 10 order for DHPL at Rs198.0
+2024-05-10 23:41:55,602 - INFO: Trade completed for 2024-05-09.
+2024-05-12 12:19:45,017 - INFO: Trade completed for 2024-05-09.
+2024-05-12 12:19:45,017 - INFO: Buying of DHPL completed.
+2024-05-12 12:20:11,664 - INFO: Trade completed for 2024-05-10.
+2024-05-12 12:20:36,749 - INFO: Trade completed for 2024-05-11.
