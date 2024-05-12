@@ -32,7 +32,10 @@ def macd(df, lag=0):
                 df['MACD_12_26_9'].iloc[i-2] < df['MACDs_12_26_9'].iloc[i-2],
                 ])):
                 macd_value = 1
-            elif df['MACD_12_26_9'].iloc[i] < df['MACDs_12_26_9'].iloc[i]:
+            elif (df['MACD_12_26_9'].iloc[i] < df['MACDs_12_26_9'].iloc[i] and any([
+                df['MACD_12_26_9'].iloc[i-1] > df['MACDs_12_26_9'].iloc[i-1],
+                df['MACD_12_26_9'].iloc[i-2] > df['MACDs_12_26_9'].iloc[i-2],
+                ])):
                 macd_value = -1
     return macd_value
 
