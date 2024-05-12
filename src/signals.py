@@ -2,6 +2,7 @@ from Stock import *
 import pandas as pd
 from datetime import datetime
 import pandas_ta as ta
+from termcolor import cprint
 
 
 def macd(df, lag=0):
@@ -137,7 +138,13 @@ def hybrid(df,lag=0):
 
 
 if __name__== "__main__":
-    print("Stock\tMACD\tEMA\tRSI\tBBands")
+    print("Stock\tMACD\tEMA\tRSI\tBBands\tAction")
     for stock in [Stock(x) for x in COMPANIES if Stock(x).trade]:
         df =  pd.read_csv(stock.file)
-        print(f'{stock()}\t{macd(df)}\t{ema_crossover(df)}\t{rsi(df)}\t{bbands(df)}')
+        macd_value = macd(df)
+        ema_value = ema_crossover(df)
+        rsi_value = rsi(df)
+        bbands_value = bbands(df)
+        sum = ema_value + macd_value + rsi_value + bbands_value 
+        action = "Buy" if sum>2 else "Sell" if sum < -2 else ''
+        cprint(f'{stock()}\t{macd_value}\t{ema_value}\t{rsi_value}\t{bbands_value}\t{action}',color='green' if sum>=2 else'red' if sum<=-2 else 'white')
