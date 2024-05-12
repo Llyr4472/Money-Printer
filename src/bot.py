@@ -171,7 +171,7 @@ def simulate(portfolio_name,end_date=datetime.today().date(),strategy='hybrid'):
         logging.error("Portfolio not found.")
         return
 
-    date = datetime.strptime(portfolio['last_analyzed_date'],"%Y-%m-%d").date()
+    date = datetime.strptime(portfolio['last_analyzed_date'],"%Y-%m-%d").date() + timedelta(1)
     while(date < end_date):
         process_orders(portfolio,date)
         #load processed portfolio
