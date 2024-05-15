@@ -3,9 +3,6 @@ name: Run Bot
 on:
   workflow_dispatch:
 
-permissions:
-  contents: read
-
 jobs:
 
   run-python-script:
