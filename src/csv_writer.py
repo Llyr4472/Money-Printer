@@ -5,6 +5,7 @@ import pandas as pd
 from datetime import datetime,timedelta
 import pandas_ta as ta
 import numpy as np
+import json
 
 
 def to_csv(stock,sorted=True,reset=False):
@@ -46,6 +47,17 @@ def sort(stock):
         print(f"{stock.file} sorted")
 
 if __name__ == "__main__":
+    with open('data/info.json') as f:
+        info = json.load(f)
+    if info["updated_on"] == str(datetime.now().date()):
+        print("Already updated today")
+        return
+    
     for symbol in [Stock(x) for x in COMPANIES if Stock(x).trade] :
         to_csv(symbol)
+
+
+    info["updated_on"] = str(datetime.now().date())
+    json.dump(info,open("data/info.json",'w'),indent=4)
+    
     print("All csv dumped successfully")
