@@ -3,6 +3,7 @@ import pandas as pd
 from datetime import datetime
 import pandas_ta as ta
 from termcolor import cprint
+import sys
 
 
 def macd(df, lag=0):
@@ -139,14 +140,41 @@ def hybrid(df,lag=0):
     return 0
 
 
-if __name__== "__main__":
-    print("Stock\tMACD\tEMA\tRSI\tBBands\tAction")
-    for stock in [Stock(x) for x in COMPANIES if Stock(x).trade]:
+def main():
+    
+    # Get the stock ticker symbol from the command line
+    if len(sys.argv)>1 and sys.argv[1] != 'all':
+        stocks = [Stock(sys.argv[1])]
+    else:
+        stocks = [Stock(x) for x in COMPANIES if Stock(x).trade]
+    
+    # Get the lag value from the command line
+    if len(sys.argv)>2:
+        lag = int(sys.argv[2])
+    else:
+        lag = 2
+    
+    # Get the intended action from the command line
+    if len(sys.argv)>3 and sys.argv[3] in ['buy','sell']:
+        intent = sys.argv[3]
+    else:
+        intent = None
+    
+    with open('data/info.json') as f:
+        date = json.load(f)['updated_on']
+    
+    print(f"Lag: {lag}\tintent: {intent}\t Date:{date}")
+    print("Stock\tMACD\tEMA\tRSI\tBBands\tAction\tChart")
+    for stock in stocks:
         df =  pd.read_csv(stock.file)
-        macd_value = macd(df)
-        ema_value = ema_crossover(df)
-        rsi_value = rsi(df)
+        macd_value = macd(df,lag=lag)
+        ema_value = ema_crossover(df,lag=lag)
+        rsi_value = rsi(df,lag=lag)
         bbands_value = bbands(df)
         sum = ema_value + macd_value + rsi_value + bbands_value 
-        action = "Buy" if sum>2 else "Sell" if sum < -2 else ''
-        cprint(f'{stock()}\t{macd_value}\t{ema_value}\t{rsi_value}\t{bbands_value}\t{action}',color='green' if sum>=2 else'red' if sum<=-2 else 'white')
+        action = "buy" if sum>=2 else "sell" if sum < -2 else ''
+        if intent == None or intent == action:
+            cprint(f'{stock()}\t{macd_value}\t{ema_value}\t{rsi_value}\t{bbands_value}\t{action}\thttps://nepsealpha.com/trading/chart?symbol={stock.symbol}',color='green' if sum>=2 else'red' if sum<=-2 else 'white')
+
+if __name__ == "__main__":
+    main()
