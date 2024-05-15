@@ -2,3 +2,4 @@ pandas==2.2.1
 pandas_ta==0.3.14b0
 Requests==2.31.0
 tweepy==4.14.0
+termcolor
