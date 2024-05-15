@@ -2,8 +2,8 @@
     "portfolio_name": "portfolio-2020",
     "owner": "Llyr4472",
     "creation_date": "2020-01-01",
-    "last_analyzed_date": "2024-05-11",
-    "available_funds": 3073.5,
+    "last_analyzed_date": "2024-05-14",
+    "available_funds": 3563.5,
     "reserved": 0.0,
     "assets": [
         {
@@ -33,21 +33,24 @@
             "quantity": 10,
             "price": 432.0,
             "date": "2024-04-25"
-        },
+        }
+    ],
+    "orders": [
         {
             "symbol": "LSL",
             "name": "Laxmi Sunrise Bank Limited",
             "quantity": 10,
-            "price": 147.2,
-            "date": "2024-05-03"
+            "price": 153.9,
+            "type": "sell",
+            "date": "2024-05-13"
         },
         {
-            "symbol": "DHPL",
-            "name": "Dibyashwori Hydropower Ltd.",
+            "symbol": "SHEL",
+            "name": "Singati Hydro Energy Limited",
             "quantity": 10,
-            "price": 198.0,
-            "date": "2024-05-10"
+            "price": 156.9,
+            "type": "sell",
+            "date": "2024-05-14"
         }
-    ],
-    "orders": []
+    ]
 }
