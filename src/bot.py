@@ -6,6 +6,7 @@ import json
 import pandas as pd
 import numpy as np
 import os
+from pathlib import Path
 from multiprocessing import Pool
 
 def trade(portfolio,date=datetime.today,strategy='hybrid'):
@@ -186,6 +187,6 @@ def simulate(portfolio_name,end_date=datetime.today().date(),strategy='hybrid'):
         date += timedelta(1)
 
 if __name__ == "__main__":
-    files = os.listdir('data\portfolios') 
+    files = [p.stem for p in Path('data/portfolios').glob('*')]
     with Pool(processes=os.cpu_count()) as pool:
         pool.map(simulate, [file.split('.')[0] for file in files])
