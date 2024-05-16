@@ -49,9 +49,6 @@ def sort(stock):
 if __name__ == "__main__":
     with open('data/info.json') as f:
         info = json.load(f)
-    if info["updated_on"] == str(datetime.now().date()):
-        print("Already updated today")
-        return
     
     for symbol in [Stock(x) for x in COMPANIES if Stock(x).trade] :
         to_csv(symbol)
