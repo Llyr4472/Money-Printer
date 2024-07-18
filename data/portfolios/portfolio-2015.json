@@ -2,8 +2,8 @@
     "portfolio_name": "portfolio-2015",
     "owner": "Llyr4472",
     "creation_date": "2025-01-01",
-    "last_analyzed_date": "2024-05-14",
-    "available_funds": 1567.5,
+    "last_analyzed_date": "2024-07-17",
+    "available_funds": 1585.5,
     "reserved": 0.0,
     "assets": [
         {
@@ -12,16 +12,14 @@
             "quantity": 10,
             "price": 342.0,
             "date": "2024-03-28"
+        },
+        {
+            "symbol": "SBI",
+            "name": "Nepal SBI Bank Limited",
+            "quantity": 10,
+            "price": 300.0,
+            "date": "2024-06-13"
         }
     ],
-    "orders": [
-        {
-            "symbol": "NGPL",
-            "name": "Ngadi Group Power Ltd.",
-            "quantity": 10,
-            "price": 309.8,
-            "type": "sell",
-            "date": "2024-05-14"
-        }
-    ]
+    "orders": []
 }
