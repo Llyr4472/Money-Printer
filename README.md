@@ -68,8 +68,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Contact
 
-For questions or inquiries about the Money-Printer project, please contact [Discord](https://discord.gg/MaCaJCN7).
+For questions or inquiries about the Money-Printer project, please contact [Discord](https://discord.gg/Xn4erZuZ).
 
 ### Acknowledgments
 
-Special thanks to the creators and maintainers of the libraries and resources used in this project, including Pandas, Requests, and Pandas TA.
+Special thanks to the creators and maintainers of the libraries used in this project, including Pandas, Requests, and Pandas TA.
