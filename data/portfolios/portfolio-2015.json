@@ -2,24 +2,26 @@
     "portfolio_name": "portfolio-2015",
     "owner": "Llyr4472",
     "creation_date": "2025-01-01",
-    "last_analyzed_date": "2024-09-22",
-    "available_funds": 1585.5,
-    "reserved": 0.0,
+    "last_analyzed_date": "2024-10-06",
+    "available_funds": 4157.5,
+    "reserved": 2450.0,
     "assets": [
-        {
-            "symbol": "BFC",
-            "name": "Best Finance Company Ltd.",
-            "quantity": 10,
-            "price": 342.0,
-            "date": "2024-03-28"
-        },
         {
             "symbol": "SBI",
             "name": "Nepal SBI Bank Limited",
             "quantity": 10,
-            "price": 300.0,
-            "date": "2024-06-13"
+            "price": 443.0,
+            "date": "2024-10-03"
         }
     ],
-    "orders": []
+    "orders": [
+        {
+            "symbol": "PRVU",
+            "name": "Prabhu  Bank Limited",
+            "quantity": 10,
+            "price": 245.0,
+            "type": "buy",
+            "date": "2024-10-06"
+        }
+    ]
 }

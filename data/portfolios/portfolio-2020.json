@@ -2,31 +2,10 @@
     "portfolio_name": "portfolio-2020",
     "owner": "Llyr4472",
     "creation_date": "2020-01-01",
-    "last_analyzed_date": "2024-09-22",
-    "available_funds": 4211.5,
-    "reserved": 0.0,
+    "last_analyzed_date": "2024-10-06",
+    "available_funds": 9955.7,
+    "reserved": 12825.0,
     "assets": [
-        {
-            "symbol": "SINDU",
-            "name": "Sindhu Bikash Bank Ltd",
-            "quantity": 16,
-            "price": 333.0,
-            "date": "2024-03-08"
-        },
-        {
-            "symbol": "GRDBL",
-            "name": "Green Development Bank Ltd.",
-            "quantity": 10,
-            "price": 390.0,
-            "date": "2024-04-24"
-        },
-        {
-            "symbol": "PRVU",
-            "name": "Prabhu  Bank Limited",
-            "quantity": 10,
-            "price": 148.0,
-            "date": "2024-07-09"
-        },
         {
             "symbol": "EDBL",
             "name": "Excel Development Bank Ltd.",
@@ -49,12 +28,29 @@
             "date": "2024-09-16"
         },
         {
-            "symbol": "RADHI",
-            "name": "Radhi Bidyut Company Ltd",
+            "symbol": "SBI",
+            "name": "Nepal SBI Bank Limited",
             "quantity": 10,
-            "price": 400.0,
-            "date": "2024-09-18"
+            "price": 443.0,
+            "date": "2024-10-04"
         }
     ],
-    "orders": []
+    "orders": [
+        {
+            "symbol": "NRN",
+            "name": "NRN Infrastructure and Development Limited",
+            "quantity": 10,
+            "price": 964.0,
+            "type": "buy",
+            "date": "2024-10-06"
+        },
+        {
+            "symbol": "PRVU",
+            "name": "Prabhu  Bank Limited",
+            "quantity": 13,
+            "price": 245.0,
+            "type": "buy",
+            "date": "2024-10-06"
+        }
+    ]
 }
