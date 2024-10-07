@@ -8,7 +8,7 @@
 
 How it works (or is supposed to work):
 * Get nepse data
-* Generate money making signals
+* Generate money-making signals
 * Make money
 
 
@@ -19,17 +19,17 @@ How it works (or is supposed to work):
         ```bash
         git clone https://www.github.com/llyr4472/money-printer 
         ```
-    2. Open terminal, navigate to project.
-    3. Run following in terminal to install dependencies.
+    2. Open the terminal, and navigate to the project.
+    3. Run the following in the terminal to install dependencies.
         ```bash
         pip install -r requirements.txt
         ```
 
 2. **Configuration (Optional):**
-    - Adjust filtering criteria in `stocks_json.py` to define tradable stocks.
+    - Adjust filtering criteria in `stocks_data.py` to define tradable stocks.
 
 3. **Data Preparation (Optional):**
-    - Run `stocks_json.py` to generate the `stocks.json` file containing filtered company data.
+    - Run `stocks_data.py` to generate the `stocks.json` file containing filtered company data.
 
 4. **Customization (Optional):**
     - Explore and customize the logic in `signals.py` to adjust signal generation parameters.
