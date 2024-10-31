@@ -2,9 +2,9 @@
     "portfolio_name": "portfolio-2020",
     "owner": "Llyr4472",
     "creation_date": "2020-01-01",
-    "last_analyzed_date": "2024-10-06",
-    "available_funds": 9955.7,
-    "reserved": 12825.0,
+    "last_analyzed_date": "2024-10-30",
+    "available_funds": 2571.7000000000007,
+    "reserved": 0.0,
     "assets": [
         {
             "symbol": "EDBL",
@@ -21,36 +21,47 @@
             "date": "2024-09-15"
         },
         {
-            "symbol": "BHL",
-            "name": "Balephi Hydropower Limited",
-            "quantity": 10,
-            "price": 455.4,
-            "date": "2024-09-16"
-        },
-        {
             "symbol": "SBI",
             "name": "Nepal SBI Bank Limited",
             "quantity": 10,
             "price": 443.0,
             "date": "2024-10-04"
-        }
-    ],
-    "orders": [
+        },
         {
             "symbol": "NRN",
             "name": "NRN Infrastructure and Development Limited",
             "quantity": 10,
             "price": 964.0,
-            "type": "buy",
-            "date": "2024-10-06"
+            "date": "2024-10-07"
         },
         {
             "symbol": "PRVU",
             "name": "Prabhu  Bank Limited",
             "quantity": 13,
             "price": 245.0,
-            "type": "buy",
-            "date": "2024-10-06"
+            "date": "2024-10-08"
+        },
+        {
+            "symbol": "HIDCL",
+            "name": "Hydorelectricity Investment and Development Company Ltd",
+            "quantity": 10,
+            "price": 282.1,
+            "date": "2024-10-08"
+        },
+        {
+            "symbol": "SAPDBL",
+            "name": "Saptakoshi Development Bank Ltd",
+            "quantity": 10,
+            "price": 556.0,
+            "date": "2024-10-09"
+        },
+        {
+            "symbol": "SANIMA",
+            "name": "Sanima Bank Limited",
+            "quantity": 10,
+            "price": 342.3,
+            "date": "2024-10-11"
         }
-    ]
+    ],
+    "orders": []
 }
