@@ -2,9 +2,9 @@
     "portfolio_name": "portfolio-2015",
     "owner": "Llyr4472",
     "creation_date": "2025-01-01",
-    "last_analyzed_date": "2024-10-06",
-    "available_funds": 4157.5,
-    "reserved": 2450.0,
+    "last_analyzed_date": "2024-10-30",
+    "available_funds": 1336.5,
+    "reserved": 0.0,
     "assets": [
         {
             "symbol": "SBI",
@@ -12,16 +12,21 @@
             "quantity": 10,
             "price": 443.0,
             "date": "2024-10-03"
-        }
-    ],
-    "orders": [
+        },
         {
             "symbol": "PRVU",
             "name": "Prabhu  Bank Limited",
             "quantity": 10,
             "price": 245.0,
-            "type": "buy",
-            "date": "2024-10-06"
+            "date": "2024-10-07"
+        },
+        {
+            "symbol": "HIDCL",
+            "name": "Hydorelectricity Investment and Development Company Ltd",
+            "quantity": 10,
+            "price": 282.1,
+            "date": "2024-10-08"
         }
-    ]
+    ],
+    "orders": []
 }
