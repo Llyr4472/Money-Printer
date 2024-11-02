@@ -4,3 +4,4 @@ dump.json
 .vscode/
 temp/
 *.config
+.venv
