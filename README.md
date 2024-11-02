@@ -1,29 +1,29 @@
-[![GitHub stars](https://img.shields.io/github/stars/LLyr4472/money-printer.svg?style=flat-square)](https://github.com/LLyr4472/money-printer/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/LLyr4472/nepse-wizard.svg?style=flat-square)](https://github.com/LLyr4472/nepse-wizard/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Python version](https://img.shields.io/badge/Python-3.11.1-blue.svg?style=flat-square)](https://www.python.org/downloads/)
-[![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/LLyr4472/money-printer/issues)
+[![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/LLyr4472/nepse-wizard/issues)
 
 
-## Money-Printer [Beta]
+## Nepse Wizard [Beta]
 
 How it works (or is supposed to work):
 * Get nepse data
-* Generate money-making signals
-* Make money
+* Generate magical signals
+* Backtest & simulate the strategy
 
 
 ### Getting Started
 
 1. **Installation:** Install the required libraries using pip:
     1. Download  or clone this repository onto your local machine.
-        ```bash
-        git clone https://www.github.com/llyr4472/money-printer 
-        ```
+        
+        git clone https://www.github.com/llyr4472/nepse-wizard 
+        
     2. Open the terminal, and navigate to the project.
     3. Run the following in the terminal to install dependencies.
-        ```bash
+        
         pip install -r requirements.txt
-        ```
+        
 
 2. **Configuration (Optional):**
     - Adjust filtering criteria in `stocks_data.py` to define tradable stocks.
@@ -68,7 +68,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Contact
 
-For questions or inquiries about the Money-Printer project, please contact [Discord](https://discord.gg/Xn4erZuZ).
+For questions or inquiries about the Nepse Wizard project, please contact [Discord](https://discord.gg/Xn4erZuZ).
 
 ### Acknowledgments
 
